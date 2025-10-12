@@ -3,28 +3,16 @@
     "ruta": "3",
     "tramo": "CABA - Cañuelas",
     "coordinates": {
-      "startPoint": [
-        -32,
-        -60
-      ],
-      "endPoint": [
-        -35,
-        -70
-      ]
+      "startPoint": [-34.6620, -58.5180],
+      "endPoint": [-35.0262, -58.7447]
     }
   },
   {
     "ruta": "3",
     "tramo": "Cañuelas - Azul",
     "coordinates": {
-      "startPoint": [
-        -32,
-        -60
-      ],
-      "endPoint": [
-        -35,
-        -70
-      ]
+      "startPoint": [-35.0262, -58.7447],
+      "endPoint": [-36.7920, -59.8404]
     }
   },
   {

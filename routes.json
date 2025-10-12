@@ -1,0 +1,9144 @@
+[
+  {
+    "ruta": "3",
+    "tramo": "CABA - Cañuelas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Cañuelas - Azul",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Azul - Chillar",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Chillar - Juarez",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Juarez - Gonzalez Chavez",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Gonzalez Chavez - Tres Arroyos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Tres Arroyos - Cnel. Dorrego",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Cnel. Dorrego - Bajo Hondo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Bajo Hondo - Emp. RN 229",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Emp. RN N° 229 - El Triángulo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "El Triángulo - Ex J. N. Granos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Ex J. N. Granos - Avda. G. Torres",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Avda. G. Torres - Emp. RN 33",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Emp. RN N° 33 - Emp. RN N° 22",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Emp. RN 22 - Tte.Origone",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Tte.Origone - Pedro Luro",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Pedro Luro - Stroeder",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Stroeder - Patagones",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "5",
+    "tramo": "Lujan - Lte. La Pampa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "CABA - Luján",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Luján - Lte. Santa Fe",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "8",
+    "tramo": "Pilar - Lte. Santa Fe",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "CABA - Campana",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Campana - Lte. Santa Fe",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Zarate - Lte. Entre Rios",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "22",
+    "tramo": "Empalme R.N.3 - Medanos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "22",
+    "tramo": "Medanos - Lte.con La Pampa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "22",
+    "tramo": "Lte. La Pampa - Rio Colorado",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "Emp. RN N° 3 - Emp. Ex RN N° 33",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "Emp. Ex RN N° 33 - La Viticola",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "La Viticola - Tornquist",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "Tornquist - Pigüé",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "Pigüé - Guamini",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "Guamini - Trenque Lauquen",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "Trenque Lauquen - Gral. Villegas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "Gral. Villegas - Lte. Santa Fe",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Bahía Blanca - Nueva Roma",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Nueva Roma - San Germán",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "San Germán - Lte.  La Pampa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "San Nicolás - Pergamino",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "Pergamino - Junín",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "Junín - Lte. La Pampa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "193",
+    "tramo": "Int. RN Nº 9 - Int. RN Nº 8",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "205",
+    "tramo": "Cañuelas - Int. RP 51",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "205",
+    "tramo": "Int. RP 51 - Bolivar",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "205",
+    "tramo": "Cañuelas - Emp. RN 3",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "226",
+    "tramo": "Mar del Plata - Olavarria",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "226",
+    "tramo": "Olavarria - Gral. Villegas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "228",
+    "tramo": "Necochea - Acc. a San Cayetano",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "228",
+    "tramo": "Acc. a San Cayetano - Camp. A Belloq",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "228",
+    "tramo": "Camp. A Belloq - Tres Arroyos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "229",
+    "tramo": "Emp. R.N.3 - B. Marisol P. Alta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "249",
+    "tramo": "Emp. R.N.3 - Emp. R.N. 229 P. Alta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "252",
+    "tramo": "Rotonda V. Sarsfield - Emp. RN N° 3",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "252",
+    "tramo": "Emp RN N° 3 - Puente La Niña",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1V03",
+    "tramo": "Emp. R.N. N° 3 - Rotonda Ex Indiada",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A-001",
+    "tramo": "Puente La Noria - Emp. Avda. Lugones y Cantilo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A-017",
+    "tramo": "RP N° 40(Merlo) - RN N° 3 (La Matanza)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A-017",
+    "tramo": "RN N° 3 (La Matanza) - KM 47 (Ezeiza)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A-017",
+    "tramo": "KM 47 (Ezeiza) - RP N° 210 (Guernica)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Au. Ezeiza Cañuelas",
+    "tramo": "Fin AU Jorge Newbery - Cañuelas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Au. Riccheri",
+    "tramo": "AV. Gral. Paz - Aeropuerto Ezeiza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Av. Jorge Newbery",
+    "tramo": "AU Riccheri (Dist. El Trébol) - AU Ezeiza - Cañuelas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Puentes Riachuelo",
+    "tramo": "Puente Alsina y accesos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Puentes Riachuelo",
+    "tramo": "Puente Avellaneda y accesos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Puentes Riachuelo",
+    "tramo": "Puente Pueyrredon y accesos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Puentes Riachuelo",
+    "tramo": "Puente Victorino de la Plaza y accesos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Puentes Riachuelo",
+    "tramo": "Puente La Noria y accesos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Lte. Con La Rioja - Fin Avda. Circunvalación",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Fín Avda. Circunvalación - Lte. Con Tucumán",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Emp. RN 60 - Belén",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Belén - Río Agua Clara",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Río Agua Clara - Río Las Cuevas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Río Las Cuevas - Santa María",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Santa María -Lte. Con Tucumán",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Lte. Con Córdoba - Emp. RN 157",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Emp. RN 157 - Emp RP 33",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Emp. RP 33 - Emp. RN 38",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Emp. RN 38 - Lte. Con La Rioja",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Lte. Con La Rioja - Tinogasta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Tinogasta - Fiambalá",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Fiambalá - Cortaderas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Cortaderas - Lte. Int. Con Chile",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "64",
+    "tramo": "Lte. Con Sgo. Del Estero - Lte. Con Tucuman",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "157",
+    "tramo": "Emp. RN 60 - Lte. Sgo. Del Estero",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "11",
+    "tramo": "Lte. Con Sta. Fe - Resistencia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "11",
+    "tramo": "Resistencia - Lte. Con Formosa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "16",
+    "tramo": "Pte. Gral. M. Belgrano - Emp. RN 11",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "16",
+    "tramo": "Emp. RN 11 - Emp. RN 95",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "16",
+    "tramo": "Emp. RN 95 - Pampa del Infierno",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "16",
+    "tramo": "Pampa del Infierno - Lte. Sgo. Del Estero",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "16",
+    "tramo": "Lte. Sgo. Del Estero - Lte. Con Salta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "89",
+    "tramo": "Avia Terai - Gral. Pinedo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "89",
+    "tramo": "Gral. Pinedo -Lte. Sgo. Del Estero",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "95",
+    "tramo": "Lte. Con Sta. Fe - Emp. RN 16",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "95",
+    "tramo": "Emp. RN 16 - Emp. RP 9",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "95",
+    "tramo": "Emp. RP 9 - Emp. RP 3",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "95",
+    "tramo": "Emp. RP 3 - Lte. Con Formosa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Aº Verde - Pto.Madryn",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Pto.Madryn - Trelew",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Trelew - Garayalde",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Garayalde - C.Rivadavia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "C.Rivadavia - Lte.Sta.Cruz",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "25",
+    "tramo": "Rawson - Las Plumas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "25",
+    "tramo": "Las Plumas - Los Altares",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "25",
+    "tramo": "Los Altares - Paso de Indios",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "25",
+    "tramo": "Paso de Indios - Tecka",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "26",
+    "tramo": "C. Rivadavia - Sarmiento",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "26",
+    "tramo": "Sarmiento - Emp. RN 40",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Lte. Sta. Cruz - Rio Mayo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Rio Mayo - Emp. RN 26",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Emp. RN 26 - Gob.Costa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Gob.Costa - Tecka",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Tecka - Emp. RN 259",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Emp. RN 259 - Acc. a Cholila",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Acc.Cholila - El Bolson",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "259",
+    "tramo": "Emp. RN 40 - Esquel",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "259",
+    "tramo": "Esquel - Trevelin",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "259",
+    "tramo": "Trevelin - Lte. Con Chile",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "260",
+    "tramo": "Emp. RN 40 - Lte. Con Chile",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1S40",
+    "tramo": "Lte. con Rio Negro - El Maiten",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1S40",
+    "tramo": "El Maiten - Emp. RP 70",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1S40",
+    "tramo": "Emp. RP 70 - Emp. RN 40",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Lte. C/Santa Fe - Lte. C/San Luis",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "8",
+    "tramo": "Lte. C/Santa Fe -Acc. a La Carlota",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "8",
+    "tramo": "Acc. a La Carlota - Int. RN 36",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "8",
+    "tramo": "Int. RN 36 - Int. RP 24 (Acc, a Sampacho)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "8",
+    "tramo": "Int. RP 24 (Acc.a Sampacho) - Lte. con San Luis",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Lte. C/Santa Fe - Pilar",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Pilar - Córdoba",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Córdoba - Jesús María (entrada)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Jesús María ( Entrada ) - Jesús María ( Salida )",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Jesús María (salida) - Lte. Sgo del Estero",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "19",
+    "tramo": "San Francisco - Cda. Jean Marie",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "19",
+    "tramo": "Cda. Jean Marie - Arroyito",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "19",
+    "tramo": "Arroyito - Tránsito",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "19",
+    "tramo": "Tránsito - Río Primero",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "19",
+    "tramo": "Río Primero - Córdoba",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "20",
+    "tramo": "Córdoba - Emp RN 38",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "20",
+    "tramo": "Villa Dolores - Lte. Con San Luis",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "20",
+    "tramo": "Villa Dolores - Lte. C/San Luis",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Lte. Con La Pampa -Acc. a del Campillo (int. RP 27)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Acc. a del Campillo (int. RP 27) - Acc. a Vicuña Mackena",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Acc. a Vicuña Mackena - Acc. a Sampacho (int. RP 24)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Acc. a Sampacho (int. RP 24) - Int. RN 8 (Santa Catalina)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "36",
+    "tramo": "Emp. RN 8 - Int. RN A-005",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "36",
+    "tramo": "Río Cuarto - Córdoba",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Int. RN 9 - Int RP 16 / Acc. a Dean Funes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Int RP 16 / Acc. a Dean Funes - Quilino",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Quilino - Lte. C/Catamarca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Int.RN 20 - Bialet Masse (Int.RP E55)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Bialet Masse (Int.RP E55) - Int.RP E66",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Int.RP E66 - Acc. a la Cumbre - Cruz del Eje",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Acc. a la Cumbre - Cruz del Eje - Lte. C/ La Rioja",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "148",
+    "tramo": "Lte. C/San Luis - Emp RP 14",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "158",
+    "tramo": "Int. RN 19 (San Francisco) - Int. RP 13 (Las Varillas)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "158",
+    "tramo": "Int. RP 13 - Villa Maria",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "158",
+    "tramo": "Villa Maria - General Deheza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "158",
+    "tramo": "General Deheza - Rio Cuarto",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A005",
+    "tramo": "Emp RN 8 -Emp RN 36",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A019",
+    "tramo": "Avda. Circunvalación de Córdoba",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Lte. Entre Ríos - Esquina",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Esquina - Goya",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Goya - Cuatro Bocas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Cuatro Bocas - Saladas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Saladas - Corrientes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Corrientes - Itatí",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Itatí - Ituzaingó",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Ituzaingo - Lte. Con Misiones",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Lte. Entre Ríos - Cuatro Bocas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Cuatro Bocas - Bompland",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Bompland - Paso de los Libres",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Paso de los Libres - Yapeyú",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Yapeyú - Santo Tomé",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Santo Tomé - Gdor. Virasoro",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Gdor. Virasoro - Lte. Con Misiones",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "117",
+    "tramo": "Acc. a Paso de los Libres - Acc. Aeropuerto",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "117",
+    "tramo": "Acc. Aeropuerto - Puente Internacional T. Neves",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "118",
+    "tramo": "Saladas - Santa Rosa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "118",
+    "tramo": "Santa Rosa - San Miguel",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "118",
+    "tramo": "San Miguel - Emp. RN 12",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "119",
+    "tramo": "Emp. RN 14 y 127 - Km 70",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "119",
+    "tramo": "Km. 70 - Mercedes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "120",
+    "tramo": "Emp. RN 14 - Puente (Río Aguapey)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "120",
+    "tramo": "Puente (Río Aguapey) - Embalse Yaciretá",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "121",
+    "tramo": "Acc. a Santo Tomé - Pte Internacional con Brasil",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "122",
+    "tramo": "Acc. a Yapeyú - Centro Yapeyú",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "123",
+    "tramo": "Desmochado - Emp. RN 12",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "123",
+    "tramo": "Emp. RN 12 - Mercedes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "123",
+    "tramo": "Mercedes - Emp. RN 14",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "127",
+    "tramo": "Lte. Con Entre Ríos - Emp. RN 14 y 119",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Complejo Zarate Brazo Largo - Ceibas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Ceibas - Gualeguay",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Gualeguay - Galarza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Galarza - Emp. RP 39",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Emp. RP 39 - Nogoyá",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Nogoyá - Emp. RN 131",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Emp. RN 131 - Paraná",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Paraná - Cerrito",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Cerrito - Emp. RN 127",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Emp.RN 127 - Hernandarias",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Hernandarias - La Paz",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "La Paz - Lte. Corrientes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Ceibas - Lte. Corrientes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "18",
+    "tramo": "Paraná - Villaguay",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "18",
+    "tramo": "Villaguay - San Salvador",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "18",
+    "tramo": "San Salvador - Emp. RN 14",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "127",
+    "tramo": "Emp. RN 12 - Emp. RP 6",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "127",
+    "tramo": "Emp. RP 6 - Federal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "127",
+    "tramo": "Federal - Miñones",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "127",
+    "tramo": "Miñones - La Hierra",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "127",
+    "tramo": "La Hierra - Lte. Corrientes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "130",
+    "tramo": "Emp. RN 14 - Villaguay",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "131",
+    "tramo": "Emp. RP 11 - Emp. RN 12",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "135",
+    "tramo": "Emp. RN 14 - Pte. Internac. Gervasio Artigas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "136",
+    "tramo": "Emp. RP 20 - Pte. Internacional General San Martín",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "174",
+    "tramo": "Victoria - Rosario",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A015",
+    "tramo": "Emp. RN 14 - Acc. a Salto Grande",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "11",
+    "tramo": "Lucio Mansilla - Pte. San. Ignacio de Loyola",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "81",
+    "tramo": "Formosa - Las Lomitas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "81",
+    "tramo": "Las Lomitas - J. G. Bazan",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "81",
+    "tramo": "Juan Bazan - P. del Mortero",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "81",
+    "tramo": "Pozo del Mortero - Laguna Yema",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "81",
+    "tramo": "Laguna Yema - Los Chiriguanos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "81",
+    "tramo": "Los Chiriguanos - Ing. Juarez",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "81",
+    "tramo": "Ing. Juarez - Km 25,5",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "81",
+    "tramo": "Km. 25,5 - Lte. Con Salta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "86",
+    "tramo": "Clorinda - El Cogoik",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "86",
+    "tramo": "El Cogoik - Villa Gral. Güemes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "86",
+    "tramo": "Villa Gral. Güemes - Fortin Leyes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "86",
+    "tramo": "Fortin Leyes - San Martin 2",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "86",
+    "tramo": "San Martin 2 - C. Zalazar",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "86",
+    "tramo": "C. Zalazar - El Remanso",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "86",
+    "tramo": "El Remanso -Guadalcazar",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "86",
+    "tramo": "El Solitario - M. San Martin",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "95",
+    "tramo": "Fortín Lavalle - km 29,9",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "95",
+    "tramo": "Km. 29,9 - Emp. RN 81",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "95",
+    "tramo": "Emp. RN 81 - Villa. Gral Güemes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "11-AO11",
+    "tramo": "Acc. a Pto. Pilcomayo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Lte. Salta - Acc. a Dique La Ciénaga",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Acc. a Dique La Ciénaga - Río Perico",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Río Perico - S.S. de Jujuy",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "S.S. de Jujuy -Yala",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Yala - Volcán",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Volcán - Emp. RN 52",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Emp. RN 52 - Paraje San Pedrito",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Paraje San Pedrito - Acc. a Iturbe",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Acc. a Iturbe - Abra Pampa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Abra Pampa - Lte. C/Bolivia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Lte. Con Salta - Acc. Norte a San Pedro",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Acc. a San Pedro -Lte. Con Salta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Lte. Con Salta - Emp. RN 9",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "52",
+    "tramo": "Emp. RN 9- Purmamarca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "52",
+    "tramo": "Purmamarca - Emp. RP 79",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "52",
+    "tramo": "Emp. RP 79 - Susques",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "52",
+    "tramo": "Susques - Lte. con Chile",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "66",
+    "tramo": "Emp. RN 9 - El Cadillal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "66",
+    "tramo": "El Cadillal - Emp. RN 34",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "IV66",
+    "tramo": "Emp. RN 66 - Emp.RN 34",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "5",
+    "tramo": "Lte. Bs. As - Emp. R.P. 3",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "5",
+    "tramo": "Emp. R.P. 3 - Santa Rosa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "22",
+    "tramo": "Lte. Con Bs. As. - Lte. Con Río Negro",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Lte. Bs As  - Bernasconi",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Bernasconi - Peru",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Peru - Emp. RN 152",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Emp. RN 152- Ataliva Roca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Ataliva Roca - Emp. RN 5",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Emp. RN 5 - Winifreda",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Winifreda - E. Castex (emp. RP 102)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "E. Castex (emp. RP 102) - Emp. RP 4",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Emp. RP 4 - Emp. RP 2",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "35",
+    "tramo": "Emp. RP 2 - Lte. Córdoba",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "Emp. RN 152 - Emp. RP 20",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "Emp. RP 20 - Limay Mahuida",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "Limay Mahuida - Río Salado",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "Río Salado - Santa Isabel",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "Santa Isabel - Lte. Mendoza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1V143",
+    "tramo": "Emp. RP 10 - Emp. RN 143",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "151",
+    "tramo": "Lte. Río Negro - Puelen",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "151",
+    "tramo": "Puelen - Pto. La Adela",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "151",
+    "tramo": "Pto. La Adela - Algarrobo del Aguila",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "151",
+    "tramo": "Algarrobo del Aguila - Emp. RN 143",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "152",
+    "tramo": "Emp. RN 35 - Gral. Acha",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "152",
+    "tramo": "Gral. Acha - El Carancho (Emp. RN 143)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "152",
+    "tramo": "El Carancho (Emp.RN 143) - Lihuel Calel",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "152",
+    "tramo": "Lihuel Calel - Puelches",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "152",
+    "tramo": "Puelches - Emp. RN 232",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "152",
+    "tramo": "Emp. RN 232 - Casa De Piedra",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "154",
+    "tramo": "Cotita Emp. RN 35 - Emp. RP 28",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "154",
+    "tramo": "Emp. RP 28 - Emp. RP 30",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "154",
+    "tramo": "Emp. RP 30 - La Adela Emp. RN 22",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "Lte. Bs. As./La Pampa - Emp. R.P.7",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "Emp. R.P.7 - Realico Emp. RN.35",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "Realico Emp. R.N.35 - Rancul",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "Rancul - Lte.  San Luis",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "232",
+    "tramo": "Emp. RN 152 - Emp. RP 30",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "232",
+    "tramo": "Emp. RP 30 - Lte.  Rio Negro",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Lte. Con Córdoba - Chamical",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Chamical - Patquia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Patquia - La Rioja",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Emp. RN 75 - Emp. RP 5",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "La Rioja - Lte. Con Catamarca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Lte. Con San Juan - Villa Unión",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Villa Unión - Los Tambillos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Los Tambillos - Cachiyuyal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Cachiyuyal - Nonogasta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Nonogasta - Lte. Con Catamarca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Villa Mazan - Aimogasta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "60",
+    "tramo": "Aimogasta - Lte. Con Catamarca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "73",
+    "tramo": "Emp. RN 75 -Pampa de la Viuda",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "73",
+    "tramo": "Anguinan - Fin del tramo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "74",
+    "tramo": "Patquia - Los Colorados",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "74",
+    "tramo": "Los Colorados - Nonogasta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "75",
+    "tramo": "La Rioja - Los Sauces",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "75",
+    "tramo": "Los Sauces - Sanagasta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "75",
+    "tramo": "Sanagasta - Huaco",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "75",
+    "tramo": "Huaco - Aminga",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "75",
+    "tramo": "Aminga - Aimogasta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "76",
+    "tramo": "Emp. RN 150 - Acc. a Talampaya",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "76",
+    "tramo": "Acc. a Talampaya - Pagancillo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "76",
+    "tramo": "Pegancillo - Villa Unión",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "76",
+    "tramo": "Villa Unión - Vinchina",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "76",
+    "tramo": "Vinchina - Alto Jagüe",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "76",
+    "tramo": "Alto Jagüe - Queb. Santo Domingo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "76",
+    "tramo": "Queb. Santo Domingo - Barrancas Blanca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "76",
+    "tramo": "Barrancas Blanca - Lte. Con Chile",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "77",
+    "tramo": "Lte. Con Córdoba - Emp. RN 79",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "78",
+    "tramo": "Emp. RN 40 - Famatina",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "78",
+    "tramo": "Famatina - Campanas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "78",
+    "tramo": "Campanas - Lte. Con Catamarca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "79",
+    "tramo": "Lte. Con San Luis - Emp. RN 141",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "79",
+    "tramo": "Emp. RN 141 - S. Rita de Catuna",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "79",
+    "tramo": "S. Rita de Catuna - Emp. RN N° 38",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "79",
+    "tramo": "Emp. RN N° 38 - Casa de Piedra",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "141",
+    "tramo": "Emp. RN 79 - Lte. Con San Juan",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "150",
+    "tramo": "Emp. RN 38 - Lte. Con San Juan",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Lte.Con San Luis - Mendoza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Empalme RN 40 - Potrerillos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Potrerillos - Uspallata",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Uspallata - Polvaredas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Polvaredas - Punta de Vacas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Punta De Vacas - Puente Del Inca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Puente Del Inca - Las Cuevas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Tunel Internacional",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Lte. Con Neuquen - Emp. RP 221",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Emp. RP 221 - La Pasarela",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "La Pasarela - Bardas Blancas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Bardas Blancas - Malargüe",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Malargüe - Emp. RN 144",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Empalme RN 144 - A. Hondo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "A. Hondo - Pareditas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Pareditas - Tunuyan",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Tunuyan - Mendoza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Mendoza - Lte. Con San Juan",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "142",
+    "tramo": "Jocoli - G. Grande",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "Lte. Con La Pampa - Carmensa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "Carmensa - San Rafael",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "San Rafael - Pareditas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "144",
+    "tramo": "San Rafael - Las Salinas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "144",
+    "tramo": "Las Salinas - El Sosneado",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "145",
+    "tramo": "Bardas Blancas - Las Loicas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "145",
+    "tramo": "Las Loicas - Cajón Grande",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "145",
+    "tramo": "Cajón Grande - Lte. Internacional",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "145",
+    "tramo": "Paso Internacional El Pehuenche",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "146",
+    "tramo": "Lte. con San Luis - Monte Coman",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "146",
+    "tramo": "San Rafael - Monte Coman",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "153",
+    "tramo": "Lte. Con San Juan - Int. RN 149",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "Lte. Con San Luis - Gral. Alvear",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "149",
+    "tramo": "Uspallata - Lte. Con San Juan",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "General Alvear - Malargue",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Lte. Con Corrientes - Acc. Aer. Posadas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Acc. Aer. Posadas - Emp. RN 105",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Emp. RN 105 - Santa Ana",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Santa Ana - Eldorado",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Eldorado - Emp. RN 101",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Emp. RN 101 - Acc. a Puerto Iguazu",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Acc. a Puerto Iguazu - Puente Inter. Tancredo Neves",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "12",
+    "tramo": "Puente Inter. \"Tancredo Neves\" Puerto Iguazu (Arg)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Lte. Con Corrientes - San José",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "San José - Oberá",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Oberá - Campo Grande",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Campo Grande - San Vicente",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "San Vicente - Gramado",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Gramado - Piñalito",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Piñalito - Emp. RP 17",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "14",
+    "tramo": "Emp. RP 17 - Bernardo De Irigoyen",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "101",
+    "tramo": "Bdo. De Irigoyen - San Antonio",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "101",
+    "tramo": "San Antonio - Piñalito Norte",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "101",
+    "tramo": "Piñalito Norte - Emp. RP 19",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "101",
+    "tramo": "Empalme RP 19 - Lte. Parque Nacional Iguazu",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "101",
+    "tramo": "Lte. Parque Nacional Iguazu - Acc. Aer. Iguazu",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "101",
+    "tramo": "Acc. Aer. Iguazu - Empalme RN 12",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "105",
+    "tramo": "Posadas - San José",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "S/N",
+    "tramo": "Pte. Internacional Posadas - Encarnación (Par)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "22",
+    "tramo": "Plottier - Arroyito",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "22",
+    "tramo": "Arroyito - Zapala",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Lte. con Río Negro - Emp. RN 231",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Emp. RN 231 - Lago Villarino",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Lago Villarino- San Martín de los Andes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "San Martín de los Andes - Rinconada",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Rinconada - Catan Lil",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Catan Lil - Zapala",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Zapala - Las Lajas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Las Lajas - Chos Malal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Chos Malal - Lte. con Mendoza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "231",
+    "tramo": "Emp. RN 40 - Aduana",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "231",
+    "tramo": "Aduana - Lte. con Chile",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "234",
+    "tramo": "Rinconada - Emp. RN 237",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "237",
+    "tramo": "Arroyito - Piedra del Aguila",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "237",
+    "tramo": "Piedra del Aguila - Arroyo Limay Chico",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "237",
+    "tramo": "Arroyo Limay Chico - Emp. RN 40",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "242",
+    "tramo": "Las Lajas - Aduana",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "242",
+    "tramo": "Aduana - Lte. con Chile",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Vº RN 22",
+    "tramo": "Lte. Con Río Negro - Vinculación Autovía Norte",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Vº RN 22",
+    "tramo": "Vinculación Autovía Norte - Emp. RN 22",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Viedma - San Antonio Oeste",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "San Antonio Oeste - Sierra Grande",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Sierra Grande - Lte. Con Chubut",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "22",
+    "tramo": "Río Colorado - Chimpay",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "22",
+    "tramo": "Chimpay - Allen",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "22",
+    "tramo": "Allen - Cipolletti",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "23",
+    "tramo": "Emp. RN 3 - Valcheta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "23",
+    "tramo": "Valcheta - Mtro. Ramos Mexia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "23",
+    "tramo": "Mtro. Ramos Mexia - Los Menucos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "23",
+    "tramo": "Los Menucos - Maquinchao",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "23",
+    "tramo": "Maquinchao - Ingeniero Jacobacci",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "23",
+    "tramo": "Ingeniero Jacobacci - C. Oneli",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "23",
+    "tramo": "C. Oneli - Comallo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "23",
+    "tramo": "Comallo - Pilcaniyeu",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "23",
+    "tramo": "Pilcaniyeu - Emp. RN 40",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "El Bolsón - Villa Mascardi",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Villa Mascardi - S.C. De Bariloche",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Inicio Circunv - Lte. Con Neuquen",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "151",
+    "tramo": "Cipolletti - Lte Con La Pampa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "232",
+    "tramo": "Lte. Con La Pampa - Emp. RN 22",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "250",
+    "tramo": "Emp. RN 3 - Gral. Conesa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "250",
+    "tramo": "Gral. Conesa - Pomona",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "250",
+    "tramo": "Pomona - Emp. RN 22",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "251",
+    "tramo": "Emp.RN 22 - Gral.Conesa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "251",
+    "tramo": "Gral. Conesa - S.A.Oeste",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1S40",
+    "tramo": "Paso Flores - Emp. RN 23",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1S40",
+    "tramo": "Emp. RN 23 - Límite con Chubut",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A025",
+    "tramo": "Acceso Puerto S.A. Este (Km 0,00 - Km 28,14)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A026",
+    "tramo": "Acceso San Antonio Oeste (Km. 0,00 - Km 8,71)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Lte. Con Tucuman - Emp. RN 34",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Emp. RN 34 - Torzalito",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Torzalito - Acc. Salta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Vaqueros - Lte. Con Jujuy",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "16",
+    "tramo": "Lte. Con Chaco - El Quebrachal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "16",
+    "tramo": "El Quebrachal - Emp. RN 9/34",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Lte. Con Sgo. Del Estero - Emp. RN 9",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Torzalito - Lte. Con Jujuy",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Lte. Con Jujuy - Pichanal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Pichanal - Embarcación",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Embarcación - Gral. E. Mosconi",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Gral. E. Mosconi - Tartagal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Tartagal - Lte. Con Bolivia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Lte. Con Tucuman - La Darsena",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "La Darsena - Seclantas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Seclantas - Cachi",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Cachi - La Poma",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "La Poma - La Quesera",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "La Quesera - Emp. RN 51",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "San Antonio De Los Cobres - Lte. Con Jujuy",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "50",
+    "tramo": "Emp. RN 34 - Acc. a Oran",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "50",
+    "tramo": "Acc. a Oran - Lte. Con Bolivia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "51",
+    "tramo": "El Aybal - Campo Quijano",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "51",
+    "tramo": "Campo Quijano - San Antonio De Los Cobres",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "51",
+    "tramo": "San Antonio De Los Cobres - Paso De Sico",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "68",
+    "tramo": "Emp. RN 40 - Talapampa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "68",
+    "tramo": "Talapampa - Rio Ancho",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "81",
+    "tramo": "Lte. Con Formosa - Emp. RN 34",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "86",
+    "tramo": "Tonono - Tartagal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "20",
+    "tramo": "Lte. Con S.Luis - Encon",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "20",
+    "tramo": "Encon - Las Casuarinas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "20",
+    "tramo": "Las Casuarinas - Caucete",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "20",
+    "tramo": "Caucete - Acc. Oeste SJ",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "20",
+    "tramo": "Km 578 - Km 582 (circunvalación)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Lte. Con Mendoza - Va. Media Agua",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Va. Media Agua-Acc. Sur San Juan",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "San Juan - Matagusanos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Matagusanos - Talacasto",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Talacasto -Tucunuco",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Tucunuco - Jachal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Jachal - Huaco",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Huaco - Lte. Con La Rioja",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "141",
+    "tramo": "Lte.Con La Rioja - Bermejo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "149",
+    "tramo": "Lte. Con Mendoza - Calingasta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "149",
+    "tramo": "Calingasta - Pachaco",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "149",
+    "tramo": "Pachaco - Emp. RP 436",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "149",
+    "tramo": "Emp. RP 436 - Las Flores",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "150",
+    "tramo": "Lte. Con La Rioja - Ischigualasto",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "150",
+    "tramo": "Ischigualasto - Huaco",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "150",
+    "tramo": "Emp. RN 40 - Jachal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "150",
+    "tramo": "Jachal - Rodeo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "150",
+    "tramo": "Rodeo - Las Flores",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "150",
+    "tramo": "Las Flores - Arrequintin",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "150",
+    "tramo": "Arrequintin - Lte. Con Chile",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "153",
+    "tramo": "Media Agua - Pedernal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "153",
+    "tramo": "Pedernal - Km 57,80",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "153",
+    "tramo": "Km 57,80 - Lte. Con Mendoza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A014",
+    "tramo": "Av. De Circunvalación",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Lte. Con Córdoba - Lte. Con Mendoza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "8",
+    "tramo": "Lte. Cordoba - Villa Mercedes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "20",
+    "tramo": "Lte. Con Cordoba - Lte. Con San Juan",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "79",
+    "tramo": "Emp. RN 20 - Lte. Con La Rioja",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "146",
+    "tramo": "Lujan - Emp. RN 147",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "146",
+    "tramo": "Emp. RN 7 - Lte. Con Mendoza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "147",
+    "tramo": "Emp.RN V146 - La Chañarienta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "Lte. Con La Pampa - Lte. Con Mendoza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "V146",
+    "tramo": "Emp. RN 147 - Emp. RN 7",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Lte. Con Chubut - Caleta Olivia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Caleta Olivia - Fitz Roy",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Fitz Roy - Tres Cerros",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Tres Cerros - El Salado",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "El Salado -  Puerto San Julián",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Puerto San Julian- Emp. RN 288",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Emp. RN 288 - Estancia Ototel Aike",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Estancia Ototel Aike - Puesto Invernal Luis Trovato",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Puesto invernal Luis Trovato - Guer Aike",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Guer Aike- Río Gallegos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Río Gallegos- Monte Aymond",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Guer Aike- Bella Vista",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Bella Vista- Puente Blanco",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Puente Blanco- El Turbio",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "El Turbio-La Esperanza",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "La Esperanza - El Cerrito",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "El Cerrito - Bajada de Miguez",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Bajada De Miguez - Emp. RP 11",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Emp. RP 11 - Tres Lagos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Tres Lagos -Gdor. Gregores",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Gobernador Gregores - Casa Riera",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Casa Riera - Las Horquetas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Las Horquetas - Río Olnie",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Río Olnie - Bajo Caracoles",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Bajo Caracoles - Río Ecker",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Río Ecker - Perito Moreno",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Empalme RP43- Limite con Chubut",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "281",
+    "tramo": "Puerto Deseado - EMP. RN Nº 3",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "288",
+    "tramo": "Punta Quilla - Emp. RN º 3",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "288",
+    "tramo": "Emp. RN 3 - Estancia La Julia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "288",
+    "tramo": "Estancia La Julia - Tres Lagos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "293",
+    "tramo": "Emp. RN 40 - Lte.Con Chile",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Lte. Con Bs.As. - Lte. Con Cordoba",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "8",
+    "tramo": "Lte. Con Santafe - Lte. Con Cordoba",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Lte. Con Bs. As. - Gral. Lagos",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Gral. Lagos - Rosario",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Rosario - Carcaraña",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Carcaraña - Lte. Con Cordoba",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "11",
+    "tramo": "Rosario - San Lorenzo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "11",
+    "tramo": "San Lorenzo - Arocena",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "11",
+    "tramo": "Arocena - Santa Fe",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "11",
+    "tramo": "Santa Fe - Lte. Con Chaco",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "19",
+    "tramo": "Santo Tomé - San francisco",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "Lte. Con Bs.As. - Rufino",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "Rufino - Zavalla",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "33",
+    "tramo": "Zavalla - Rosario",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Rosario - Emp. RN A-012",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Emp. RN A-012 - Emp. RN Nº 19",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Emp. RN N° 19 - Lte. Con Sgo. Del Estero",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "95",
+    "tramo": "Ceres - Tostado",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "95",
+    "tramo": "Tostado - Villa Minetti",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "95",
+    "tramo": "Villa Minetti - Lte. Con Chaco",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "98",
+    "tramo": "Vera - Tostado",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "98",
+    "tramo": "Tostado - Lte. Sgo del Estero",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "168",
+    "tramo": "Santa Fe - Parana",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "173",
+    "tramo": "Emp. RN 11 - Puerto Aragon",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "174",
+    "tramo": "Rosario - Victoria",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "175",
+    "tramo": "Emp. RN 11 - Puerto San Martin",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "178",
+    "tramo": "Lte. Con Bs. As. - Emp. RN 33",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "178",
+    "tramo": "Emp.RN 33 - Acc. a Villa Eloisa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "178",
+    "tramo": "Acc. a Villa Eloisa - Las Rosas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1v09",
+    "tramo": "Rosario - Roldan",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1v09",
+    "tramo": "Roldan - Emp. RN 178",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1v09",
+    "tramo": "Emp. RN 178 - Lte. Con Córdoba",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A007",
+    "tramo": "Emp. RN 11 - Calle Juan De Garay",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A007",
+    "tramo": "Emp. RN 11 - Emp RN 1V11",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A008",
+    "tramo": "Emp. RN 9 - Acc. Sur a Puerto",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A008",
+    "tramo": "Rio Parana - Emp. RN 9",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A009",
+    "tramo": "Puerto Reconquista - Emp. RN 11",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A012",
+    "tramo": "Alto Nivel RN 9(S) - Emp.RN 9",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A012",
+    "tramo": "Emp. RN 9 (O) - San Lorenzo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Lte. Con Córdoba - Río Saladillo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Río Saladillo - Loreto",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Loreto - Santiago Del Estero",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Santiago Del Estero - Lte Con Tucuman",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Ruta 9 (S) - Ruta 9 (N)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "16",
+    "tramo": "Lte. Con Chaco - El Caburé",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "16",
+    "tramo": "El Caburé - Lte. Con Chaco",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Lte. Con Santa Fe - La Banda",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "La Banda - Pozo Hondo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Pozo Hondo - Garmendia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Garmendia - Antilla",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "34",
+    "tramo": "Antilla - Rosario De La Frontera",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "64",
+    "tramo": "La Banda - Sgo. Del Estero",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "64",
+    "tramo": "Santiago Del Estero - Santa Catalina",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "64",
+    "tramo": "Santa Catalina - Puerta Chiquita",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "64",
+    "tramo": "Puerta Chiquita - Lte. Con Catamarca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "89",
+    "tramo": "Lte. Con Chaco - Quimilí",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "89",
+    "tramo": "Quimilí - Suncho Corral",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "89",
+    "tramo": "Suncho Corral - Emp RN 34",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "98",
+    "tramo": "Bandera - Los Tableros",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "98",
+    "tramo": "Los Tableros - Pinto",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "157",
+    "tramo": "Frías - Llavalle",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "157",
+    "tramo": "Lavalle - Lte. Con Tucumán",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Cabo Espíritu Santo - San Sebastián",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "San Sebastián - Río Grande",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Río Grande - Puente Justicia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Puente Justicia - Tolhuin",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Tolhuin - La Herradura",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "La Herradura - Rancho Hambre",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Rancho Hambre - Ushuaia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "3",
+    "tramo": "Ushuaia - Bahía Lapataia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Compl A",
+    "tramo": "Emp. RN 3 - Ea. Maria Luisa",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Compl B",
+    "tramo": "Emp. RN 3 - Puesto Radman",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Compl I",
+    "tramo": "Emp. RN 3 - Limite Con Chile",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Compl J",
+    "tramo": "Emp. RN 3 - Puesto Moat",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Compl K",
+    "tramo": "Emp. R. compl J - Emp. RP N° 30",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Región XII - Chile",
+    "tramo": "Barcaza (Primera Angostura)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Región XII - Chile",
+    "tramo": "Monte Aymond - Integración Austral",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Región XII - Chile",
+    "tramo": "San Sebastián - Paso Fronterizo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Lte. Con Sgo. Del Estero - San Andres",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "San Andres - S. M. de Tucumán (san Cayetano)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "San Cayetano - Acc. a Las Talitas",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Las Talitas - Acc. a El Cadillal",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "9",
+    "tramo": "Acc. a El Cadillal - Lte. Con Salta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Lte. Con Catamarca - J.B. Alberdi",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "J.B. Alberdi - Aguilares",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Aguilares - Concepción",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Concepción - Monteros",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Monteros - Famaillá",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "38",
+    "tramo": "Famaillá - S. M. de Tucumán",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Lte. Catamarca - Acc. a la Ciudad Sagrada de Quilmes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Acc. a la Ciudad Sagrada de Quilmes - Colalao del Valle",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Colalao del Valle - Lte. Con Salta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1V65",
+    "tramo": "Int. R.N.N°1V38 - Int. R.N.N°38 Concepción",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "65",
+    "tramo": "Int. R.N.N°38 Concepción - Alpachiri",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "65",
+    "tramo": "Alpachiri - Campamento D.N.V.",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "65",
+    "tramo": "Campamento D.N.V. - Lte. Con Catamarca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "157",
+    "tramo": "Lte. Sgo. Del Estero - Monteagudo",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "157",
+    "tramo": "Monteagudo - Simoca",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "157",
+    "tramo": "Simoca - Bella Vista",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "157",
+    "tramo": "Bella Vista - S. M. de Tucumán (Av. Jujuy)",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1V38",
+    "tramo": "Rio Marapa - Acc. a Aguilares",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1V38",
+    "tramo": "Acc. a Aguilares - Acc. a Concepción",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1V38",
+    "tramo": "Acc. a Concepción - Acc. a Monteros",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "1V38",
+    "tramo": "Acc. a Monteros - Emp RN 38",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A016",
+    "tramo": "Aerop. Internacional - Acc. a Alderetes",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "A016",
+    "tramo": "Acc. a Alderetes- S. M. de Tucumán",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "4V09",
+    "tramo": "EMP RPN°302 – Acceso a S. M. de Tucumán por Av. Benjamín Aráoz.",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Ex 34",
+    "tramo": "Lte. Sgo. Del Estero - Gdor. Garmendia",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Ex 34",
+    "tramo": "Gdor. Garmendia - Lte. Salta",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  },
+  {
+    "ruta": "Ex 9",
+    "tramo": "Acceso Norte a San Miguel de Tucumán",
+    "coordinates": {
+      "startPoint": [
+        -32,
+        -60
+      ],
+      "endPoint": [
+        -35,
+        -70
+      ]
+    }
+  }
+]

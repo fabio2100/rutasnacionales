@@ -1,5 +1,5 @@
 import { MapContainer, TileLayer } from 'react-leaflet'
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect, useMemo, useCallback } from 'react'
 import RoutingMachine from './RoutingMachine'
 import routesData from '../../routes.json'
 import exampleOnlyRoutesData from '../../exampleOnlyRoutes.json'
@@ -8,14 +8,61 @@ import 'leaflet/dist/leaflet.css'
 const MapComponent = () => {
   // Posición inicial del mapa (centro entre Mendoza y Buenos Aires)
   const [position] = useState([-33.7, -63.5])
+  const [combinedData, setCombinedData] = useState([])
   
   // Función para extraer texto sin HTML
-  const extractTextFromHTML = (htmlString) => {
+  const extractTextFromHTML = useCallback((htmlString) => {
     if (!htmlString) return '';
     return htmlString.replace(/<[^>]*>/g, '').trim();
+  }, [])
+
+  // Función para combinar datos de routes.json con exampleOnlyRoutes.json
+  const combineRoutesData = useCallback(() => {
+
+    const combinedArray = [];
+
+    routesData.forEach(route => {
+      // Buscar coincidencia en exampleOnlyRoutes
+      const match = exampleOnlyRoutesData.find(example => {
+        return example[1] === route.ruta && example[2] === route.tramo;
+      });
+      
+      if (match) {
+        // Crear nuevo elemento combinado
+        const combinedElement = {
+          ...route, // Todos los datos de routes.json
+          estado: extractTextFromHTML(match[3]), // Cuarta posición sin HTML
+          tipoDeRuta: match[4] || '', // Quinta posición 
+          longitud: match[5] || '', // Sexta posición
+          actualizacion: match[8] || match[match.length - 1] || '' // Novena posición o último elemento
+        };
+        
+        combinedArray.push(combinedElement);
+      } else {
+        // Si no hay coincidencia, agregar solo los datos de routes con campos vacíos
+        const combinedElement = {
+          ...route,
+          estado: '',
+          tipoDeRuta: '',
+          longitud: '',
+          actualizacion: ''
+        };
+        
+        combinedArray.push(combinedElement);
+      }
+    });
+
+    return combinedArray;
+  }, [extractTextFromHTML])
+
+  // Función para determinar el color de la ruta basado en el estado
+  const getRouteColor = (estado) => {
+    if (estado === 'HABILITADA') return 'green';
+    if (estado === 'CORTE TOTAL') return 'red';
+    return 'orange';
   }
 
-  // Puntos de la ruta Nacional 7
+  // Puntos de la ruta Nacional 7 (mantenidos para referencia)
   const startPoint = useMemo(() => [-32.8492, -69.2666], []); // Mendoza
   const endPoint = useMemo(() => [-34.6346, -58.5317], []);   // Buenos Aires
 
@@ -29,15 +76,9 @@ const MapComponent = () => {
 
   // Aquí se ejecuta la combinación de datos al cargar el componente
   useEffect(() => {
-    console.log('🗺️ Mapa cargado con múltiples rutas usando Leaflet Routing Machine');
-    console.log('🔄 Ejecutando combinación de datos...');
     
     // Función para combinar datos de routes.json con exampleOnlyRoutes.json
     const combineRoutesData = () => {
-      console.log('🚀 Iniciando combinación de datos de rutas...');
-      console.log('📊 Total rutas cargadas:', routesData.length);
-      console.log('📊 Total exampleOnlyRoutes cargados:', exampleOnlyRoutesData.length);
-
       const combinedArray = [];
 
       routesData.forEach(route => {
@@ -72,37 +113,18 @@ const MapComponent = () => {
       });
 
       // Estadísticas
-      const withMatch = combinedArray.filter(item => item.estado !== '').length;
-      const withoutMatch = combinedArray.filter(item => item.estado === '').length;
 
-      console.log('✅ Total elementos combinados:', combinedArray.length);
-      console.log('📈 Estadísticas:');
-      console.log('  - Elementos con coincidencia (con estado):', withMatch);
-      console.log('  - Elementos sin coincidencia (sin estado):', withoutMatch);
-      console.log('🔍 Primeros 5 elementos del array combinado:');
-      console.table(combinedArray);
       
       return combinedArray;
     }
     
     // Ejecutar la combinación de datos
-    const combinedData = combineRoutesData();
-    
-    console.log('🎯 Datos de rutas mostradas en el mapa:');
-    console.log('Ruta 1 (Roja) - Desde:', startPoint, 'Hasta:', endPoint);
-    console.log('Ruta 2 (Verde) - Desde:', startPoint2, 'Hasta:', endPoint2);
-    console.log('Ruta 3 (Verde) - Desde:', startPoint3, 'Hasta:', endPoint3);
-    
-    // Guardar en window para acceso global desde la consola
-    window.rutasNacionalesData = combinedData;
-    console.log('💾 Datos guardados en window.rutasNacionalesData para acceso global');
-    console.log('🔍 Array combinado completo:');
-    console.log(JSON.stringify(combinedData, null, 2));
-    console.log('📋 Algunos ejemplos de elementos:');
-    combinedData.slice(0, 3).forEach((item, index) => {
-      console.log(`Elemento ${index + 1}:`, JSON.stringify(item, null, 2));
-    });
-  }, [startPoint, endPoint, startPoint2, endPoint2, startPoint3, endPoint3])
+    const combinedResult = combineRoutesData();
+      
+    // Guardar en state y en window para acceso global desde la consola
+    setCombinedData(combinedResult);
+    window.rutasNacionalesData = combinedResult;
+  }, [combineRoutesData, extractTextFromHTML, startPoint, endPoint, startPoint2, endPoint2, startPoint3, endPoint3])
 
   return (
     <div style={{ height: '100vh', width: '100%' }}>
@@ -116,27 +138,16 @@ const MapComponent = () => {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         
-        {/* Routing Machine para trazar la ruta Nacional 7 (roja) */}
-        <RoutingMachine 
-          startPoint={startPoint}
-          endPoint={endPoint}
-          routeColor="red"
-          routeName="Ruta Nacional 7"
-        />
-
-        {/* Routing Machine para la segunda ruta (verde) */}
-        <RoutingMachine 
-          startPoint={startPoint2}
-          endPoint={endPoint2}
-          routeColor="green"
-          routeName="Ruta 2"
-        />
-        <RoutingMachine 
-          startPoint={startPoint3}
-          endPoint={endPoint3}
-          routeColor="green"
-          routeName="Ruta 2"
-        />
+        {/* Renderizar rutas dinámicamente usando los primeros 5 elementos de combinedData */}
+        {combinedData.slice(0, 5).map((route, index) => (
+          <RoutingMachine 
+            key={`${route.ruta}-${route.tramo}-${index}`}
+            startPoint={route.coordinates.startPoint}
+            endPoint={route.coordinates.endPoint}
+            routeColor={getRouteColor(route.estado)}
+            routeName={`Ruta ${route.ruta} - ${route.tramo}`}
+          />
+        ))}
       </MapContainer>
     </div>
   )

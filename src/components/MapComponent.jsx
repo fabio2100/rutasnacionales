@@ -51,7 +51,8 @@ const MapComponent = () => {
           const combinedElement = {
             ...route, // Todos los datos de routes.json
             estado: extractTextFromHTML(match[3]), // Cuarta posición sin HTML
-            longitud: match[4] || '', // Quinta posición 
+            tipoDeRuta: match[4] || '', // Quinta posición (tipo de ruta)
+            longitud: match[5] || '', // Sexta posición (longitud)
             actualizacion: match[8] || match[match.length - 1] || '' // Novena posición o último elemento
           };
           
@@ -61,6 +62,7 @@ const MapComponent = () => {
           const combinedElement = {
             ...route,
             estado: '',
+            tipoDeRuta: '',
             longitud: '',
             actualizacion: ''
           };

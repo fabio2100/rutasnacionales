@@ -96,7 +96,12 @@ const MapComponent = () => {
     // Guardar en window para acceso global desde la consola
     window.rutasNacionalesData = combinedData;
     console.log('💾 Datos guardados en window.rutasNacionalesData para acceso global');
-    
+    console.log('🔍 Array combinado completo:');
+    console.log(JSON.stringify(combinedData, null, 2));
+    console.log('📋 Algunos ejemplos de elementos:');
+    combinedData.slice(0, 3).forEach((item, index) => {
+      console.log(`Elemento ${index + 1}:`, JSON.stringify(item, null, 2));
+    });
   }, [startPoint, endPoint, startPoint2, endPoint2, startPoint3, endPoint3])
 
   return (

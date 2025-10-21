@@ -52,95 +52,95 @@
     "tramo": "Tres Arroyos - Cnel. Dorrego",
     "coordinates": {
       "startPoint": [-38.357192, -60.282008],
-      "endPoint": [-35, -70]
+      "endPoint": [-38.723525, -61.243683]
     }
   },
   {
     "ruta": "3",
     "tramo": "Cnel. Dorrego - Bajo Hondo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.723525, -61.243683],
+      "endPoint": [-38.777348, -61.918133]
     }
   },
   {
     "ruta": "3",
     "tramo": "Bajo Hondo - Emp. RN 229",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.777348, -61.918133],
+      "endPoint": [-38.774584, -62.116910]
     }
   },
   {
     "ruta": "3",
     "tramo": "Emp. RN N° 229 - El Triángulo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.774584, -62.116910],
+      "endPoint": [-38.753673, -62.200501]
     }
   },
   {
     "ruta": "3",
     "tramo": "El Triángulo - Ex J. N. Granos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.753673, -62.200501],
+      "endPoint": [-38.763634, -62.217368]
     }
   },
   {
     "ruta": "3",
     "tramo": "Ex J. N. Granos - Avda. G. Torres",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.763634, -62.217368],
+      "endPoint": [-38.770717, -62.256491]
     }
   },
   {
     "ruta": "3",
     "tramo": "Avda. G. Torres - Emp. RN 33",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.770717, -62.256491],
+      "endPoint": [-38.705975, -62.337198]
     }
   },
   {
     "ruta": "3",
     "tramo": "Emp. RN N° 33 - Emp. RN N° 22",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.705975, -62.337198],
+      "endPoint": [-38.754435, -62.568945]
     }
   },
   {
     "ruta": "3",
     "tramo": "Emp. RN 22 - Tte.Origone",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.754435, -62.568945],
+      "endPoint": [-39.064322, -62.559604]
     }
   },
   {
     "ruta": "3",
     "tramo": "Tte.Origone - Pedro Luro",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-39.064322, -62.559604],
+      "endPoint": [-39.503387, -62.668364]
     }
   },
   {
     "ruta": "3",
     "tramo": "Pedro Luro - Stroeder",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-39.503387, -62.668364],
+      "endPoint": [-40.181712, -62.653623]
     }
   },
   {
     "ruta": "3",
     "tramo": "Stroeder - Patagones",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.181712, -62.653623],
+      "endPoint": [-40.790245, -63.000130]
     }
   },
   {

@@ -147,32 +147,32 @@
     "ruta": "5",
     "tramo": "Lujan - Lte. La Pampa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.578014, -59.083316],
+      "endPoint": [-36.410510, -63.385462]
     }
   },
   {
     "ruta": "7",
     "tramo": "CABA - Luján",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.634563, -58.529965],
+      "endPoint": [-34.556199, -59.099825]
     }
   },
   {
     "ruta": "7",
     "tramo": "Luján - Lte. Santa Fe",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.556199, -59.099825],
+      "endPoint": [-34.374232, -62.306959]
     }
   },
   {
     "ruta": "8",
     "tramo": "Pilar - Lte. Santa Fe",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.453396, -58.939935],
+      "endPoint": [-33.865580, -61.160616]
     }
   },
   {

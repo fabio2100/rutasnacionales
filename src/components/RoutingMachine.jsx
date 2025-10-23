@@ -16,7 +16,8 @@ const RoutingMachine = ({ routeId, startPoint, endPoint, routeColor = 'red', rou
         L.latLng(endPoint[0], endPoint[1])
       ],
       router: L.Routing.osrmv1({
-        serviceUrl: 'https://router.project-osrm.org/route/v1'
+        // Vite exposes env vars via import.meta.env and variables must be prefixed with VITE_
+        serviceUrl: import.meta.env.VITE_ROUTE_SERVICE || 'https://router.project-osrm.org/route/v1'
       }),
       lineOptions: {
         styles: [

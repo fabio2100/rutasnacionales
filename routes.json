@@ -176,6 +176,14 @@
     }
   },
   {
+    "ruta": "150",
+    "tramo": "Arrequintin - Lte. Con Chile",
+    "coordinates": {
+      "startPoint": [-30.392238, -69.570953],
+      "endPoint": [-30.192885, -69.826200]
+    }
+  },
+  {
     "ruta": "9",
     "tramo": "CABA - Campana",
     "coordinates": {
@@ -3970,14 +3978,6 @@
   {
     "ruta": "150",
     "tramo": "Las Flores - Arrequintin",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "150",
-    "tramo": "Arrequintin - Lte. Con Chile",
     "coordinates": {
       "startPoint": [-32, -60],
       "endPoint": [-35, -70]

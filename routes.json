@@ -365,80 +365,80 @@
     "ruta": "40",
     "tramo": "Lte. Con Neuquen - Emp. RP 221",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.813504, -69.873209],
+      "endPoint": [-36.313020, -69.666148]
     }
   },
   {
     "ruta": "40",
     "tramo": "Emp. RP 221 - La Pasarela",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.313020, -69.666148],
+      "endPoint": [-35.862985, -69.807826]
     }
   },
   {
     "ruta": "40",
     "tramo": "La Pasarela - Bardas Blancas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.313020, -69.666148],
+      "endPoint": [-35.862985, -69.807826]
     }
   },
   {
     "ruta": "40",
     "tramo": "Bardas Blancas - Malargüe",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.862985, -69.807826],
+      "endPoint": [-35.474527, -69.585288]
     }
   },
   {
     "ruta": "40",
     "tramo": "Malargüe - Emp. RN 144",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.474527, -69.585288],
+      "endPoint": [-35.080933, -69.582549]
     }
   },
   {
     "ruta": "40",
     "tramo": "Empalme RN 144 - A. Hondo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.080933, -69.582549],
+      "endPoint": [-34.475268, -69.291786]
     }
   },
   {
     "ruta": "40",
     "tramo": "A. Hondo - Pareditas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.475268, -69.291786],
+      "endPoint": [-33.955000, -69.078217]
     }
   },
   {
     "ruta": "40",
     "tramo": "Pareditas - Tunuyan",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.955000, -69.078217],
+      "endPoint": [-33.577467, -69.016308]
     }
   },
   {
     "ruta": "40",
     "tramo": "Tunuyan - Mendoza",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.577467, -69.016308],
+      "endPoint": [-32.896343, -68.831870]
     }
   },
   {
     "ruta": "40",
     "tramo": "Mendoza - Lte. Con San Juan",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.896343, -68.831870],
+      "endPoint": [-32.261984, -68.512392]
     }
   },
   {

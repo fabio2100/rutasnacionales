@@ -296,6 +296,280 @@
     }
   },
   {
+    "ruta": "7",
+    "tramo": "Lte.Con San Luis - Mendoza",
+    "coordinates": {
+      "startPoint": [-33.404349, -67.151441],
+      "endPoint": [-32.897587, -68.818680
+
+]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Empalme RN 40 - Potrerillos",
+    "coordinates": {
+      "startPoint": [-32.897587, -68.818680],
+      "endPoint": [-32.966124, -69.199465]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Potrerillos - Uspallata",
+    "coordinates": {
+      "startPoint": [-32.966124, -69.199465],
+      "endPoint": [-32.591105, -69.347851]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Uspallata - Polvaredas",
+    "coordinates": {
+      "startPoint": [-32.591105, -69.347851],
+      "endPoint": [-32.792925, -69.650505]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Polvaredas - Punta de Vacas",
+    "coordinates": {
+      "startPoint": [-32.792925, -69.650505],
+      "endPoint": [-32.851216, -69.759173]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Punta De Vacas - Puente Del Inca",
+    "coordinates": {
+      "startPoint": [-32.851216, -69.759173],
+      "endPoint": [-32.822699, -69.924473]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Puente Del Inca - Las Cuevas",
+    "coordinates": {
+      "startPoint": [-32.822699, -69.924473],
+      "endPoint": [-32.813908, -70.049985]
+    }
+  },
+  {
+    "ruta": "7",
+    "tramo": "Tunel Internacional",
+    "coordinates": {
+      "startPoint": [-32.813908, -70.049985],
+      "endPoint": [-32.810136, -70.084954]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Lte. Con Neuquen - Emp. RP 221",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Emp. RP 221 - La Pasarela",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "La Pasarela - Bardas Blancas",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Bardas Blancas - Malargüe",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Malargüe - Emp. RN 144",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Empalme RN 144 - A. Hondo",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "A. Hondo - Pareditas",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Pareditas - Tunuyan",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Tunuyan - Mendoza",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "40",
+    "tramo": "Mendoza - Lte. Con San Juan",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "142",
+    "tramo": "Jocoli - G. Grande",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "Lte. Con La Pampa - Carmensa",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "Carmensa - San Rafael",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "143",
+    "tramo": "San Rafael - Pareditas",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "144",
+    "tramo": "San Rafael - Las Salinas",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "144",
+    "tramo": "Las Salinas - El Sosneado",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "145",
+    "tramo": "Bardas Blancas - Las Loicas",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "145",
+    "tramo": "Las Loicas - Cajón Grande",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "145",
+    "tramo": "Cajón Grande - Lte. Internacional",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "145",
+    "tramo": "Paso Internacional El Pehuenche",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "146",
+    "tramo": "Lte. con San Luis - Monte Coman",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "146",
+    "tramo": "San Rafael - Monte Coman",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "153",
+    "tramo": "Lte. Con San Juan - Int. RN 149",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "Lte. Con San Luis - Gral. Alvear",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "149",
+    "tramo": "Uspallata - Lte. Con San Juan",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
+    "ruta": "188",
+    "tramo": "General Alvear - Malargue",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
+  {
     "ruta": "35",
     "tramo": "Bahía Blanca - Nueva Roma",
     "coordinates": {
@@ -2690,278 +2964,6 @@
   {
     "ruta": "150",
     "tramo": "Emp. RN 38 - Lte. Con San Juan",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "7",
-    "tramo": "Lte.Con San Luis - Mendoza",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "7",
-    "tramo": "Empalme RN 40 - Potrerillos",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "7",
-    "tramo": "Potrerillos - Uspallata",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "7",
-    "tramo": "Uspallata - Polvaredas",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "7",
-    "tramo": "Polvaredas - Punta de Vacas",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "7",
-    "tramo": "Punta De Vacas - Puente Del Inca",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "7",
-    "tramo": "Puente Del Inca - Las Cuevas",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "7",
-    "tramo": "Tunel Internacional",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "40",
-    "tramo": "Lte. Con Neuquen - Emp. RP 221",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "40",
-    "tramo": "Emp. RP 221 - La Pasarela",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "40",
-    "tramo": "La Pasarela - Bardas Blancas",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "40",
-    "tramo": "Bardas Blancas - Malargüe",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "40",
-    "tramo": "Malargüe - Emp. RN 144",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "40",
-    "tramo": "Empalme RN 144 - A. Hondo",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "40",
-    "tramo": "A. Hondo - Pareditas",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "40",
-    "tramo": "Pareditas - Tunuyan",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "40",
-    "tramo": "Tunuyan - Mendoza",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "40",
-    "tramo": "Mendoza - Lte. Con San Juan",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "142",
-    "tramo": "Jocoli - G. Grande",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "143",
-    "tramo": "Lte. Con La Pampa - Carmensa",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "143",
-    "tramo": "Carmensa - San Rafael",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "143",
-    "tramo": "San Rafael - Pareditas",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "144",
-    "tramo": "San Rafael - Las Salinas",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "144",
-    "tramo": "Las Salinas - El Sosneado",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "145",
-    "tramo": "Bardas Blancas - Las Loicas",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "145",
-    "tramo": "Las Loicas - Cajón Grande",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "145",
-    "tramo": "Cajón Grande - Lte. Internacional",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "145",
-    "tramo": "Paso Internacional El Pehuenche",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "146",
-    "tramo": "Lte. con San Luis - Monte Coman",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "146",
-    "tramo": "San Rafael - Monte Coman",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "153",
-    "tramo": "Lte. Con San Juan - Int. RN 149",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "188",
-    "tramo": "Lte. Con San Luis - Gral. Alvear",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "149",
-    "tramo": "Uspallata - Lte. Con San Juan",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "ruta": "188",
-    "tramo": "General Alvear - Malargue",
     "coordinates": {
       "startPoint": [-32, -60],
       "endPoint": [-35, -70]

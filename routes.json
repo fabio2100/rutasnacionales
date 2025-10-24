@@ -187,112 +187,112 @@
     "ruta": "9",
     "tramo": "CABA - Campana",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.546456, -58.493371],
+      "endPoint": [-34.181442, -58.960931]
     }
   },
   {
     "ruta": "9",
     "tramo": "Campana - Lte. Santa Fe",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.181442, -58.960931],
+      "endPoint": [-33.330463, -60.303510]
     }
   },
   {
     "ruta": "12",
     "tramo": "Zarate - Lte. Entre Rios",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.138511, -59.051879],
+      "endPoint": [-33.911146, -58.886726]
     }
   },
   {
     "ruta": "22",
     "tramo": "Empalme R.N.3 - Medanos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.754328, -62.570034],
+      "endPoint": [-38.819745, -62.698222]
     }
   },
   {
     "ruta": "22",
     "tramo": "Medanos - Lte.con La Pampa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.819745, -62.698222],
+      "endPoint": [-38.912285, -63.383998]
     }
   },
   {
     "ruta": "22",
     "tramo": "Lte. La Pampa - Rio Colorado",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.912285, -63.383998],
+      "endPoint": [-38.976971, -64.106449]
     }
   },
   {
     "ruta": "33",
     "tramo": "Emp. RN N° 3 - Emp. Ex RN N° 33",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.705946, -62.337224],
+      "endPoint": [-38.657422, -62.277160]
     }
   },
   {
     "ruta": "33",
     "tramo": "Emp. Ex RN N° 33 - La Viticola",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.657422, -62.277160],
+      "endPoint": [-38.521408, -62.293603]
     }
   },
   {
     "ruta": "33",
     "tramo": "La Viticola - Tornquist",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.521408, -62.293603],
+      "endPoint": [-38.098494, -62.281438]
     }
   },
   {
     "ruta": "33",
     "tramo": "Tornquist - Pigüé",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.098494, -62.281438],
+      "endPoint": [-37.590413, -62.418232]
     }
   },
   {
     "ruta": "33",
     "tramo": "Pigüé - Guamini",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.590413, -62.418232],
+      "endPoint": [-37.038472, -62.384902]
     }
   },
   {
     "ruta": "33",
     "tramo": "Guamini - Trenque Lauquen",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.038472, -62.384902],
+      "endPoint": [-36.014331, -62.748304]
     }
   },
   {
     "ruta": "33",
     "tramo": "Trenque Lauquen - Gral. Villegas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.014331, -62.748304],
+      "endPoint": [-35.035582, -62.987392]
     }
   },
   {
     "ruta": "33",
     "tramo": "Gral. Villegas - Lte. Santa Fe",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.035582, -62.987392],
+      "endPoint": [-34.383481, -62.884142]
     }
   },
   {

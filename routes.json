@@ -563,14 +563,6 @@
     }
   },
   {
-    "ruta": "188",
-    "tramo": "General Alvear - Malargue",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
     "ruta": "35",
     "tramo": "Bahía Blanca - Nueva Roma",
     "coordinates": {
@@ -5225,5 +5217,13 @@
       "startPoint": [-32, -60],
       "endPoint": [-35, -70]
     }
-  }
+  },
+  {
+    "ruta": "188",
+    "tramo": "General Alvear - Malargue",
+    "coordinates": {
+      "startPoint": [-32, -60],
+      "endPoint": [-35, -70]
+    }
+  },
 ]

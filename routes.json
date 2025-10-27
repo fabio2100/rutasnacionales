@@ -445,72 +445,73 @@
     "ruta": "142",
     "tramo": "Jocoli - G. Grande",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.758363, -68.394259],
+      "endPoint": [-32.225981, -67.806227]
     }
   },
   {
     "ruta": "143",
     "tramo": "Lte. Con La Pampa - Carmensa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.999509, -67.164388],
+      "endPoint": [-35.157148, -67.666646]
     }
   },
   {
     "ruta": "143",
     "tramo": "Carmensa - San Rafael",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.157148, -67.666646],
+      "endPoint": [-34.629680, -68.383163]
     }
   },
   {
     "ruta": "143",
     "tramo": "San Rafael - Pareditas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.629680, -68.383163],
+      "endPoint": [-33.943004, -69.079132]
     }
   },
   {
     "ruta": "144",
     "tramo": "San Rafael - Las Salinas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.652731, -68.378495],
+      "endPoint": [-34.914095, -68.932066]
+
     }
   },
   {
     "ruta": "144",
     "tramo": "Las Salinas - El Sosneado",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.914095, -68.932066],
+      "endPoint": [-35.080986, -69.582621]
     }
   },
   {
     "ruta": "145",
     "tramo": "Bardas Blancas - Las Loicas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.862958, -69.807882],
+      "endPoint": [-35.794233, -70.142157]
     }
   },
   {
     "ruta": "145",
     "tramo": "Las Loicas - Cajón Grande",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.855561, -70.195744],
+      "endPoint": [-35.794233, -70.142157]
     }
   },
   {
     "ruta": "145",
     "tramo": "Cajón Grande - Lte. Internacional",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.855561, -70.195744],
+      "endPoint": [-35.981511, -70.393963]
     }
   },
   {
@@ -525,40 +526,40 @@
     "ruta": "146",
     "tramo": "Lte. con San Luis - Monte Coman",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.981511, -70.393963],
+      "endPoint": [-35.982543, -70.394316]
     }
   },
   {
     "ruta": "146",
     "tramo": "San Rafael - Monte Coman",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.607184, -68.355971],
+      "endPoint": [-34.590705, -67.878667]
     }
   },
   {
     "ruta": "153",
     "tramo": "Lte. Con San Juan - Int. RN 149",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.080587, -69.359604],
+      "endPoint": [-32.166798, -69.042419]
     }
   },
   {
     "ruta": "188",
     "tramo": "Lte. Con San Luis - Gral. Alvear",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.168733, -66.496661],
+      "endPoint": [-34.978057, -67.689318]
     }
   },
   {
     "ruta": "149",
     "tramo": "Uspallata - Lte. Con San Juan",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.075922, -69.358215],
+      "endPoint": [-32.590741, -69.347946]
     }
   },
   {
@@ -573,48 +574,48 @@
     "ruta": "35",
     "tramo": "Bahía Blanca - Nueva Roma",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.696969, -62.326757],
+      "endPoint": [-38.526690, -62.616804]
     }
   },
   {
     "ruta": "35",
     "tramo": "Nueva Roma - San Germán",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.526690, -62.616804],
+      "endPoint": [-38.298784, -62.978445]
     }
   },
   {
     "ruta": "35",
     "tramo": "San Germán - Lte.  La Pampa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.298784, -62.978445],
+      "endPoint": [-38.076474, -63.385512]
     }
   },
   {
     "ruta": "188",
     "tramo": "San Nicolás - Pergamino",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.391576, -60.223603],
+      "endPoint": [-33.898999, -60.554241]
     }
   },
   {
     "ruta": "188",
     "tramo": "Pergamino - Junín",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.898999, -60.554241],
+      "endPoint": [-34.582369, -60.991566]
     }
   },
   {
     "ruta": "188",
     "tramo": "Junín - Lte. La Pampa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.582369, -60.991566],
+      "endPoint": [-35.024912, -63.385670]
     }
   },
   {

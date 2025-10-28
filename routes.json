@@ -838,39 +838,39 @@
     "ruta": "40",
     "tramo": "Emp. RN 60 - Belén",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.314709, -67.049212],
+      "endPoint": [-27.649541, -67.029883]
     }
   },
   {
     "ruta": "40",
     "tramo": "Belén - Río Agua Clara",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.649541, -67.029883],
+      "endPoint": [-27.366385, -66.925116]
     }
   },
   {
     "ruta": "40",
     "tramo": "Río Agua Clara - Río Las Cuevas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.366385, -66.925116],
+      "endPoint": [-27.102567, -66.640444]
     }
   },
   {
     "ruta": "40",
     "tramo": "Río Las Cuevas - Santa María",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.102567, -66.640444],
+      "endPoint": [-26.724036, -66.053490]
     }
   },
   {
     "ruta": "40",
     "tramo": "Santa María -Lte. Con Tucumán",
     "coordinates": {
-      "startPoint": [-32, -60],
+      "startPoint": [-26.600382, -66.042169],
       "endPoint": [-35, -70]
     }
   },
@@ -878,64 +878,64 @@
     "ruta": "60",
     "tramo": "Lte. Con Córdoba - Emp. RN 157",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.580562, -64.866101],
+      "endPoint": [-29.510944, -64.920445]
     }
   },
   {
     "ruta": "60",
     "tramo": "Emp. RN 157 - Emp RP 33",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.510944, -64.920445],
+      "endPoint": [-29.215604, -65.776404]
     }
   },
   {
     "ruta": "60",
     "tramo": "Emp. RP 33 - Emp. RN 38",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.215604, -65.776404],
+      "endPoint": [-28.868516, -66.248775]
     }
   },
   {
     "ruta": "60",
     "tramo": "Emp. RN 38 - Lte. Con La Rioja",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.868516, -66.248775],
+      "endPoint": [-28.890081, -66.281996]
     }
   },
   {
     "ruta": "60",
     "tramo": "Lte. Con La Rioja - Tinogasta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.890081, -66.281996],
+      "endPoint": [-28.066235, -67.564908]
     }
   },
   {
     "ruta": "60",
     "tramo": "Tinogasta - Fiambalá",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.066235, -67.564908],
+      "endPoint": [-27.693244, -67.626390]
     }
   },
   {
     "ruta": "60",
     "tramo": "Fiambalá - Cortaderas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.693244, -67.626390],
+      "endPoint": [-27.560465, -68.145573]
     }
   },
   {
     "ruta": "60",
     "tramo": "Cortaderas - Lte. Int. Con Chile",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.560465, -68.145573],
+      "endPoint": [-26.873607, -68.298912]
     }
   },
   {

@@ -614,224 +614,224 @@
     "ruta": "193",
     "tramo": "Int. RN Nº 9 - Int. RN Nº 8",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.139605, -59.054315],
+      "endPoint": [-34.301737, -59.323439]
     }
   },
   {
     "ruta": "205",
     "tramo": "Cañuelas - Int. RP 51",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.648781, -59.837948],
+      "endPoint": [-35.027042, -58.745669]
     }
   },
   {
     "ruta": "205",
     "tramo": "Int. RP 51 - Bolivar",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.648781, -59.837948],
+      "endPoint": [-36.142161, -61.063415]
     }
   },
   {
     "ruta": "205",
     "tramo": "Cañuelas - Emp. RN 3",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.027071, -58.745714],
+      "endPoint": [-35.018954, -58.746926]
     }
   },
   {
     "ruta": "226",
     "tramo": "Mar del Plata - Olavarria",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.979893, -57.582920],
+      "endPoint": [-36.882368, -60.296945]
     }
   },
   {
     "ruta": "226",
     "tramo": "Olavarria - Gral. Villegas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.882368, -60.296945],
+      "endPoint": [-35.036111, -62.986829]
     }
   },
   {
     "ruta": "228",
     "tramo": "Necochea - Acc. a San Cayetano",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.523488, -58.756118],
+      "endPoint": [-38.559903, -59.371657]
     }
   },
   {
     "ruta": "228",
     "tramo": "Acc. a San Cayetano - Camp. A Belloq",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.559903, -59.371657],
+      "endPoint": [-38.440605, -60.155390]
     }
   },
   {
     "ruta": "228",
     "tramo": "Camp. A Belloq - Tres Arroyos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.440605, -60.155390],
+      "endPoint": [-38.357165, -60.281481]
     }
   },
   {
     "ruta": "229",
     "tramo": "Emp. R.N.3 - B. Marisol P. Alta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.775223, -62.117900],
+      "endPoint": [-38.892988, -62.080379]
     }
   },
   {
     "ruta": "249",
     "tramo": "Emp. R.N.3 - Emp. R.N. 229 P. Alta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.892996, -62.080500],
+      "endPoint": [-38.781923, -61.897568]
     }
   },
   {
     "ruta": "252",
     "tramo": "Rotonda V. Sarsfield - Emp. RN N° 3",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.783918, -62.273729],
+      "endPoint": [-38.773186, -62.242274]
     }
   },
   {
     "ruta": "252",
     "tramo": "Emp RN N° 3 - Puente La Niña",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.773161, -62.242231],
+      "endPoint": [-38.787604, -62.264440]
     }
   },
   {
     "ruta": "1V03",
     "tramo": "Emp. R.N. N° 3 - Rotonda Ex Indiada",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.746675, -62.233588],
+      "endPoint": [-38.753662, -62.200369]
     }
   },
   {
     "ruta": "A-001",
     "tramo": "Puente La Noria - Emp. Avda. Lugones y Cantilo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.704655, -58.460880],
+      "endPoint": [-34.549029, -58.437480]
     }
   },
   {
     "ruta": "A-017",
     "tramo": "RP N° 40(Merlo) - RN N° 3 (La Matanza)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.671732, -58.785849],
+      "endPoint": [-34.831350, -58.647971]
     }
   },
   {
     "ruta": "A-017",
     "tramo": "RN N° 3 (La Matanza) - KM 47 (Ezeiza)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.831350, -58.647971],
+      "endPoint": [-34.870413, -58.579741]
     }
   },
   {
     "ruta": "A-017",
     "tramo": "KM 47 (Ezeiza) - RP N° 210 (Guernica)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.870413, -58.579741],
+      "endPoint": [-34.943362, -58.381803]
     }
   },
   {
     "ruta": "Au. Ezeiza Cañuelas",
     "tramo": "Fin AU Jorge Newbery - Cañuelas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.780573, -58.524634],
+      "endPoint": [-35.021546, -58.742542]
     }
   },
   {
     "ruta": "Au. Riccheri",
     "tramo": "AV. Gral. Paz - Aeropuerto Ezeiza",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.687095, -58.485616],
+      "endPoint": [-34.808382, -58.543620]
     }
   },
   {
     "ruta": "Av. Jorge Newbery",
     "tramo": "AU Riccheri (Dist. El Trébol) - AU Ezeiza - Cañuelas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.784115, -58.523930],
+      "endPoint": [-35.027928, -58.730358]
     }
   },
   {
     "ruta": "Puentes Riachuelo",
     "tramo": "Puente Alsina y accesos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.658907, -58.416660],
+      "endPoint": [-34.660211, -58.416816]
     }
   },
   {
     "ruta": "Puentes Riachuelo",
     "tramo": "Puente Avellaneda y accesos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.637480, -58.356377],
+      "endPoint": [-34.638642, -58.355045]
     }
   },
   {
     "ruta": "Puentes Riachuelo",
     "tramo": "Puente Pueyrredon y accesos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.654145, -58.371754],
+      "endPoint": [-34.656058, -58.371113]
     }
   },
   {
     "ruta": "Puentes Riachuelo",
     "tramo": "Puente Victorino de la Plaza y accesos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.659881, -58.388379],
+      "endPoint": [-34.661382, -58.388232]
     }
   },
   {
     "ruta": "Puentes Riachuelo",
     "tramo": "Puente La Noria y accesos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.705695, -58.459388],
+      "endPoint": [-34.703946, -58.461989]
     }
   },
   {
     "ruta": "38",
     "tramo": "Lte. Con La Rioja - Fin Avda. Circunvalación",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.890387, -66.281393],
+      "endPoint": [-28.467582, -65.696056]
     }
   },
   {
     "ruta": "38",
     "tramo": "Fín Avda. Circunvalación - Lte. Con Tucumán",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.467582, -65.696056],
+      "endPoint": [-28.006005, -65.581050]
     }
   },
   {

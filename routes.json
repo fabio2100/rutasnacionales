@@ -942,88 +942,88 @@
     "ruta": "64",
     "tramo": "Lte. Con Sgo. Del Estero - Lte. Con Tucuman",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.192600, -65.111603],
+      "endPoint": [-28.006295, -65.560563]
     }
   },
   {
     "ruta": "157",
     "tramo": "Emp. RN 60 - Lte. Sgo. Del Estero",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.510898, -64.920499],
+      "endPoint": [-28.719837, -65.108467]
     }
   },
   {
     "ruta": "11",
     "tramo": "Lte. Con Sta. Fe - Resistencia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.999346, -59.230507],
+      "endPoint": [-27.412550, -59.002469]
     }
   },
   {
     "ruta": "11",
     "tramo": "Resistencia - Lte. Con Formosa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.412550, -59.002469],
+      "endPoint": [-26.660195, -58.633662]
     }
   },
   {
     "ruta": "16",
     "tramo": "Pte. Gral. M. Belgrano - Emp. RN 11",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.469796, -58.860184],
+      "endPoint": [-27.411266, -59.002000]
     }
   },
   {
     "ruta": "16",
     "tramo": "Emp. RN 11 - Emp. RN 95",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.411266, -59.002000],
+      "endPoint": [-26.811931, -60.418063]
     }
   },
   {
     "ruta": "16",
     "tramo": "Emp. RN 95 - Pampa del Infierno",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.811931, -60.418063],
+      "endPoint": [-26.512378, -61.172706]
     }
   },
   {
     "ruta": "16",
     "tramo": "Pampa del Infierno - Lte. Sgo. Del Estero",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.512378, -61.172706],
+      "endPoint": [-26.284646, -61.711190]
     }
   },
   {
     "ruta": "16",
     "tramo": "Lte. Sgo. Del Estero - Lte. Con Salta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.284646, -61.711190],
+      "endPoint": [-25.576284, -63.360218]
     }
   },
   {
     "ruta": "89",
     "tramo": "Avia Terai - Gral. Pinedo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.335702, -61.275103],
+      "endPoint": [-26.703556, -60.728681]
     }
   },
   {
     "ruta": "89",
     "tramo": "Gral. Pinedo -Lte. Sgo. Del Estero",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.335702, -61.275103],
+      "endPoint": [-27.514405, -61.711164]
     }
   },
   {

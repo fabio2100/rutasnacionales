@@ -518,8 +518,8 @@
     "ruta": "145",
     "tramo": "Paso Internacional El Pehuenche",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.982078, -70.394276],
+      "endPoint": [-35.978134, -70.386569]
     }
   },
   {

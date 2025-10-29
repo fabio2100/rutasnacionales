@@ -1030,104 +1030,104 @@
     "ruta": "95",
     "tramo": "Lte. Con Sta. Fe - Emp. RN 16",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.999425, -61.183615],
+      "endPoint": [-26.813087, -60.418564]
     }
   },
   {
     "ruta": "95",
     "tramo": "Emp. RN 16 - Emp. RP 9",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.813087, -60.418564],
+      "endPoint": [-26.339588, -60.302548]
     }
   },
   {
     "ruta": "95",
     "tramo": "Emp. RP 9 - Emp. RP 3",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.339588, -60.302548],
+      "endPoint": [-25.727060, -60.174855]
     }
   },
   {
     "ruta": "95",
     "tramo": "Emp. RP 3 - Lte. Con Formosa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.727060, -60.174855],
+      "endPoint": [-25.652747, -60.128797]
     }
   },
   {
     "ruta": "3",
     "tramo": "Aº Verde - Pto.Madryn",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.997830, -65.292378],
+      "endPoint": [-42.744867, -65.114303]
     }
   },
   {
     "ruta": "3",
     "tramo": "Pto.Madryn - Trelew",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-42.744867, -65.114303],
+      "endPoint": [-43.230919, -65.300647]
     }
   },
   {
     "ruta": "3",
     "tramo": "Trelew - Garayalde",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-43.230919, -65.300647],
+      "endPoint": [-44.686752, -66.621093]
     }
   },
   {
     "ruta": "3",
     "tramo": "Garayalde - C.Rivadavia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-44.686752, -66.621093],
+      "endPoint": [-45.872519, -67.495766]
     }
   },
   {
     "ruta": "3",
     "tramo": "C.Rivadavia - Lte.Sta.Cruz",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-45.872519, -67.495766],
+      "endPoint": [-45.999795, -67.597702]
     }
   },
   {
     "ruta": "25",
     "tramo": "Rawson - Las Plumas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-43.304462, -65.104284],
+      "endPoint": [-43.255598, -65.351925]
     }
   },
   {
     "ruta": "25",
     "tramo": "Las Plumas - Los Altares",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-43.255598, -65.351925],
+      "endPoint": [-43.885525, -68.412564]
     }
   },
   {
     "ruta": "25",
     "tramo": "Los Altares - Paso de Indios",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-43.885525, -68.412564],
+      "endPoint": [-43.861418, -69.049624]
     }
   },
   {
     "ruta": "25",
     "tramo": "Paso de Indios - Tecka",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-43.861418, -69.049624],
+      "endPoint": [-43.504742, -70.803815]
     }
   },
   {

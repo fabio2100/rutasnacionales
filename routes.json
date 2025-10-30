@@ -1615,8 +1615,8 @@
     "ruta": "60",
     "tramo": "Int. RN 9 - Int RP 16 / Acc. a Dean Funes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.787252, -64.068298],
+      "endPoint": [-30.42042, -64.343941]
     }
   },
   {
@@ -1624,8 +1624,8 @@
     "ruta": "60",
     "tramo": "Int RP 16 / Acc. a Dean Funes - Quilino",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.42042, -64.343941],
+      "endPoint": [-30.211746, -64.492602]
     }
   },
   {
@@ -1633,8 +1633,8 @@
     "ruta": "60",
     "tramo": "Quilino - Lte. C/Catamarca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.211746, -64.492602],
+      "endPoint": [-29.580756, -64.865852]
     }
   },
   {
@@ -1642,8 +1642,8 @@
     "ruta": "38",
     "tramo": "Int.RN 20 - Bialet Masse (Int.RP E55)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.400332, -64.466698],
+      "endPoint": [-31.332368, -64.46737]
     }
   },
   {
@@ -1651,8 +1651,8 @@
     "ruta": "38",
     "tramo": "Bialet Masse (Int.RP E55) - Int.RP E66",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.332368, -64.46737],
+      "endPoint": [-30.979354, -64.515788]
     }
   },
   {
@@ -1660,8 +1660,8 @@
     "ruta": "38",
     "tramo": "Int.RP E66 - Acc. a la Cumbre - Cruz del Eje",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.979354, -64.515788],
+      "endPoint": [-30.726268, -64.773136]
     }
   },
   {
@@ -1669,8 +1669,8 @@
     "ruta": "38",
     "tramo": "Acc. a la Cumbre - Cruz del Eje - Lte. C/ La Rioja",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.726268, -64.773136],
+      "endPoint": [-30.606931, -65.575696]
     }
   },
   {

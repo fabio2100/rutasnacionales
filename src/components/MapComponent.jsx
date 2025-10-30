@@ -145,11 +145,11 @@ const MapComponent = () => {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         
-        {/* Renderizar rutas dinámicamente usando los primeros 4 elementos de combinedData */}
-        {combinedData.slice(0, 167).map((route, index) => (
+        {/* Renderizar rutas dinámicamente usando los primeros 167 elementos de combinedData */}
+        {combinedData.slice(0, 167).map((route) => (
           <RoutingMachine 
-            key={`${route.ruta}-${route.tramo}-${index}`}
-            routeId={`route-${route.ruta}-${route.tramo}-${index}`}
+            key={route.id || `${route.ruta}-${route.tramo}`}
+            routeId={route.id || `route-${route.ruta}-${route.tramo}`}
             startPoint={route.coordinates.startPoint}
             endPoint={route.coordinates.endPoint}
             routeColor={getRouteColor(route.estado)}

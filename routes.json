@@ -1723,8 +1723,8 @@
     "ruta": "A005",
     "tramo": "Emp RN 8 -Emp RN 36",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.080447, -64.341167],
+      "endPoint": [-33.163803, -64.379531]
     }
   },
   {
@@ -1732,8 +1732,8 @@
     "ruta": "A019",
     "tramo": "Avda. Circunvalación de Córdoba",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.35708, -64.178414],
+      "endPoint": [-31.46663, -64.199622]
     }
   },
   {
@@ -1741,8 +1741,8 @@
     "ruta": "12",
     "tramo": "Lte. Entre Ríos - Esquina",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.342617, -59.513341],
+      "endPoint": [-30.008562, -59.522928]
     }
   },
   {
@@ -1750,8 +1750,8 @@
     "ruta": "12",
     "tramo": "Esquina - Goya",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.008562, -59.522928],
+      "endPoint": [-29.137663, -59.242148]
     }
   },
   {
@@ -1759,8 +1759,8 @@
     "ruta": "12",
     "tramo": "Goya - Cuatro Bocas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.137663, -59.242148],
+      "endPoint": [-28.480597, -58.718654]
     }
   },
   {
@@ -1768,8 +1768,8 @@
     "ruta": "12",
     "tramo": "Cuatro Bocas - Saladas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.480597, -58.718654],
+      "endPoint": [-28.248425, -58.703705]
     }
   },
   {
@@ -1777,8 +1777,8 @@
     "ruta": "12",
     "tramo": "Saladas - Corrientes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.248425, -58.703705],
+      "endPoint": [-27.484697, -58.782146]
     }
   },
   {
@@ -1786,8 +1786,8 @@
     "ruta": "12",
     "tramo": "Corrientes - Itatí",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.484697, -58.782146],
+      "endPoint": [-27.349535, -58.235049]
     }
   },
   {
@@ -1795,8 +1795,8 @@
     "ruta": "12",
     "tramo": "Itatí - Ituzaingó",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.349535, -58.235049],
+      "endPoint": [-27.600429, -56.673125]
     }
   },
   {
@@ -1804,8 +1804,8 @@
     "ruta": "12",
     "tramo": "Ituzaingo - Lte. Con Misiones",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.600429, -56.673125],
+      "endPoint": [-27.455267, -56.05133]
     }
   },
   {

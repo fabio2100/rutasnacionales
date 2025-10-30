@@ -977,7 +977,7 @@
     "tramo": "Santa María -Lte. Con Tucumán",
     "coordinates": {
       "startPoint": [-26.600382, -66.042169],
-      "endPoint": [-35, -70]
+      "endPoint": [-26.724036, -66.05349]
     }
   },
   {
@@ -1507,8 +1507,8 @@
     "ruta": "19",
     "tramo": "San Francisco - Cda. Jean Marie",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.420174, -62.062506],
+      "endPoint": [-31.405914, -62.467473]
     }
   },
   {
@@ -1516,8 +1516,8 @@
     "ruta": "19",
     "tramo": "Cda. Jean Marie - Arroyito",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.405914, -62.467473],
+      "endPoint": [-31.423788, -63.050515]
     }
   },
   {
@@ -1525,8 +1525,8 @@
     "ruta": "19",
     "tramo": "Arroyito - Tránsito",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.423788, -63.050515],
+      "endPoint": [-31.423357, -63.193512]
     }
   },
   {
@@ -1534,8 +1534,8 @@
     "ruta": "19",
     "tramo": "Tránsito - Río Primero",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.423357, -63.193512],
+      "endPoint": [-31.336299, -63.613962]
     }
   },
   {
@@ -1543,8 +1543,8 @@
     "ruta": "19",
     "tramo": "Río Primero - Córdoba",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.336299, -63.613962],
+      "endPoint": [-31.394448, -64.127461]
     }
   },
   {
@@ -1552,8 +1552,8 @@
     "ruta": "20",
     "tramo": "Córdoba - Emp RN 38",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.420857, -64.273093],
+      "endPoint": [-31.400324, -64.466722]
     }
   },
   {
@@ -1561,17 +1561,8 @@
     "ruta": "20",
     "tramo": "Villa Dolores - Lte. Con San Luis",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "id": 175,
-    "ruta": "20",
-    "tramo": "Villa Dolores - Lte. C/San Luis",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.95374, -65.16256],
+      "endPoint": [-32.034777, -65.327885]
     }
   },
   {
@@ -1579,8 +1570,8 @@
     "ruta": "35",
     "tramo": "Lte. Con La Pampa -Acc. a del Campillo (int. RP 27)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.000091, -64.282274],
+      "endPoint": [-34.422392, -64.37982]
     }
   },
   {
@@ -1588,8 +1579,8 @@
     "ruta": "35",
     "tramo": "Acc. a del Campillo (int. RP 27) - Acc. a Vicuña Mackena",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.422392, -64.37982],
+      "endPoint": [-33.930004, -64.397449]
     }
   },
   {
@@ -1597,8 +1588,8 @@
     "ruta": "35",
     "tramo": "Acc. a Vicuña Mackena - Acc. a Sampacho (int. RP 24)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.930004, -64.397449],
+      "endPoint": [-33.485045, -64.419139]
     }
   },
   {
@@ -1606,17 +1597,8 @@
     "ruta": "35",
     "tramo": "Acc. a Sampacho (int. RP 24) - Int. RN 8 (Santa Catalina)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
-    }
-  },
-  {
-    "id": 180,
-    "ruta": "36",
-    "tramo": "Emp. RN 8 - Int. RN A-005",
-    "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.485045, -64.419139],
+      "endPoint": [-33.210771, -64.44064]
     }
   },
   {
@@ -1624,8 +1606,8 @@
     "ruta": "36",
     "tramo": "Río Cuarto - Córdoba",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.132637, -64.250802],
+      "endPoint": [-31.466466, -64.203065]
     }
   },
   {

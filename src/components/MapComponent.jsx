@@ -146,7 +146,7 @@ const MapComponent = () => {
         />
         
         {/* Renderizar rutas dinámicamente usando los primeros 4 elementos de combinedData */}
-        {combinedData.slice(0, 141).map((route, index) => (
+        {combinedData.slice(0, 167).map((route, index) => (
           <RoutingMachine 
             key={`${route.ruta}-${route.tramo}-${index}`}
             routeId={`route-${route.ruta}-${route.tramo}-${index}`}

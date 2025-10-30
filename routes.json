@@ -68,14 +68,14 @@
     "tramo": "Bajo Hondo - Emp. RN 229",
     "coordinates": {
       "startPoint": [-38.777348, -61.918133],
-      "endPoint": [-38.774584, -62.116910]
+      "endPoint": [-38.774584, -62.11691]
     }
   },
   {
     "ruta": "3",
     "tramo": "Emp. RN N° 229 - El Triángulo",
     "coordinates": {
-      "startPoint": [-38.774584, -62.116910],
+      "startPoint": [-38.774584, -62.11691],
       "endPoint": [-38.753673, -62.200501]
     }
   },
@@ -140,7 +140,7 @@
     "tramo": "Stroeder - Patagones",
     "coordinates": {
       "startPoint": [-40.181712, -62.653623],
-      "endPoint": [-40.790245, -63.000130]
+      "endPoint": [-40.790245, -63.00013]
     }
   },
   {
@@ -148,7 +148,7 @@
     "tramo": "Lujan - Lte. La Pampa",
     "coordinates": {
       "startPoint": [-34.578014, -59.083316],
-      "endPoint": [-36.410510, -63.385462]
+      "endPoint": [-36.41051, -63.385462]
     }
   },
   {
@@ -172,7 +172,7 @@
     "tramo": "Pilar - Lte. Santa Fe",
     "coordinates": {
       "startPoint": [-34.453396, -58.939935],
-      "endPoint": [-33.865580, -61.160616]
+      "endPoint": [-33.86558, -61.160616]
     }
   },
   {
@@ -180,7 +180,7 @@
     "tramo": "Arrequintin - Lte. Con Chile",
     "coordinates": {
       "startPoint": [-30.392238, -69.570953],
-      "endPoint": [-30.192885, -69.826200]
+      "endPoint": [-30.192885, -69.8262]
     }
   },
   {
@@ -196,7 +196,7 @@
     "tramo": "Campana - Lte. Santa Fe",
     "coordinates": {
       "startPoint": [-34.181442, -58.960931],
-      "endPoint": [-33.330463, -60.303510]
+      "endPoint": [-33.330463, -60.30351]
     }
   },
   {
@@ -236,14 +236,14 @@
     "tramo": "Emp. RN N° 3 - Emp. Ex RN N° 33",
     "coordinates": {
       "startPoint": [-38.705946, -62.337224],
-      "endPoint": [-38.657422, -62.277160]
+      "endPoint": [-38.657422, -62.27716]
     }
   },
   {
     "ruta": "33",
     "tramo": "Emp. Ex RN N° 33 - La Viticola",
     "coordinates": {
-      "startPoint": [-38.657422, -62.277160],
+      "startPoint": [-38.657422, -62.27716],
       "endPoint": [-38.521408, -62.293603]
     }
   },
@@ -300,16 +300,14 @@
     "tramo": "Lte.Con San Luis - Mendoza",
     "coordinates": {
       "startPoint": [-33.404349, -67.151441],
-      "endPoint": [-32.897587, -68.818680
-
-]
+      "endPoint": [-32.897587, -68.81868]
     }
   },
   {
     "ruta": "7",
     "tramo": "Empalme RN 40 - Potrerillos",
     "coordinates": {
-      "startPoint": [-32.897587, -68.818680],
+      "startPoint": [-32.897587, -68.81868],
       "endPoint": [-32.966124, -69.199465]
     }
   },
@@ -366,14 +364,14 @@
     "tramo": "Lte. Con Neuquen - Emp. RP 221",
     "coordinates": {
       "startPoint": [-36.813504, -69.873209],
-      "endPoint": [-36.313020, -69.666148]
+      "endPoint": [-36.31302, -69.666148]
     }
   },
   {
     "ruta": "40",
     "tramo": "Emp. RP 221 - La Pasarela",
     "coordinates": {
-      "startPoint": [-36.313020, -69.666148],
+      "startPoint": [-36.31302, -69.666148],
       "endPoint": [-35.862985, -69.807826]
     }
   },
@@ -381,7 +379,7 @@
     "ruta": "40",
     "tramo": "La Pasarela - Bardas Blancas",
     "coordinates": {
-      "startPoint": [-36.313020, -69.666148],
+      "startPoint": [-36.31302, -69.666148],
       "endPoint": [-35.862985, -69.807826]
     }
   },
@@ -414,14 +412,14 @@
     "tramo": "A. Hondo - Pareditas",
     "coordinates": {
       "startPoint": [-34.475268, -69.291786],
-      "endPoint": [-33.955000, -69.078217]
+      "endPoint": [-33.955, -69.078217]
     }
   },
   {
     "ruta": "40",
     "tramo": "Pareditas - Tunuyan",
     "coordinates": {
-      "startPoint": [-33.955000, -69.078217],
+      "startPoint": [-33.955, -69.078217],
       "endPoint": [-33.577467, -69.016308]
     }
   },
@@ -430,14 +428,14 @@
     "tramo": "Tunuyan - Mendoza",
     "coordinates": {
       "startPoint": [-33.577467, -69.016308],
-      "endPoint": [-32.896343, -68.831870]
+      "endPoint": [-32.896343, -68.83187]
     }
   },
   {
     "ruta": "40",
     "tramo": "Mendoza - Lte. Con San Juan",
     "coordinates": {
-      "startPoint": [-32.896343, -68.831870],
+      "startPoint": [-32.896343, -68.83187],
       "endPoint": [-32.261984, -68.512392]
     }
   },
@@ -462,14 +460,14 @@
     "tramo": "Carmensa - San Rafael",
     "coordinates": {
       "startPoint": [-35.157148, -67.666646],
-      "endPoint": [-34.629680, -68.383163]
+      "endPoint": [-34.62968, -68.383163]
     }
   },
   {
     "ruta": "143",
     "tramo": "San Rafael - Pareditas",
     "coordinates": {
-      "startPoint": [-34.629680, -68.383163],
+      "startPoint": [-34.62968, -68.383163],
       "endPoint": [-33.943004, -69.079132]
     }
   },
@@ -479,7 +477,6 @@
     "coordinates": {
       "startPoint": [-34.652731, -68.378495],
       "endPoint": [-34.914095, -68.932066]
-
     }
   },
   {
@@ -567,14 +564,14 @@
     "tramo": "Bahía Blanca - Nueva Roma",
     "coordinates": {
       "startPoint": [-38.696969, -62.326757],
-      "endPoint": [-38.526690, -62.616804]
+      "endPoint": [-38.52669, -62.616804]
     }
   },
   {
     "ruta": "35",
     "tramo": "Nueva Roma - San Germán",
     "coordinates": {
-      "startPoint": [-38.526690, -62.616804],
+      "startPoint": [-38.52669, -62.616804],
       "endPoint": [-38.298784, -62.978445]
     }
   },
@@ -607,7 +604,7 @@
     "tramo": "Junín - Lte. La Pampa",
     "coordinates": {
       "startPoint": [-34.582369, -60.991566],
-      "endPoint": [-35.024912, -63.385670]
+      "endPoint": [-35.024912, -63.38567]
     }
   },
   {
@@ -646,7 +643,7 @@
     "ruta": "226",
     "tramo": "Mar del Plata - Olavarria",
     "coordinates": {
-      "startPoint": [-37.979893, -57.582920],
+      "startPoint": [-37.979893, -57.58292],
       "endPoint": [-36.882368, -60.296945]
     }
   },
@@ -671,14 +668,14 @@
     "tramo": "Acc. a San Cayetano - Camp. A Belloq",
     "coordinates": {
       "startPoint": [-38.559903, -59.371657],
-      "endPoint": [-38.440605, -60.155390]
+      "endPoint": [-38.440605, -60.15539]
     }
   },
   {
     "ruta": "228",
     "tramo": "Camp. A Belloq - Tres Arroyos",
     "coordinates": {
-      "startPoint": [-38.440605, -60.155390],
+      "startPoint": [-38.440605, -60.15539],
       "endPoint": [-38.357165, -60.281481]
     }
   },
@@ -686,7 +683,7 @@
     "ruta": "229",
     "tramo": "Emp. R.N.3 - B. Marisol P. Alta",
     "coordinates": {
-      "startPoint": [-38.775223, -62.117900],
+      "startPoint": [-38.775223, -62.1179],
       "endPoint": [-38.892988, -62.080379]
     }
   },
@@ -694,7 +691,7 @@
     "ruta": "249",
     "tramo": "Emp. R.N.3 - Emp. R.N. 229 P. Alta",
     "coordinates": {
-      "startPoint": [-38.892996, -62.080500],
+      "startPoint": [-38.892996, -62.0805],
       "endPoint": [-38.781923, -61.897568]
     }
   },
@@ -711,7 +708,7 @@
     "tramo": "Emp RN N° 3 - Puente La Niña",
     "coordinates": {
       "startPoint": [-38.773161, -62.242231],
-      "endPoint": [-38.787604, -62.264440]
+      "endPoint": [-38.787604, -62.26444]
     }
   },
   {
@@ -726,8 +723,8 @@
     "ruta": "A-001",
     "tramo": "Puente La Noria - Emp. Avda. Lugones y Cantilo",
     "coordinates": {
-      "startPoint": [-34.704655, -58.460880],
-      "endPoint": [-34.549029, -58.437480]
+      "startPoint": [-34.704655, -58.46088],
+      "endPoint": [-34.549029, -58.43748]
     }
   },
   {
@@ -735,14 +732,14 @@
     "tramo": "RP N° 40(Merlo) - RN N° 3 (La Matanza)",
     "coordinates": {
       "startPoint": [-34.671732, -58.785849],
-      "endPoint": [-34.831350, -58.647971]
+      "endPoint": [-34.83135, -58.647971]
     }
   },
   {
     "ruta": "A-017",
     "tramo": "RN N° 3 (La Matanza) - KM 47 (Ezeiza)",
     "coordinates": {
-      "startPoint": [-34.831350, -58.647971],
+      "startPoint": [-34.83135, -58.647971],
       "endPoint": [-34.870413, -58.579741]
     }
   },
@@ -767,14 +764,14 @@
     "tramo": "AV. Gral. Paz - Aeropuerto Ezeiza",
     "coordinates": {
       "startPoint": [-34.687095, -58.485616],
-      "endPoint": [-34.808382, -58.543620]
+      "endPoint": [-34.808382, -58.54362]
     }
   },
   {
     "ruta": "Av. Jorge Newbery",
     "tramo": "AU Riccheri (Dist. El Trébol) - AU Ezeiza - Cañuelas",
     "coordinates": {
-      "startPoint": [-34.784115, -58.523930],
+      "startPoint": [-34.784115, -58.52393],
       "endPoint": [-35.027928, -58.730358]
     }
   },
@@ -782,7 +779,7 @@
     "ruta": "Puentes Riachuelo",
     "tramo": "Puente Alsina y accesos",
     "coordinates": {
-      "startPoint": [-34.658907, -58.416660],
+      "startPoint": [-34.658907, -58.41666],
       "endPoint": [-34.660211, -58.416816]
     }
   },
@@ -790,7 +787,7 @@
     "ruta": "Puentes Riachuelo",
     "tramo": "Puente Avellaneda y accesos",
     "coordinates": {
-      "startPoint": [-34.637480, -58.356377],
+      "startPoint": [-34.63748, -58.356377],
       "endPoint": [-34.638642, -58.355045]
     }
   },
@@ -831,7 +828,7 @@
     "tramo": "Fín Avda. Circunvalación - Lte. Con Tucumán",
     "coordinates": {
       "startPoint": [-28.467582, -65.696056],
-      "endPoint": [-28.006005, -65.581050]
+      "endPoint": [-28.006005, -65.58105]
     }
   },
   {
@@ -863,7 +860,7 @@
     "tramo": "Río Las Cuevas - Santa María",
     "coordinates": {
       "startPoint": [-27.102567, -66.640444],
-      "endPoint": [-26.724036, -66.053490]
+      "endPoint": [-26.724036, -66.05349]
     }
   },
   {
@@ -919,14 +916,14 @@
     "tramo": "Tinogasta - Fiambalá",
     "coordinates": {
       "startPoint": [-28.066235, -67.564908],
-      "endPoint": [-27.693244, -67.626390]
+      "endPoint": [-27.693244, -67.62639]
     }
   },
   {
     "ruta": "60",
     "tramo": "Fiambalá - Cortaderas",
     "coordinates": {
-      "startPoint": [-27.693244, -67.626390],
+      "startPoint": [-27.693244, -67.62639],
       "endPoint": [-27.560465, -68.145573]
     }
   },
@@ -942,7 +939,7 @@
     "ruta": "64",
     "tramo": "Lte. Con Sgo. Del Estero - Lte. Con Tucuman",
     "coordinates": {
-      "startPoint": [-28.192600, -65.111603],
+      "startPoint": [-28.1926, -65.111603],
       "endPoint": [-28.006295, -65.560563]
     }
   },
@@ -959,14 +956,14 @@
     "tramo": "Lte. Con Sta. Fe - Resistencia",
     "coordinates": {
       "startPoint": [-27.999346, -59.230507],
-      "endPoint": [-27.412550, -59.002469]
+      "endPoint": [-27.41255, -59.002469]
     }
   },
   {
     "ruta": "11",
     "tramo": "Resistencia - Lte. Con Formosa",
     "coordinates": {
-      "startPoint": [-27.412550, -59.002469],
+      "startPoint": [-27.41255, -59.002469],
       "endPoint": [-26.660195, -58.633662]
     }
   },
@@ -975,14 +972,14 @@
     "tramo": "Pte. Gral. M. Belgrano - Emp. RN 11",
     "coordinates": {
       "startPoint": [-27.469796, -58.860184],
-      "endPoint": [-27.411266, -59.002000]
+      "endPoint": [-27.411266, -59.002]
     }
   },
   {
     "ruta": "16",
     "tramo": "Emp. RN 11 - Emp. RN 95",
     "coordinates": {
-      "startPoint": [-27.411266, -59.002000],
+      "startPoint": [-27.411266, -59.002],
       "endPoint": [-26.811931, -60.418063]
     }
   },
@@ -999,14 +996,14 @@
     "tramo": "Pampa del Infierno - Lte. Sgo. Del Estero",
     "coordinates": {
       "startPoint": [-26.512378, -61.172706],
-      "endPoint": [-26.284646, -61.711190]
+      "endPoint": [-26.284646, -61.71119]
     }
   },
   {
     "ruta": "16",
     "tramo": "Lte. Sgo. Del Estero - Lte. Con Salta",
     "coordinates": {
-      "startPoint": [-26.284646, -61.711190],
+      "startPoint": [-26.284646, -61.71119],
       "endPoint": [-25.576284, -63.360218]
     }
   },
@@ -1047,14 +1044,14 @@
     "tramo": "Emp. RP 9 - Emp. RP 3",
     "coordinates": {
       "startPoint": [-26.339588, -60.302548],
-      "endPoint": [-25.727060, -60.174855]
+      "endPoint": [-25.72706, -60.174855]
     }
   },
   {
     "ruta": "95",
     "tramo": "Emp. RP 3 - Lte. Con Formosa",
     "coordinates": {
-      "startPoint": [-25.727060, -60.174855],
+      "startPoint": [-25.72706, -60.174855],
       "endPoint": [-25.652747, -60.128797]
     }
   },
@@ -1062,7 +1059,7 @@
     "ruta": "3",
     "tramo": "Aº Verde - Pto.Madryn",
     "coordinates": {
-      "startPoint": [-41.997830, -65.292378],
+      "startPoint": [-41.99783, -65.292378],
       "endPoint": [-42.744867, -65.114303]
     }
   },
@@ -1134,208 +1131,208 @@
     "ruta": "26",
     "tramo": "C. Rivadavia - Sarmiento",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-45.906219, -67.580323],
+      "endPoint": [-45.599866, -69.069565]
     }
   },
   {
     "ruta": "26",
     "tramo": "Sarmiento - Emp. RN 40",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-45.599866, -69.069565],
+      "endPoint": [-45.448264, -69.815933]
     }
   },
   {
     "ruta": "40",
     "tramo": "Lte. Sta. Cruz - Rio Mayo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-45.999753, -70.438788],
+      "endPoint": [-45.685437, -70.25082]
     }
   },
   {
     "ruta": "40",
     "tramo": "Rio Mayo - Emp. RN 26",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-45.685437, -70.25082],
+      "endPoint": [-45.448172, -69.816119]
     }
   },
   {
     "ruta": "40",
     "tramo": "Emp. RN 26 - Gob.Costa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-45.448172, -69.816119],
+      "endPoint": [-44.046952, -70.598629]
     }
   },
   {
     "ruta": "40",
     "tramo": "Gob.Costa - Tecka",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-44.046952, -70.598629],
+      "endPoint": [-43.493544, -70.807767]
     }
   },
   {
     "ruta": "40",
     "tramo": "Tecka - Emp. RN 259",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-43.493544, -70.807767],
+      "endPoint": [-42.948807, -71.215585]
     }
   },
   {
     "ruta": "40",
     "tramo": "Emp. RN 259 - Acc. a Cholila",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-42.948807, -71.215585],
+      "endPoint": [-42.375336, -71.112294]
     }
   },
   {
     "ruta": "40",
     "tramo": "Acc.Cholila - El Bolson",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-42.375336, -71.112294],
+      "endPoint": [-41.967278, -71.536067]
     }
   },
   {
     "ruta": "259",
     "tramo": "Emp. RN 40 - Esquel",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-42.948755, -71.215628],
+      "endPoint": [-42.911307, -71.312619]
     }
   },
   {
     "ruta": "259",
     "tramo": "Esquel - Trevelin",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-42.911307, -71.312619],
+      "endPoint": [-43.090844, -71.464094]
     }
   },
   {
     "ruta": "259",
     "tramo": "Trevelin - Lte. Con Chile",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-43.090844, -71.464094],
+      "endPoint": [-43.175625, -71.755184]
     }
   },
   {
     "ruta": "260",
     "tramo": "Emp. RN 40 - Lte. Con Chile",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-45.935925, -70.405122],
+      "endPoint": [-45.91432, -71.645957]
     }
   },
   {
     "ruta": "1S40",
     "tramo": "Lte. con Rio Negro - El Maiten",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-42.052645, -71.16233],
+      "endPoint": [-41.999946, -71.127697]
     }
   },
   {
     "ruta": "1S40",
     "tramo": "El Maiten - Emp. RP 70",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-42.052645, -71.16233],
+      "endPoint": [-42.15712, -71.177367]
     }
   },
   {
     "ruta": "1S40",
     "tramo": "Emp. RP 70 - Emp. RN 40",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-42.15712, -71.177367],
+      "endPoint": [-42.321266, -71.133014]
     }
   },
   {
     "ruta": "7",
     "tramo": "Lte. C/Santa Fe - Lte. C/San Luis",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.867662, -65.120275],
+      "endPoint": [-34.262562, -62.787132]
     }
   },
   {
     "ruta": "8",
     "tramo": "Lte. C/Santa Fe -Acc. a La Carlota",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.64108, -62.313762],
+      "endPoint": [-33.393251, -63.304078]
     }
   },
   {
     "ruta": "8",
     "tramo": "Acc. a La Carlota - Int. RN 36",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.393251, -63.304078],
+      "endPoint": [-33.132719, -64.250346]
     }
   },
   {
     "ruta": "8",
     "tramo": "Int. RN 36 - Int. RP 24 (Acc, a Sampacho)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.132719, -64.250346],
+      "endPoint": [-33.396097, -64.731783]
     }
   },
   {
     "ruta": "8",
     "tramo": "Int. RP 24 (Acc.a Sampacho) - Lte. con San Luis",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.396097, -64.731783],
+      "endPoint": [-33.598657, -65.129266]
     }
   },
   {
     "ruta": "9",
     "tramo": "Lte. C/Santa Fe - Pilar",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.776389, -61.797012],
+      "endPoint": [-31.671684, -63.84356]
     }
   },
   {
     "ruta": "9",
     "tramo": "Pilar - Córdoba",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.671684, -63.84356],
+      "endPoint": [-31.418217, -64.111401]
     }
   },
   {
     "ruta": "9",
     "tramo": "Córdoba - Jesús María (entrada)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.418217, -64.111401],
+      "endPoint": [-31.018435, -64.1129]
     }
   },
   {
     "ruta": "9",
     "tramo": "Jesús María ( Entrada ) - Jesús María ( Salida )",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.018435, -64.1129],
+      "endPoint": [-30.965868, -64.082122]
     }
   },
   {
     "ruta": "9",
     "tramo": "Jesús María (salida) - Lte. Sgo del Estero",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.965868, -64.082122],
+      "endPoint": [-29.659428, -63.721435]
     }
   },
   {

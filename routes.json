@@ -1678,8 +1678,12 @@
     "ruta": "148",
     "tramo": "Lte. C/San Luis - Emp RP 14",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.321888, -65.173138
+
+],
+      "endPoint": [-31.953886, -65.162054
+
+]
     }
   },
   {
@@ -1687,8 +1691,8 @@
     "ruta": "158",
     "tramo": "Int. RN 19 (San Francisco) - Int. RP 13 (Las Varillas)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.869174, -62.707973],
+      "endPoint": [-31.435435, -61.991716]
     }
   },
   {
@@ -1696,8 +1700,8 @@
     "ruta": "158",
     "tramo": "Int. RP 13 - Villa Maria",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.869174, -62.707973],
+      "endPoint": [-32.401249, -63.245201]
     }
   },
   {
@@ -1705,8 +1709,8 @@
     "ruta": "158",
     "tramo": "Villa Maria - General Deheza",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.401249, -63.245201],
+      "endPoint": [-32.753974, -63.790513]
     }
   },
   {
@@ -1714,8 +1718,8 @@
     "ruta": "158",
     "tramo": "General Deheza - Rio Cuarto",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.753974, -63.790513],
+      "endPoint": [-33.092986, -64.323553]
     }
   },
   {
@@ -1813,8 +1817,8 @@
     "ruta": "14",
     "tramo": "Lte. Entre Ríos - Cuatro Bocas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.627606, -57.982757],
+      "endPoint": [-30.077183, -58.002611]
     }
   },
   {
@@ -1822,8 +1826,8 @@
     "ruta": "14",
     "tramo": "Cuatro Bocas - Bompland",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.077183, -58.002611],
+      "endPoint": [-29.813606, -57.444376]
     }
   },
   {
@@ -1831,8 +1835,8 @@
     "ruta": "14",
     "tramo": "Bompland - Paso de los Libres",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.813606, -57.444376],
+      "endPoint": [-29.710973, -57.208059]
     }
   },
   {
@@ -1840,8 +1844,8 @@
     "ruta": "14",
     "tramo": "Paso de los Libres - Yapeyú",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.710973, -57.208059],
+      "endPoint": [-29.422219, -56.845991]
     }
   },
   {
@@ -1849,8 +1853,8 @@
     "ruta": "14",
     "tramo": "Yapeyú - Santo Tomé",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.422219, -56.845991],
+      "endPoint": [-28.551193, -56.072172]
     }
   },
   {
@@ -1858,8 +1862,8 @@
     "ruta": "14",
     "tramo": "Santo Tomé - Gdor. Virasoro",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.551193, -56.072172],
+      "endPoint": [-28.050036, -56.013262]
     }
   },
   {
@@ -1867,8 +1871,8 @@
     "ruta": "14",
     "tramo": "Gdor. Virasoro - Lte. Con Misiones",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.050036, -56.013262],
+      "endPoint": [-27.788053, -55.830988]
     }
   },
   {
@@ -1876,8 +1880,8 @@
     "ruta": "117",
     "tramo": "Acc. a Paso de los Libres - Acc. Aeropuerto",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.72178, -57.128623],
+      "endPoint": [-29.714148, -57.2103]
     }
   },
   {
@@ -1885,8 +1889,8 @@
     "ruta": "117",
     "tramo": "Acc. Aeropuerto - Puente Internacional T. Neves",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.72178, -57.128623],
+      "endPoint": [-29.742592, -57.093541]
     }
   },
   {
@@ -1894,8 +1898,8 @@
     "ruta": "118",
     "tramo": "Saladas - Santa Rosa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.264596, -58.118821],
+      "endPoint": [-28.282783, -58.630236]
     }
   },
   {
@@ -1903,8 +1907,8 @@
     "ruta": "118",
     "tramo": "Santa Rosa - San Miguel",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.264596, -58.118821],
+      "endPoint": [-27.987121, -57.603195]
     }
   },
   {
@@ -1912,8 +1916,8 @@
     "ruta": "118",
     "tramo": "San Miguel - Emp. RN 12",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.987121, -57.603195],
+      "endPoint": [-27.553955, -57.14977]
     }
   },
   {
@@ -1921,8 +1925,8 @@
     "ruta": "119",
     "tramo": "Emp. RN 14 y 127 - Km 70",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.075374, -58.004238],
+      "endPoint": [-29.752699, -58.086149]
     }
   },
   {
@@ -1930,8 +1934,8 @@
     "ruta": "119",
     "tramo": "Km. 70 - Mercedes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.752699, -58.086149],
+      "endPoint": [-29.150979, -58.112108]
     }
   },
   {
@@ -1939,8 +1943,8 @@
     "ruta": "120",
     "tramo": "Emp. RN 14 - Puente (Río Aguapey)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.967188, -56.008939],
+      "endPoint": [-27.824413, -56.258642]
     }
   },
   {
@@ -1948,8 +1952,8 @@
     "ruta": "120",
     "tramo": "Puente (Río Aguapey) - Embalse Yaciretá",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.824413, -56.258642],
+      "endPoint": [-27.617872, -56.396865]
     }
   },
   {
@@ -1957,8 +1961,8 @@
     "ruta": "121",
     "tramo": "Acc. a Santo Tomé - Pte Internacional con Brasil",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.610616, -56.014582],
+      "endPoint": [-28.565944, -56.078887]
     }
   },
   {

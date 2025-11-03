@@ -2200,8 +2200,8 @@
     "ruta": "130",
     "tramo": "Emp. RN 14 - Villaguay",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.86396, -59.026476],
+      "endPoint": [-32.157025, -58.239812]
     }
   },
   {
@@ -2209,8 +2209,8 @@
     "ruta": "131",
     "tramo": "Emp. RP 11 - Emp. RN 12",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.082324, -60.595686],
+      "endPoint": [-32.039826, -60.269337]
     }
   },
   {
@@ -2218,8 +2218,8 @@
     "ruta": "135",
     "tramo": "Emp. RN 14 - Pte. Internac. Gervasio Artigas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.264743, -58.10059],
+      "endPoint": [-32.259594, -58.237813]
     }
   },
   {
@@ -2227,8 +2227,8 @@
     "ruta": "136",
     "tramo": "Emp. RP 20 - Pte. Internacional General San Martín",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.098894, -58.248828],
+      "endPoint": [-32.989428, -58.52204]
     }
   },
   {
@@ -2236,8 +2236,8 @@
     "ruta": "174",
     "tramo": "Victoria - Rosario",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.605274, -60.169353],
+      "endPoint": [-32.872218, -60.699039]
     }
   },
   {
@@ -2245,8 +2245,8 @@
     "ruta": "A015",
     "tramo": "Emp. RN 14 - Acc. a Salto Grande",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.275031, -57.93858],
+      "endPoint": [-31.279736, -58.076452]
     }
   },
   {
@@ -2254,8 +2254,8 @@
     "ruta": "11",
     "tramo": "Lucio Mansilla - Pte. San. Ignacio de Loyola",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.264291, -57.724431],
+      "endPoint": [-26.648687, -58.626273]
     }
   },
   {
@@ -2263,8 +2263,8 @@
     "ruta": "81",
     "tramo": "Formosa - Las Lomitas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.110706, -58.233687],
+      "endPoint": [-24.702556, -60.590595]
     }
   },
   {
@@ -2272,8 +2272,8 @@
     "ruta": "81",
     "tramo": "Las Lomitas - J. G. Bazan",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.702556, -60.590595],
+      "endPoint": [-24.536707, -60.831508]
     }
   },
   {
@@ -2281,8 +2281,8 @@
     "ruta": "81",
     "tramo": "Juan Bazan - P. del Mortero",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.536707, -60.831508],
+      "endPoint": [-24.398615, -61.028941]
     }
   },
   {
@@ -2290,8 +2290,8 @@
     "ruta": "81",
     "tramo": "Pozo del Mortero - Laguna Yema",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.398615, -61.028941],
+      "endPoint": [-24.250283, -61.239721]
     }
   },
   {
@@ -2299,8 +2299,8 @@
     "ruta": "81",
     "tramo": "Laguna Yema - Los Chiriguanos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.250283, -61.239721],
+      "endPoint": [-24.093526, -61.461313]
     }
   },
   {
@@ -2308,8 +2308,8 @@
     "ruta": "81",
     "tramo": "Los Chiriguanos - Ing. Juarez",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.093526, -61.461313],
+      "endPoint": [-23.889763, -61.851659]
     }
   },
   {
@@ -2317,8 +2317,8 @@
     "ruta": "81",
     "tramo": "Ing. Juarez - Km 25,5",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.889763, -61.851659],
+      "endPoint": [-23.751027, -62.14981]
     }
   },
   {
@@ -2326,8 +2326,8 @@
     "ruta": "81",
     "tramo": "Km. 25,5 - Lte. Con Salta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.751027, -62.14981],
+      "endPoint": [-23.693547, -62.341997]
     }
   },
   {

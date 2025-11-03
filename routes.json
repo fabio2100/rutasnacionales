@@ -1678,12 +1678,8 @@
     "ruta": "148",
     "tramo": "Lte. C/San Luis - Emp RP 14",
     "coordinates": {
-      "startPoint": [-32.321888, -65.173138
-
-],
-      "endPoint": [-31.953886, -65.162054
-
-]
+      "startPoint": [-32.321888, -65.173138],
+      "endPoint": [-31.953886, -65.162054]
     }
   },
   {
@@ -1970,8 +1966,8 @@
     "ruta": "122",
     "tramo": "Acc. a Yapeyú - Centro Yapeyú",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.422227, -56.845989],
+      "endPoint": [-29.469037, -56.818397]
     }
   },
   {
@@ -1979,8 +1975,8 @@
     "ruta": "123",
     "tramo": "Desmochado - Emp. RN 12",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.756581, -59.010049],
+      "endPoint": [-28.859875, -58.734771]
     }
   },
   {
@@ -1988,8 +1984,8 @@
     "ruta": "123",
     "tramo": "Emp. RN 12 - Mercedes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.859875, -58.734771],
+      "endPoint": [-29.159742, -58.082194]
     }
   },
   {
@@ -1997,8 +1993,8 @@
     "ruta": "123",
     "tramo": "Mercedes - Emp. RN 14",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.159742, -58.082194],
+      "endPoint": [-29.634051, -57.22085]
     }
   },
   {
@@ -2006,8 +2002,8 @@
     "ruta": "127",
     "tramo": "Lte. Con Entre Ríos - Emp. RN 14 y 119",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.272281, -58.23935],
+      "endPoint": [-30.077396, -58.004014]
     }
   },
   {
@@ -2015,8 +2011,8 @@
     "ruta": "12",
     "tramo": "Complejo Zarate Brazo Largo - Ceibas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.10334, -59.002448],
+      "endPoint": [-33.499863, -58.800824]
     }
   },
   {
@@ -2024,8 +2020,8 @@
     "ruta": "12",
     "tramo": "Ceibas - Gualeguay",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.499863, -58.800824],
+      "endPoint": [-33.139822, -59.305687]
     }
   },
   {
@@ -2033,8 +2029,8 @@
     "ruta": "12",
     "tramo": "Gualeguay - Galarza",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.139822, -59.305687],
+      "endPoint": [-32.725321, -59.368021]
     }
   },
   {
@@ -2042,8 +2038,8 @@
     "ruta": "12",
     "tramo": "Galarza - Emp. RP 39",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.725321, -59.368021],
+      "endPoint": [-32.351729, -59.308095]
     }
   },
   {
@@ -2051,8 +2047,8 @@
     "ruta": "12",
     "tramo": "Emp. RP 39 - Nogoyá",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.351729, -59.308095],
+      "endPoint": [-32.385346, -59.787404]
     }
   },
   {
@@ -2060,8 +2056,8 @@
     "ruta": "12",
     "tramo": "Nogoyá - Emp. RN 131",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.385346, -59.787404],
+      "endPoint": [-32.038909, -60.269203]
     }
   },
   {
@@ -2069,8 +2065,8 @@
     "ruta": "12",
     "tramo": "Emp. RN 131 - Paraná",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.038909, -60.269203],
+      "endPoint": [-31.737851, -60.483909]
     }
   },
   {
@@ -2078,8 +2074,8 @@
     "ruta": "12",
     "tramo": "Paraná - Cerrito",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.737851, -60.483909],
+      "endPoint": [-31.588226, -60.077199]
     }
   },
   {
@@ -2087,8 +2083,8 @@
     "ruta": "12",
     "tramo": "Cerrito - Emp. RN 127",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.588226, -60.077199],
+      "endPoint": [-31.565997, -59.957646]
     }
   },
   {
@@ -2096,8 +2092,8 @@
     "ruta": "12",
     "tramo": "Emp.RN 127 - Hernandarias",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.565997, -59.957646],
+      "endPoint": [-31.301961, -59.797115]
     }
   },
   {
@@ -2105,8 +2101,8 @@
     "ruta": "12",
     "tramo": "Hernandarias - La Paz",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.301961, -59.797115],
+      "endPoint": [-30.744988, -59.580048]
     }
   },
   {
@@ -2114,8 +2110,8 @@
     "ruta": "12",
     "tramo": "La Paz - Lte. Corrientes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.744988, -59.580048],
+      "endPoint": [-30.34277, -59.513375]
     }
   },
   {
@@ -2123,8 +2119,8 @@
     "ruta": "14",
     "tramo": "Ceibas - Lte. Corrientes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.499641, -58.800882],
+      "endPoint": [-30.627732, -57.982686]
     }
   },
   {
@@ -2132,8 +2128,8 @@
     "ruta": "18",
     "tramo": "Paraná - Villaguay",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.807229, -59.026596],
+      "endPoint": [-31.769341, -60.404303]
     }
   },
   {
@@ -2141,8 +2137,8 @@
     "ruta": "18",
     "tramo": "Villaguay - San Salvador",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.807229, -59.026596],
+      "endPoint": [-31.607822, -58.524104]
     }
   },
   {
@@ -2150,8 +2146,8 @@
     "ruta": "18",
     "tramo": "San Salvador - Emp. RN 14",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.607822, -58.524104],
+      "endPoint": [-31.512536, -58.185874]
     }
   },
   {
@@ -2159,8 +2155,8 @@
     "ruta": "127",
     "tramo": "Emp. RN 12 - Emp. RP 6",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.287792, -59.260164],
+      "endPoint": [-31.566284, -59.957661]
     }
   },
   {
@@ -2168,8 +2164,8 @@
     "ruta": "127",
     "tramo": "Emp. RP 6 - Federal",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.287792, -59.260164],
+      "endPoint": [-30.95243, -58.786223]
     }
   },
   {
@@ -2177,8 +2173,8 @@
     "ruta": "127",
     "tramo": "Federal - Miñones",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.95243, -58.786223],
+      "endPoint": [-30.699668, -58.580721]
     }
   },
   {
@@ -2186,8 +2182,8 @@
     "ruta": "127",
     "tramo": "Miñones - La Hierra",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.699668, -58.580721],
+      "endPoint": [-30.454191, -58.398677]
     }
   },
   {
@@ -2195,8 +2191,8 @@
     "ruta": "127",
     "tramo": "La Hierra - Lte. Corrientes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.454191, -58.398677],
+      "endPoint": [-30.272302, -58.239361]
     }
   },
   {

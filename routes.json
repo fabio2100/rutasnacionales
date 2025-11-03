@@ -2335,8 +2335,8 @@
     "ruta": "86",
     "tramo": "Clorinda - El Cogoik",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.291447, -57.732946],
+      "endPoint": [-24.883096, -59.268744]
     }
   },
   {
@@ -2344,8 +2344,8 @@
     "ruta": "86",
     "tramo": "El Cogoik - Villa Gral. Güemes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.883096, -59.268744],
+      "endPoint": [-24.758952, -59.501192]
     }
   },
   {
@@ -2353,8 +2353,8 @@
     "ruta": "86",
     "tramo": "Villa Gral. Güemes - Fortin Leyes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.758952, -59.501192],
+      "endPoint": [-24.555249, -59.385913]
     }
   },
   {
@@ -2362,8 +2362,8 @@
     "ruta": "86",
     "tramo": "Fortin Leyes - San Martin 2",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.555249, -59.385913],
+      "endPoint": [-24.434536, -59.656818]
     }
   },
   {
@@ -2371,8 +2371,8 @@
     "ruta": "86",
     "tramo": "San Martin 2 - C. Zalazar",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.434536, -59.656818],
+      "endPoint": [-24.212082, -60.198527]
     }
   },
   {
@@ -2380,8 +2380,8 @@
     "ruta": "86",
     "tramo": "C. Zalazar - El Remanso",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.212082, -60.198527],
+      "endPoint": [-23.353749, -61.587579]
     }
   },
   {
@@ -2389,8 +2389,8 @@
     "ruta": "86",
     "tramo": "El Remanso -Guadalcazar",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.353749, -61.587579],
+      "endPoint": [-23.674253, -61.165301]
     }
   },
   {
@@ -2398,8 +2398,8 @@
     "ruta": "86",
     "tramo": "El Solitario - M. San Martin",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.674253, -61.165301],
+      "endPoint": [-23.084762, -61.919716]
     }
   },
   {
@@ -2407,8 +2407,8 @@
     "ruta": "95",
     "tramo": "Fortín Lavalle - km 29,9",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.726386, -60.174569],
+      "endPoint": [-25.536783, -60.016296]
     }
   },
   {
@@ -2416,8 +2416,8 @@
     "ruta": "95",
     "tramo": "Km. 29,9 - Emp. RN 81",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.536783, -60.016296],
+      "endPoint": [-25.277453, -59.751637]
     }
   },
   {
@@ -2425,8 +2425,8 @@
     "ruta": "95",
     "tramo": "Emp. RN 81 - Villa. Gral Güemes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.277453, -59.751637],
+      "endPoint": [-24.758894, -59.501223]
     }
   },
   {

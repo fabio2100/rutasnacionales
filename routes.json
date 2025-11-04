@@ -2596,8 +2596,8 @@
     "ruta": "66",
     "tramo": "Emp. RN 9 - El Cadillal",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.218256, -65.273957],
+      "endPoint": [-24.330166, -65.139522]
     }
   },
   {
@@ -2605,8 +2605,8 @@
     "ruta": "66",
     "tramo": "El Cadillal - Emp. RN 34",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.330166, -65.139522],
+      "endPoint": [-24.373087, -64.975748]
     }
   },
   {
@@ -2614,8 +2614,8 @@
     "ruta": "IV66",
     "tramo": "Emp. RN 66 - Emp.RN 34",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.376155, -65.094181],
+      "endPoint": [-24.477843, -65.038165]
     }
   },
   {
@@ -2623,8 +2623,8 @@
     "ruta": "5",
     "tramo": "Lte. Bs. As - Emp. R.P. 3",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.410527, -63.385468],
+      "endPoint": [-36.493477, -63.664742]
     }
   },
   {
@@ -2632,8 +2632,8 @@
     "ruta": "5",
     "tramo": "Emp. R.P. 3 - Santa Rosa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.493477, -63.664742],
+      "endPoint": [-36.620113, -64.270276]
     }
   },
   {
@@ -2641,8 +2641,8 @@
     "ruta": "22",
     "tramo": "Lte. Con Bs. As. - Lte. Con Río Negro",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.912328, -63.384075],
+      "endPoint": [-38.976952, -64.106408]
     }
   },
   {
@@ -2650,8 +2650,8 @@
     "ruta": "35",
     "tramo": "Lte. Bs As  - Bernasconi",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.076491, -63.385584],
+      "endPoint": [-37.885028, -63.740908]
     }
   },
   {
@@ -2659,8 +2659,8 @@
     "ruta": "35",
     "tramo": "Bernasconi - Peru",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.885028, -63.740908],
+      "endPoint": [-37.663446, -64.131569]
     }
   },
   {
@@ -2668,8 +2668,8 @@
     "ruta": "35",
     "tramo": "Peru - Emp. RN 152",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.663446, -64.131569],
+      "endPoint": [-37.312592, -64.288137]
     }
   },
   {
@@ -2677,8 +2677,8 @@
     "ruta": "35",
     "tramo": "Emp. RN 152- Ataliva Roca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.312592, -64.288137],
+      "endPoint": [-37.03017, -64.288882]
     }
   },
   {
@@ -2686,8 +2686,8 @@
     "ruta": "35",
     "tramo": "Ataliva Roca - Emp. RN 5",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.03017, -64.288882],
+      "endPoint": [-36.620208, -64.270258]
     }
   },
   {
@@ -2695,8 +2695,8 @@
     "ruta": "35",
     "tramo": "Emp. RN 5 - Winifreda",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.620208, -64.270258],
+      "endPoint": [-36.224053, -64.278177]
     }
   },
   {
@@ -2704,8 +2704,8 @@
     "ruta": "35",
     "tramo": "Winifreda - E. Castex (emp. RP 102)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.224053, -64.278177],
+      "endPoint": [-35.903889, -64.273982]
     }
   },
   {
@@ -2713,8 +2713,8 @@
     "ruta": "35",
     "tramo": "E. Castex (emp. RP 102) - Emp. RP 4",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.903889, -64.273982],
+      "endPoint": [-35.675767, -64.267641]
     }
   },
   {
@@ -2722,8 +2722,8 @@
     "ruta": "35",
     "tramo": "Emp. RP 4 - Emp. RP 2",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.675767, -64.267641],
+      "endPoint": [-35.316296, -64.265329]
     }
   },
   {
@@ -2731,8 +2731,8 @@
     "ruta": "35",
     "tramo": "Emp. RP 2 - Lte. Córdoba",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.316296, -64.265329],
+      "endPoint": [-35.000111, -64.28221]
     }
   },
   {
@@ -2740,8 +2740,8 @@
     "ruta": "143",
     "tramo": "Emp. RN 152 - Emp. RP 20",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.446152, -65.074915],
+      "endPoint": [-37.337275, -65.674661]
     }
   },
   {
@@ -2749,8 +2749,8 @@
     "ruta": "143",
     "tramo": "Emp. RP 20 - Limay Mahuida",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.337275, -65.674661],
+      "endPoint": [-37.158864, -66.673488]
     }
   },
   {
@@ -2758,8 +2758,8 @@
     "ruta": "143",
     "tramo": "Limay Mahuida - Río Salado",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.158864, -66.673488],
+      "endPoint": [-36.709848, -66.893078]
     }
   },
   {
@@ -2767,8 +2767,8 @@
     "ruta": "143",
     "tramo": "Río Salado - Santa Isabel",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.709848, -66.893078],
+      "endPoint": [-36.232283, -66.940579]
     }
   },
   {
@@ -2776,8 +2776,8 @@
     "ruta": "143",
     "tramo": "Santa Isabel - Lte. Mendoza",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.232283, -66.940579],
+      "endPoint": [-35.999487, -67.164388]
     }
   },
   {
@@ -2785,8 +2785,8 @@
     "ruta": "1V143",
     "tramo": "Emp. RP 10 - Emp. RN 143",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.2424, -66.924325],
+      "endPoint": [-36.380932, -67.08075]
     }
   },
   {
@@ -2794,8 +2794,8 @@
     "ruta": "151",
     "tramo": "Lte. Río Negro - Puelen",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.722579, -67.764868],
+      "endPoint": [-37.343052, -67.624081]
     }
   },
   {
@@ -2803,8 +2803,8 @@
     "ruta": "151",
     "tramo": "Puelen - Pto. La Adela",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.343052, -67.624081],
+      "endPoint": [-37.071383, -67.526661]
     }
   },
   {
@@ -2812,8 +2812,8 @@
     "ruta": "151",
     "tramo": "Pto. La Adela - Algarrobo del Aguila",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.071383, -67.526661],
+      "endPoint": [-36.407471, -67.141662]
     }
   },
   {
@@ -2821,8 +2821,8 @@
     "ruta": "151",
     "tramo": "Algarrobo del Aguila - Emp. RN 143",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-36.407471, -67.141662],
+      "endPoint": [-36.380949, -67.080733]
     }
   },
   {
@@ -2830,8 +2830,8 @@
     "ruta": "152",
     "tramo": "Emp. RN 35 - Gral. Acha",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.312528, -64.288162],
+      "endPoint": [-37.367241, -64.604164]
     }
   },
   {
@@ -2839,8 +2839,8 @@
     "ruta": "152",
     "tramo": "Gral. Acha - El Carancho (Emp. RN 143)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.367241, -64.604164],
+      "endPoint": [-37.446126, -65.074664]
     }
   },
   {
@@ -2848,8 +2848,8 @@
     "ruta": "152",
     "tramo": "El Carancho (Emp.RN 143) - Lihuel Calel",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.446126, -65.074664],
+      "endPoint": [-37.887893, -65.470392]
     }
   },
   {
@@ -2857,8 +2857,8 @@
     "ruta": "152",
     "tramo": "Lihuel Calel - Puelches",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.887893, -65.470392],
+      "endPoint": [-38.144338, -65.91355]
     }
   },
   {
@@ -2866,8 +2866,8 @@
     "ruta": "152",
     "tramo": "Puelches - Emp. RN 232",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.144338, -65.91355],
+      "endPoint": [-38.142147, -66.088626]
     }
   },
   {
@@ -2875,8 +2875,8 @@
     "ruta": "152",
     "tramo": "Emp. RN 232 - Casa De Piedra",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.142147, -66.088626],
+      "endPoint": [-38.157203, -67.145233]
     }
   },
   {

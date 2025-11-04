@@ -2434,8 +2434,8 @@
     "ruta": "11-AO11",
     "tramo": "Acc. a Pto. Pilcomayo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.37382, -57.650167],
+      "endPoint": [-25.314537, -57.731322]
     }
   },
   {
@@ -2443,8 +2443,8 @@
     "ruta": "9",
     "tramo": "Lte. Salta - Acc. a Dique La Ciénaga",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.500031, -65.308997],
+      "endPoint": [-24.418198, -65.289973]
     }
   },
   {
@@ -2452,8 +2452,8 @@
     "ruta": "9",
     "tramo": "Acc. a Dique La Ciénaga - Río Perico",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.418198, -65.289973],
+      "endPoint": [-24.361544, -65.250695]
     }
   },
   {
@@ -2461,8 +2461,8 @@
     "ruta": "9",
     "tramo": "Río Perico - S.S. de Jujuy",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.361544, -65.250695],
+      "endPoint": [-24.202945, -65.307127]
     }
   },
   {
@@ -2470,8 +2470,8 @@
     "ruta": "9",
     "tramo": "S.S. de Jujuy -Yala",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.202945, -65.307127],
+      "endPoint": [-24.119154, -65.404784]
     }
   },
   {
@@ -2479,8 +2479,8 @@
     "ruta": "9",
     "tramo": "Yala - Volcán",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.119154, -65.404784],
+      "endPoint": [-23.915615, -65.466949]
     }
   },
   {
@@ -2488,8 +2488,8 @@
     "ruta": "9",
     "tramo": "Volcán - Emp. RN 52",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.915615, -65.466949],
+      "endPoint": [-23.744313, -65.469124]
     }
   },
   {
@@ -2497,8 +2497,8 @@
     "ruta": "9",
     "tramo": "Emp. RN 52 - Paraje San Pedrito",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.744313, -65.469124],
+      "endPoint": [-23.207039, -65.353877]
     }
   },
   {
@@ -2506,8 +2506,8 @@
     "ruta": "9",
     "tramo": "Paraje San Pedrito - Acc. a Iturbe",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.207039, -65.353877],
+      "endPoint": [-22.997263, -65.369576]
     }
   },
   {
@@ -2515,8 +2515,8 @@
     "ruta": "9",
     "tramo": "Acc. a Iturbe - Abra Pampa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-22.997263, -65.369576],
+      "endPoint": [-22.722274, -65.696282]
     }
   },
   {
@@ -2524,8 +2524,8 @@
     "ruta": "9",
     "tramo": "Abra Pampa - Lte. C/Bolivia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-22.722274, -65.696282],
+      "endPoint": [-22.096715, -65.596204]
     }
   },
   {
@@ -2533,8 +2533,8 @@
     "ruta": "34",
     "tramo": "Lte. Con Salta - Acc. Norte a San Pedro",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.562257, -65.079064],
+      "endPoint": [-24.209449, -64.855376]
     }
   },
   {
@@ -2542,8 +2542,8 @@
     "ruta": "34",
     "tramo": "Acc. a San Pedro -Lte. Con Salta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.209449, -64.855376],
+      "endPoint": [-23.573674, -64.495427]
     }
   },
   {
@@ -2551,8 +2551,8 @@
     "ruta": "40",
     "tramo": "Lte. Con Salta - Emp. RN 9",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.14675, -66.421302],
+      "endPoint": [-22.108049, -65.599416]
     }
   },
   {
@@ -2560,8 +2560,8 @@
     "ruta": "52",
     "tramo": "Emp. RN 9- Purmamarca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.74415, -65.469174],
+      "endPoint": [-23.744848, -65.498749]
     }
   },
   {
@@ -2569,8 +2569,8 @@
     "ruta": "52",
     "tramo": "Purmamarca - Emp. RP 79",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.744848, -65.498749],
+      "endPoint": [-23.643423, -65.84012]
     }
   },
   {
@@ -2578,8 +2578,8 @@
     "ruta": "52",
     "tramo": "Emp. RP 79 - Susques",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.643423, -65.84012],
+      "endPoint": [-23.40177, -66.368279]
     }
   },
   {
@@ -2587,8 +2587,8 @@
     "ruta": "52",
     "tramo": "Susques - Lte. con Chile",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.40177, -66.368279],
+      "endPoint": [-23.226594, -67.062831]
     }
   },
   {

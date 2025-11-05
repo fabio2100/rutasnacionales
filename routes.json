@@ -3082,12 +3082,8 @@
     "ruta": "73",
     "tramo": "Anguinan - Fin del tramo",
     "coordinates": {
-      "startPoint": [-29.212420, -67.414468
-
-],
-      "endPoint": [-29.345888, -67.265504
-
-]
+      "startPoint": [-29.21242, -67.414468],
+      "endPoint": [-29.345888, -67.265504]
     }
   },
   {
@@ -3095,8 +3091,8 @@
     "ruta": "74",
     "tramo": "Patquia - Los Colorados",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.031884, -66.874876],
+      "endPoint": [-29.684347, -67.358526]
     }
   },
   {
@@ -3104,8 +3100,8 @@
     "ruta": "74",
     "tramo": "Los Colorados - Nonogasta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.684347, -67.358526],
+      "endPoint": [-29.300983, -67.504692]
     }
   },
   {
@@ -3113,8 +3109,8 @@
     "ruta": "75",
     "tramo": "La Rioja - Los Sauces",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.437924, -66.836493],
+      "endPoint": [-29.40445, -66.932437]
     }
   },
   {
@@ -3122,8 +3118,8 @@
     "ruta": "75",
     "tramo": "Los Sauces - Sanagasta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.40445, -66.932437],
+      "endPoint": [-29.289216, -67.030343]
     }
   },
   {
@@ -3131,8 +3127,8 @@
     "ruta": "75",
     "tramo": "Sanagasta - Huaco",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.289216, -67.030343],
+      "endPoint": [-29.172907, -67.045991]
     }
   },
   {
@@ -3140,8 +3136,8 @@
     "ruta": "75",
     "tramo": "Huaco - Aminga",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.172907, -67.045991],
+      "endPoint": [-28.848406, -66.928873]
     }
   },
   {
@@ -3149,8 +3145,8 @@
     "ruta": "75",
     "tramo": "Aminga - Aimogasta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.848406, -66.928873],
+      "endPoint": [-28.560665, -66.810501]
     }
   },
   {
@@ -3158,8 +3154,8 @@
     "ruta": "76",
     "tramo": "Emp. RN 150 - Acc. a Talampaya",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.203828, -67.670354],
+      "endPoint": [-29.916261, -67.877233]
     }
   },
   {
@@ -3167,8 +3163,8 @@
     "ruta": "76",
     "tramo": "Acc. a Talampaya - Pagancillo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.916261, -67.877233],
+      "endPoint": [-29.546436, -68.105135]
     }
   },
   {
@@ -3176,8 +3172,8 @@
     "ruta": "76",
     "tramo": "Pegancillo - Villa Unión",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.546436, -68.105135],
+      "endPoint": [-29.319046, -68.228211]
     }
   },
   {
@@ -3185,8 +3181,8 @@
     "ruta": "76",
     "tramo": "Villa Unión - Vinchina",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.319046, -68.228211],
+      "endPoint": [-28.74989, -68.204049]
     }
   },
   {
@@ -3194,8 +3190,8 @@
     "ruta": "76",
     "tramo": "Vinchina - Alto Jagüe",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.74989, -68.204049],
+      "endPoint": [-28.664101, -68.391982]
     }
   },
   {
@@ -3203,8 +3199,8 @@
     "ruta": "76",
     "tramo": "Alto Jagüe - Queb. Santo Domingo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.664101, -68.391982],
+      "endPoint": [-28.545424, -68.746904]
     }
   },
   {
@@ -3212,8 +3208,8 @@
     "ruta": "76",
     "tramo": "Queb. Santo Domingo - Barrancas Blanca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.545424, -68.746904],
+      "endPoint": [-28.181413, -69.138117]
     }
   },
   {
@@ -3221,8 +3217,8 @@
     "ruta": "76",
     "tramo": "Barrancas Blanca - Lte. Con Chile",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.181413, -69.138117],
+      "endPoint": [-28.069881, -69.298646]
     }
   },
   {

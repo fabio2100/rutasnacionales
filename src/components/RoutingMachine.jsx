@@ -99,6 +99,10 @@ const RoutingMachine = ({ routeId, startPoint, endPoint, routeColor = 'red', rou
             <strong>Tipo de Ruta:</strong> ${routeData.tipoDeRuta || 'No disponible'}
           </div>
           
+          <div style="margin: 6px 0;">
+            <strong>Actualización:</strong> ${routeData.actualizacion || 'No disponible'}
+          </div>
+          
           <hr style="margin: 8px 0; border: none; border-top: 1px solid #ccc;">
           
           <div style="font-size: 12px; color: #666;">

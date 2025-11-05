@@ -145,7 +145,7 @@ const MapComponent = () => {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         
-        {/* Renderizar rutas dinámicamente usando los primeros 167 elementos de combinedData */}
+        {/* Renderizar rutas dinámicamente usando los primeros 343 elementos de combinedData */}
         {combinedData.slice(0, 343).map((route) => (
           <RoutingMachine 
             key={route.id || `${route.ruta}-${route.tramo}`}
@@ -158,7 +158,8 @@ const MapComponent = () => {
               tramo: route.tramo,
               longitud: route.longitud,
               estado: route.estado,
-              tipoDeRuta: route.tipoDeRuta
+              tipoDeRuta: route.tipoDeRuta,
+              actualizacion: route.actualizacion
             }}
           />
         ))}

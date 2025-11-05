@@ -2884,8 +2884,8 @@
     "ruta": "154",
     "tramo": "Cotita Emp. RN 35 - Emp. RP 28",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.750501, -64.02583],
+      "endPoint": [-38.069022, -64.06974]
     }
   },
   {
@@ -2893,8 +2893,8 @@
     "ruta": "154",
     "tramo": "Emp. RP 28 - Emp. RP 30",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.069022, -64.06974],
+      "endPoint": [-38.339711, -64.07203]
     }
   },
   {
@@ -2902,8 +2902,8 @@
     "ruta": "154",
     "tramo": "Emp. RP 30 - La Adela Emp. RN 22",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.339711, -64.07203],
+      "endPoint": [-38.970018, -64.075415]
     }
   },
   {
@@ -2911,8 +2911,8 @@
     "ruta": "188",
     "tramo": "Lte. Bs. As./La Pampa - Emp. R.P.7",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.024929, -63.385721],
+      "endPoint": [-35.046276, -63.914659]
     }
   },
   {
@@ -2920,8 +2920,8 @@
     "ruta": "188",
     "tramo": "Emp. R.P.7 - Realico Emp. RN.35",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.046276, -63.914659],
+      "endPoint": [-35.053482, -64.264625]
     }
   },
   {
@@ -2929,8 +2929,8 @@
     "ruta": "188",
     "tramo": "Realico Emp. R.N.35 - Rancul",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.053482, -64.264625],
+      "endPoint": [-35.083103, -64.682745]
     }
   },
   {
@@ -2938,8 +2938,8 @@
     "ruta": "188",
     "tramo": "Rancul - Lte.  San Luis",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-35.083103, -64.682745],
+      "endPoint": [-35.094831, -65.117429]
     }
   },
   {
@@ -2947,8 +2947,8 @@
     "ruta": "232",
     "tramo": "Emp. RN 152 - Emp. RP 30",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.142171, -66.088598],
+      "endPoint": [-38.412634, -66.29669]
     }
   },
   {
@@ -2956,8 +2956,8 @@
     "ruta": "232",
     "tramo": "Emp. RP 30 - Lte.  Rio Negro",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.412634, -66.29669],
+      "endPoint": [-38.745515, -66.435145]
     }
   },
   {
@@ -2965,8 +2965,8 @@
     "ruta": "38",
     "tramo": "Lte. Con Córdoba - Chamical",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.606951, -65.575697],
+      "endPoint": [-30.353567, -66.310219]
     }
   },
   {
@@ -2974,8 +2974,8 @@
     "ruta": "38",
     "tramo": "Chamical - Patquia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.353567, -66.310219],
+      "endPoint": [-30.038103, -66.875709]
     }
   },
   {
@@ -2983,8 +2983,8 @@
     "ruta": "38",
     "tramo": "Patquia - La Rioja",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.038103, -66.875709],
+      "endPoint": [-29.438183, -66.835628]
     }
   },
   {
@@ -2992,8 +2992,8 @@
     "ruta": "38",
     "tramo": "Emp. RN 75 - Emp. RP 5",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.438183, -66.835628],
+      "endPoint": [-29.396568, -66.812616]
     }
   },
   {
@@ -3001,8 +3001,8 @@
     "ruta": "38",
     "tramo": "La Rioja - Lte. Con Catamarca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.396568, -66.812616],
+      "endPoint": [-28.890405, -66.281643]
     }
   },
   {
@@ -3010,8 +3010,8 @@
     "ruta": "40",
     "tramo": "Lte. Con San Juan - Villa Unión",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.639728, -68.508346],
+      "endPoint": [-29.347062, -68.225165]
     }
   },
   {
@@ -3019,8 +3019,8 @@
     "ruta": "40",
     "tramo": "Villa Unión - Los Tambillos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.347062, -68.225165],
+      "endPoint": [-29.418362, -67.809028]
     }
   },
   {
@@ -3028,8 +3028,8 @@
     "ruta": "40",
     "tramo": "Los Tambillos - Cachiyuyal",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.418362, -67.809028],
+      "endPoint": [-29.340665, -67.669715]
     }
   },
   {
@@ -3037,8 +3037,8 @@
     "ruta": "40",
     "tramo": "Cachiyuyal - Nonogasta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.340665, -67.669715],
+      "endPoint": [-29.301073, -67.504905]
     }
   },
   {
@@ -3046,8 +3046,8 @@
     "ruta": "40",
     "tramo": "Nonogasta - Lte. Con Catamarca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.301073, -67.504905],
+      "endPoint": [-28.289201, -67.0896]
     }
   },
   {
@@ -3055,8 +3055,8 @@
     "ruta": "60",
     "tramo": "Villa Mazan - Aimogasta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.650883, -66.549598],
+      "endPoint": [-28.553154, -66.814387]
     }
   },
   {
@@ -3064,8 +3064,8 @@
     "ruta": "60",
     "tramo": "Aimogasta - Lte. Con Catamarca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.553154, -66.814387],
+      "endPoint": [-28.289663, -67.088448]
     }
   },
   {
@@ -3073,8 +3073,8 @@
     "ruta": "73",
     "tramo": "Emp. RN 75 -Pampa de la Viuda",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.249114, -67.074497],
+      "endPoint": [-29.29032, -67.130781]
     }
   },
   {
@@ -3082,8 +3082,12 @@
     "ruta": "73",
     "tramo": "Anguinan - Fin del tramo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.212420, -67.414468
+
+],
+      "endPoint": [-29.345888, -67.265504
+
+]
     }
   },
   {

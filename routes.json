@@ -1129,7 +1129,7 @@
     "ruta": "16",
     "tramo": "Lte. Sgo. Del Estero - Lte. Con Salta",
     "coordinates": {
-      "startPoint": [-26.284646, -61.71119],
+      "startPoint": [-25.649811, -63.193155],
       "endPoint": [-25.576284, -63.360218]
     }
   },
@@ -1613,7 +1613,7 @@
   {
     "id": 182,
     "ruta": "60",
-    "tramo": "Int. RN 9 - Int RP 16 / Acc. a Dean Funes",
+    "tramo": "Int. RN 9 - Int RP 16 / Acc. a Dean Funes ",
     "coordinates": {
       "startPoint": [-30.787252, -64.068298],
       "endPoint": [-30.42042, -64.343941]

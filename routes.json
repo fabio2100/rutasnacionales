@@ -3388,8 +3388,8 @@
     "ruta": "14",
     "tramo": "Lte. Con Corrientes - San José",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.787894, -55.830772],
+      "endPoint": [-27.746674, -55.780893]
     }
   },
   {
@@ -3397,8 +3397,8 @@
     "ruta": "14",
     "tramo": "San José - Oberá",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.746674, -55.780893],
+      "endPoint": [-27.502024, -55.113051]
     }
   },
   {
@@ -3406,8 +3406,8 @@
     "ruta": "14",
     "tramo": "Oberá - Campo Grande",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.502024, -55.113051],
+      "endPoint": [-27.219995, -54.971077]
     }
   },
   {
@@ -3415,8 +3415,8 @@
     "ruta": "14",
     "tramo": "Campo Grande - San Vicente",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.219995, -54.971077],
+      "endPoint": [-26.991358, -54.487828]
     }
   },
   {
@@ -3424,8 +3424,8 @@
     "ruta": "14",
     "tramo": "San Vicente - Gramado",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.991358, -54.487828],
+      "endPoint": [-26.579844, -54.05179]
     }
   },
   {
@@ -3433,8 +3433,8 @@
     "ruta": "14",
     "tramo": "Gramado - Piñalito",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.579844, -54.05179],
+      "endPoint": [-26.426496, -53.84475]
     }
   },
   {
@@ -3442,8 +3442,8 @@
     "ruta": "14",
     "tramo": "Piñalito - Emp. RP 17",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.426496, -53.84475],
+      "endPoint": [-26.293116, -53.734338]
     }
   },
   {
@@ -3451,8 +3451,8 @@
     "ruta": "14",
     "tramo": "Emp. RP 17 - Bernardo De Irigoyen",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.293116, -53.734338],
+      "endPoint": [-26.293116, -53.734338]
     }
   },
   {
@@ -3460,8 +3460,8 @@
     "ruta": "101",
     "tramo": "Bdo. De Irigoyen - San Antonio",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.249426, -53.641968],
+      "endPoint": [-26.056081, -53.743148]
     }
   },
   {
@@ -3469,8 +3469,8 @@
     "ruta": "101",
     "tramo": "San Antonio - Piñalito Norte",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.056081, -53.743148],
+      "endPoint": [-25.984314, -53.8913]
     }
   },
   {
@@ -3478,8 +3478,8 @@
     "ruta": "101",
     "tramo": "Piñalito Norte - Emp. RP 19",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.984314, -53.8913],
+      "endPoint": [-25.721174, -54.080849]
     }
   },
   {
@@ -3487,8 +3487,8 @@
     "ruta": "101",
     "tramo": "Empalme RP 19 - Lte. Parque Nacional Iguazu",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.721174, -54.080849],
+      "endPoint": [-25.681008, -54.174005]
     }
   },
   {
@@ -3496,8 +3496,8 @@
     "ruta": "101",
     "tramo": "Lte. Parque Nacional Iguazu - Acc. Aer. Iguazu",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.681008, -54.174005],
+      "endPoint": [-25.713229, -54.462546]
     }
   },
   {
@@ -3505,8 +3505,8 @@
     "ruta": "101",
     "tramo": "Acc. Aer. Iguazu - Empalme RN 12",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.713229, -54.462546],
+      "endPoint": [-25.66894, -54.498715]
     }
   },
   {
@@ -3514,8 +3514,8 @@
     "ruta": "105",
     "tramo": "Posadas - San José",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.454676, -55.862625],
+      "endPoint": [-27.745987, -55.781361]
     }
   },
   {
@@ -3523,8 +3523,8 @@
     "ruta": "S/N",
     "tramo": "Pte. Internacional Posadas - Encarnación (Par)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.376113, -55.880586],
+      "endPoint": [-27.370542, -55.865339]
     }
   },
   {

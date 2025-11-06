@@ -3226,8 +3226,8 @@
     "ruta": "77",
     "tramo": "Lte. Con Córdoba - Emp. RN 79",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.606719, -65.577294],
+      "endPoint": [-31.208542, -66.312855]
     }
   },
   {
@@ -3235,8 +3235,8 @@
     "ruta": "78",
     "tramo": "Emp. RN 40 - Famatina",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.998865, -67.494813],
+      "endPoint": [-28.925406, -67.520226]
     }
   },
   {
@@ -3244,8 +3244,8 @@
     "ruta": "78",
     "tramo": "Famatina - Campanas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.925406, -67.520226],
+      "endPoint": [-28.544278, -67.62685]
     }
   },
   {
@@ -3253,8 +3253,8 @@
     "ruta": "78",
     "tramo": "Campanas - Lte. Con Catamarca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.544278, -67.62685],
+      "endPoint": [-28.316397, -67.668766]
     }
   },
   {
@@ -3262,8 +3262,8 @@
     "ruta": "79",
     "tramo": "Lte. Con San Luis - Emp. RN 141",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.897083, -65.825134],
+      "endPoint": [-31.31546, -66.273783]
     }
   },
   {
@@ -3271,8 +3271,8 @@
     "ruta": "79",
     "tramo": "Emp. RN 141 - S. Rita de Catuna",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.31546, -66.273783],
+      "endPoint": [-30.953062, -66.22478]
     }
   },
   {
@@ -3280,8 +3280,8 @@
     "ruta": "79",
     "tramo": "S. Rita de Catuna - Emp. RN N° 38",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.953062, -66.22478],
+      "endPoint": [-30.360335, -66.305245]
     }
   },
   {
@@ -3289,8 +3289,8 @@
     "ruta": "79",
     "tramo": "Emp. RN N° 38 - Casa de Piedra",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.338021, -66.336247],
+      "endPoint": [-29.603641, -65.520074]
     }
   },
   {
@@ -3298,8 +3298,8 @@
     "ruta": "141",
     "tramo": "Emp. RN 79 - Lte. Con San Juan",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.435026, -67.077606],
+      "endPoint": [-31.315465, -66.273931]
     }
   },
   {
@@ -3307,8 +3307,8 @@
     "ruta": "150",
     "tramo": "Emp. RN 38 - Lte. Con San Juan",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.215092, -67.686102],
+      "endPoint": [-30.038053, -66.875826]
     }
   },
   {
@@ -3316,8 +3316,8 @@
     "ruta": "12",
     "tramo": "Lte. Con Corrientes - Acc. Aer. Posadas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.455356, -56.051323],
+      "endPoint": [-27.398313, -55.959813]
     }
   },
   {
@@ -3325,8 +3325,8 @@
     "ruta": "12",
     "tramo": "Acc. Aer. Posadas - Emp. RN 105",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.398313, -55.959813],
+      "endPoint": [-27.454214, -55.861761]
     }
   },
   {
@@ -3334,8 +3334,8 @@
     "ruta": "12",
     "tramo": "Emp. RN 105 - Santa Ana",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.454214, -55.861761],
+      "endPoint": [-27.377042, -55.575999]
     }
   },
   {
@@ -3343,8 +3343,8 @@
     "ruta": "12",
     "tramo": "Santa Ana - Eldorado",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.377042, -55.575999],
+      "endPoint": [-26.40296, -54.634736]
     }
   },
   {
@@ -3352,8 +3352,8 @@
     "ruta": "12",
     "tramo": "Eldorado - Emp. RN 101",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.40296, -54.634736],
+      "endPoint": [-25.668865, -54.498699]
     }
   },
   {
@@ -3361,8 +3361,8 @@
     "ruta": "12",
     "tramo": "Emp. RN 101 - Acc. a Puerto Iguazu",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.668865, -54.498699],
+      "endPoint": [-25.611513, -54.560879]
     }
   },
   {
@@ -3370,8 +3370,8 @@
     "ruta": "12",
     "tramo": "Acc. a Puerto Iguazu - Puente Inter. Tancredo Neves",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.611513, -54.560879],
+      "endPoint": [-25.590681, -54.560307]
     }
   },
   {
@@ -3379,8 +3379,8 @@
     "ruta": "12",
     "tramo": "Puente Inter. \"Tancredo Neves\" Puerto Iguazu (Arg)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.590681, -54.560307],
+      "endPoint": [-25.588253, -54.561953]
     }
   },
   {

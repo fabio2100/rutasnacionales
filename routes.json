@@ -3775,8 +3775,8 @@
     "ruta": "23",
     "tramo": "Emp. RN 3 - Valcheta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.816694, -65.341489],
+      "endPoint": [-40.684955, -66.167707]
     }
   },
   {
@@ -3784,8 +3784,8 @@
     "ruta": "23",
     "tramo": "Valcheta - Mtro. Ramos Mexia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.684955, -66.167707],
+      "endPoint": [-40.502302, -67.257893]
     }
   },
   {
@@ -3793,8 +3793,8 @@
     "ruta": "23",
     "tramo": "Mtro. Ramos Mexia - Los Menucos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.502302, -67.257893],
+      "endPoint": [-40.841359, -68.089533]
     }
   },
   {
@@ -3802,8 +3802,8 @@
     "ruta": "23",
     "tramo": "Los Menucos - Maquinchao",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.841359, -68.089533],
+      "endPoint": [-41.25327, -68.695032]
     }
   },
   {
@@ -3811,8 +3811,8 @@
     "ruta": "23",
     "tramo": "Maquinchao - Ingeniero Jacobacci",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.25327, -68.695032],
+      "endPoint": [-41.336656, -69.543466]
     }
   },
   {
@@ -3820,8 +3820,8 @@
     "ruta": "23",
     "tramo": "Ingeniero Jacobacci - C. Oneli",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.336656, -69.543466],
+      "endPoint": [-41.340819, -69.680564]
     }
   },
   {
@@ -3829,8 +3829,8 @@
     "ruta": "23",
     "tramo": "C. Oneli - Comallo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.340819, -69.680564],
+      "endPoint": [-41.03208, -70.267671]
     }
   },
   {
@@ -3838,8 +3838,8 @@
     "ruta": "23",
     "tramo": "Comallo - Pilcaniyeu",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.03208, -70.267671],
+      "endPoint": [-41.118526, -70.723908]
     }
   },
   {
@@ -3847,8 +3847,8 @@
     "ruta": "23",
     "tramo": "Pilcaniyeu - Emp. RN 40",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.118526, -70.723908],
+      "endPoint": [-41.067618, -71.163177]
     }
   },
   {
@@ -3856,8 +3856,8 @@
     "ruta": "40",
     "tramo": "El Bolsón - Villa Mascardi",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.999941, -71.5321],
+      "endPoint": [-41.356571, -71.515228]
     }
   },
   {
@@ -3865,8 +3865,8 @@
     "ruta": "40",
     "tramo": "Villa Mascardi - S.C. De Bariloche",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.356571, -71.515228],
+      "endPoint": [-41.172502, -71.337507]
     }
   },
   {
@@ -3874,8 +3874,8 @@
     "ruta": "40",
     "tramo": "Inicio Circunv - Lte. Con Neuquen",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.172502, -71.337507],
+      "endPoint": [-41.056117, -71.14877]
     }
   },
   {
@@ -3883,8 +3883,8 @@
     "ruta": "151",
     "tramo": "Cipolletti - Lte Con La Pampa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.942494, -68.010551],
+      "endPoint": [-37.722614, -67.765093]
     }
   },
   {

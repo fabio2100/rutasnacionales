@@ -3532,8 +3532,8 @@
     "ruta": "22",
     "tramo": "Plottier - Arroyito",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.956936, -68.235461],
+      "endPoint": [-39.069599, -68.569838]
     }
   },
   {
@@ -3541,8 +3541,8 @@
     "ruta": "22",
     "tramo": "Arroyito - Zapala",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-39.069599, -68.569838],
+      "endPoint": [-38.899754, -70.065032]
     }
   },
   {
@@ -3550,8 +3550,8 @@
     "ruta": "40",
     "tramo": "Lte. con Río Negro - Emp. RN 231",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.056111, -71.148766],
+      "endPoint": [-40.691985, -71.696421]
     }
   },
   {
@@ -3559,8 +3559,8 @@
     "ruta": "40",
     "tramo": "Emp. RN 231 - Lago Villarino",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.691985, -71.696421],
+      "endPoint": [-40.445881, -71.542374]
     }
   },
   {
@@ -3568,8 +3568,8 @@
     "ruta": "40",
     "tramo": "Lago Villarino- San Martín de los Andes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.445881, -71.542374],
+      "endPoint": [-40.158581, -71.359317]
     }
   },
   {
@@ -3577,8 +3577,8 @@
     "ruta": "40",
     "tramo": "San Martín de los Andes - Rinconada",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.158581, -71.359317],
+      "endPoint": [-39.998655, -70.840806]
     }
   },
   {
@@ -3586,8 +3586,8 @@
     "ruta": "40",
     "tramo": "Rinconada - Catan Lil",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-39.998655, -70.840806],
+      "endPoint": [-39.743728, -70.604851]
     }
   },
   {
@@ -3595,8 +3595,8 @@
     "ruta": "40",
     "tramo": "Catan Lil - Zapala",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-39.743728, -70.604851],
+      "endPoint": [-38.903776, -70.073174]
     }
   },
   {
@@ -3604,8 +3604,8 @@
     "ruta": "40",
     "tramo": "Zapala - Las Lajas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.903776, -70.073174],
+      "endPoint": [-38.524522, -70.365021]
     }
   },
   {
@@ -3613,8 +3613,8 @@
     "ruta": "40",
     "tramo": "Las Lajas - Chos Malal",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.524522, -70.365021],
+      "endPoint": [-37.378742, -70.26336]
     }
   },
   {
@@ -3622,8 +3622,8 @@
     "ruta": "40",
     "tramo": "Chos Malal - Lte. con Mendoza",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-37.378742, -70.26336],
+      "endPoint": [-36.813501, -69.873064]
     }
   },
   {
@@ -3631,8 +3631,8 @@
     "ruta": "231",
     "tramo": "Emp. RN 40 - Aduana",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.691733, -71.696769],
+      "endPoint": [-40.729169, -71.809356]
     }
   },
   {
@@ -3640,8 +3640,8 @@
     "ruta": "231",
     "tramo": "Aduana - Lte. con Chile",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.729169, -71.809356],
+      "endPoint": [-40.712116, -71.944411]
     }
   },
   {
@@ -3649,8 +3649,8 @@
     "ruta": "234",
     "tramo": "Rinconada - Emp. RN 237",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.001932, -70.826116],
+      "endPoint": [-40.434863, -70.645985]
     }
   },
   {
@@ -3658,8 +3658,8 @@
     "ruta": "237",
     "tramo": "Arroyito - Piedra del Aguila",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-39.079003, -68.591041],
+      "endPoint": [-40.049514, -70.077656]
     }
   },
   {
@@ -3667,8 +3667,8 @@
     "ruta": "237",
     "tramo": "Piedra del Aguila - Arroyo Limay Chico",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.049514, -70.077656],
+      "endPoint": [-40.610614, -70.978623]
     }
   },
   {
@@ -3676,8 +3676,8 @@
     "ruta": "237",
     "tramo": "Arroyo Limay Chico - Emp. RN 40",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.610614, -70.978623],
+      "endPoint": [-41.032346, -71.15318]
     }
   },
   {
@@ -3685,8 +3685,8 @@
     "ruta": "242",
     "tramo": "Las Lajas - Aduana",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.537587, -70.367864],
+      "endPoint": [-38.661501, -70.832421]
     }
   },
   {
@@ -3694,8 +3694,8 @@
     "ruta": "242",
     "tramo": "Aduana - Lte. con Chile",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.661501, -70.832421],
+      "endPoint": [-38.663489, -70.89676]
     }
   },
   {
@@ -3703,8 +3703,8 @@
     "ruta": "Vº RN 22",
     "tramo": "Lte. Con Río Negro - Vinculación Autovía Norte",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.967986, -68.329318],
+      "endPoint": [-38.95003, -68.021685]
     }
   },
   {
@@ -3712,8 +3712,8 @@
     "ruta": "Vº RN 22",
     "tramo": "Vinculación Autovía Norte - Emp. RN 22",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.96798, -68.329898],
+      "endPoint": [-39.079106, -68.591135]
     }
   },
   {
@@ -3721,8 +3721,8 @@
     "ruta": "3",
     "tramo": "Viedma - San Antonio Oeste",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.797038, -63.00214],
+      "endPoint": [-40.71199, -65.002778]
     }
   },
   {
@@ -3730,8 +3730,8 @@
     "ruta": "3",
     "tramo": "San Antonio Oeste - Sierra Grande",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.71199, -65.002778],
+      "endPoint": [-41.606413, -65.354321]
     }
   },
   {
@@ -3739,8 +3739,8 @@
     "ruta": "3",
     "tramo": "Sierra Grande - Lte. Con Chubut",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.606413, -65.354321],
+      "endPoint": [-42.000288, -65.291338]
     }
   },
   {
@@ -3748,8 +3748,8 @@
     "ruta": "22",
     "tramo": "Río Colorado - Chimpay",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.977045, -64.106457],
+      "endPoint": [-39.161464, -66.148775]
     }
   },
   {
@@ -3757,8 +3757,8 @@
     "ruta": "22",
     "tramo": "Chimpay - Allen",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-39.161464, -66.148775],
+      "endPoint": [-39.010725, -67.836913]
     }
   },
   {
@@ -3766,8 +3766,8 @@
     "ruta": "22",
     "tramo": "Allen - Cipolletti",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-39.010725, -67.836913],
+      "endPoint": [-38.942986, -68.01017]
     }
   },
   {

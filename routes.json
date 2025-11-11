@@ -3892,8 +3892,8 @@
     "ruta": "232",
     "tramo": "Lte. Con La Pampa - Emp. RN 22",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-38.745527, -66.435156],
+      "endPoint": [-39.087101, -66.514175]
     }
   },
   {
@@ -3901,8 +3901,8 @@
     "ruta": "250",
     "tramo": "Emp. RN 3 - Gral. Conesa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.691166, -63.479976],
+      "endPoint": [-40.108468, -64.474423]
     }
   },
   {
@@ -3910,8 +3910,8 @@
     "ruta": "250",
     "tramo": "Gral. Conesa - Pomona",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.108468, -64.474423],
+      "endPoint": [-39.485466, -65.60695]
     }
   },
   {
@@ -3919,8 +3919,8 @@
     "ruta": "250",
     "tramo": "Pomona - Emp. RN 22",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-39.485466, -65.60695],
+      "endPoint": [-39.282785, -65.666953]
     }
   },
   {
@@ -3928,8 +3928,8 @@
     "ruta": "251",
     "tramo": "Emp.RN 22 - Gral.Conesa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-39.052118, -64.422527],
+      "endPoint": [-40.10842, -64.474852]
     }
   },
   {
@@ -3937,8 +3937,8 @@
     "ruta": "251",
     "tramo": "Gral. Conesa - S.A.Oeste",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.10842, -64.474852],
+      "endPoint": [-40.711988, -65.002905]
     }
   },
   {
@@ -3946,8 +3946,8 @@
     "ruta": "1S40",
     "tramo": "Paso Flores - Emp. RN 23",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.585621, -70.752457],
+      "endPoint": [-41.087833, -70.68191]
     }
   },
   {
@@ -3955,8 +3955,8 @@
     "ruta": "1S40",
     "tramo": "Emp. RN 23 - Límite con Chubut",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-41.087833, -70.68191],
+      "endPoint": [-41.999954, -71.127693]
     }
   },
   {
@@ -3964,8 +3964,8 @@
     "ruta": "A025",
     "tramo": "Acceso Puerto S.A. Este (Km 0,00 - Km 28,14)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.802567, -64.881538],
+      "endPoint": [-40.800447, -64.882999]
     }
   },
   {
@@ -3973,8 +3973,8 @@
     "ruta": "A026",
     "tramo": "Acceso San Antonio Oeste (Km. 0,00 - Km 8,71)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-40.731509, -64.995316],
+      "endPoint": [-40.713437, -65.002522]
     }
   },
   {
@@ -3982,8 +3982,8 @@
     "ruta": "9",
     "tramo": "Lte. Con Tucuman - Emp. RN 34",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.191764, -65.21696],
+      "endPoint": [-25.785126, -64.94877]
     }
   },
   {
@@ -3991,8 +3991,8 @@
     "ruta": "9",
     "tramo": "Emp. RN 34 - Torzalito",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.785126, -64.94877],
+      "endPoint": [-24.727411, -65.028947]
     }
   },
   {
@@ -4000,8 +4000,8 @@
     "ruta": "9",
     "tramo": "Torzalito - Acc. Salta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.727411, -65.028947],
+      "endPoint": [-24.795263, -65.395152]
     }
   },
   {
@@ -4009,8 +4009,8 @@
     "ruta": "9",
     "tramo": "Vaqueros - Lte. Con Jujuy",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.695615, -65.409501],
+      "endPoint": [-24.500031, -65.308976]
     }
   },
   {

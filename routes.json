@@ -4018,8 +4018,8 @@
     "ruta": "16",
     "tramo": "Lte. Con Chaco - El Quebrachal",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.576827, -63.360215],
+      "endPoint": [-25.33463, -64.020216]
     }
   },
   {
@@ -4027,8 +4027,8 @@
     "ruta": "16",
     "tramo": "El Quebrachal - Emp. RN 9/34",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.33463, -64.020216],
+      "endPoint": [-25.35328, -64.933627]
     }
   },
   {
@@ -4036,8 +4036,8 @@
     "ruta": "34",
     "tramo": "Lte. Con Sgo. Del Estero - Emp. RN 9",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.218767, -64.51244],
+      "endPoint": [-25.784948, -64.94868]
     }
   },
   {
@@ -4045,8 +4045,8 @@
     "ruta": "34",
     "tramo": "Torzalito - Lte. Con Jujuy",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.738437, -65.028827],
+      "endPoint": [-24.56227, -65.078841]
     }
   },
   {
@@ -4054,8 +4054,8 @@
     "ruta": "34",
     "tramo": "Lte. Con Jujuy - Pichanal",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.573716, -64.495177],
+      "endPoint": [-23.307917, -64.215182]
     }
   },
   {
@@ -4063,8 +4063,8 @@
     "ruta": "34",
     "tramo": "Pichanal - Embarcación",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.307917, -64.215182],
+      "endPoint": [-23.201878, -64.094664]
     }
   },
   {
@@ -4072,8 +4072,8 @@
     "ruta": "34",
     "tramo": "Embarcación - Gral. E. Mosconi",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.201878, -64.094664],
+      "endPoint": [-22.596661, -63.803465]
     }
   },
   {
@@ -4081,8 +4081,8 @@
     "ruta": "34",
     "tramo": "Gral. E. Mosconi - Tartagal",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-22.596661, -63.803465],
+      "endPoint": [-22.516673, -63.792872]
     }
   },
   {
@@ -4090,8 +4090,8 @@
     "ruta": "34",
     "tramo": "Tartagal - Lte. Con Bolivia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-22.516673, -63.792872],
+      "endPoint": [-22.053038, -63.683847]
     }
   },
   {
@@ -4099,8 +4099,8 @@
     "ruta": "40",
     "tramo": "Lte. Con Tucuman - La Darsena",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.279767, -65.950119],
+      "endPoint": [-25.857542, -65.952052]
     }
   },
   {
@@ -4108,8 +4108,8 @@
     "ruta": "40",
     "tramo": "La Darsena - Seclantas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.857542, -65.952052],
+      "endPoint": [-25.327897, -66.253905]
     }
   },
   {
@@ -4117,8 +4117,8 @@
     "ruta": "40",
     "tramo": "Seclantas - Cachi",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.327897, -66.253905],
+      "endPoint": [-25.119343, -66.162001]
     }
   },
   {
@@ -4126,8 +4126,8 @@
     "ruta": "40",
     "tramo": "Cachi - La Poma",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.119343, -66.162001],
+      "endPoint": [-24.72246, -66.183249]
     }
   },
   {
@@ -4135,8 +4135,8 @@
     "ruta": "40",
     "tramo": "La Poma - La Quesera",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.72246, -66.183249],
+      "endPoint": [-24.381974, -66.243702]
     }
   },
   {
@@ -4144,8 +4144,8 @@
     "ruta": "40",
     "tramo": "La Quesera - Emp. RN 51",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.381974, -66.243702],
+      "endPoint": [-24.255926, -66.226335]
     }
   },
   {
@@ -4153,8 +4153,8 @@
     "ruta": "40",
     "tramo": "San Antonio De Los Cobres - Lte. Con Jujuy",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.217493, -66.320948],
+      "endPoint": [-23.792551, -66.010385]
     }
   },
   {
@@ -4162,8 +4162,8 @@
     "ruta": "50",
     "tramo": "Emp. RN 34 - Acc. a Oran",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.307487, -64.214983],
+      "endPoint": [-23.125333, -64.332556]
     }
   },
   {
@@ -4171,8 +4171,8 @@
     "ruta": "50",
     "tramo": "Acc. a Oran - Lte. Con Bolivia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.125333, -64.332556],
+      "endPoint": [-22.72638660124284, -64.36929121429523]
     }
   },
   {
@@ -4180,8 +4180,8 @@
     "ruta": "51",
     "tramo": "El Aybal - Campo Quijano",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.838137024565718, -65.46044382488658],
+      "endPoint": [-24.907355084974274, -65.63932028522744]
     }
   },
   {
@@ -4189,8 +4189,8 @@
     "ruta": "51",
     "tramo": "Campo Quijano - San Antonio De Los Cobres",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.907355084974274, -65.63932028522744],
+      "endPoint": [-24.21749785007755, -66.32090753811259]
     }
   },
   {
@@ -4198,8 +4198,8 @@
     "ruta": "51",
     "tramo": "San Antonio De Los Cobres - Paso De Sico",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-24.21749785007755, -66.32090753811259],
+      "endPoint": [-23.84441967981056, -67.2611853077327]
     }
   },
   {
@@ -4207,8 +4207,8 @@
     "ruta": "68",
     "tramo": "Emp. RN 40 - Talapampa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.545690233973307, -65.56557294723055],
+      "endPoint": [-26.05918128170705, -65.97029142545723]
     }
   },
   {
@@ -4216,8 +4216,8 @@
     "ruta": "68",
     "tramo": "Talapampa - Rio Ancho",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.545690233973307, -65.56557294723055],
+      "endPoint": [-25.039780408156712, -65.4960816168088]
     }
   },
   {
@@ -4225,8 +4225,8 @@
     "ruta": "81",
     "tramo": "Lte. Con Formosa - Emp. RN 34",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-23.693491, -62.342046],
+      "endPoint": [-23.01998265479377, -63.91010939530701]
     }
   },
   {
@@ -4234,8 +4234,8 @@
     "ruta": "86",
     "tramo": "Tonono - Tartagal",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-22.391012363161842, -63.47560320993911],
+      "endPoint": [-22.516511266097492, -63.79289964628628]
     }
   },
   {
@@ -4243,8 +4243,8 @@
     "ruta": "20",
     "tramo": "Lte. Con S.Luis - Encon",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.33934219487335, -67.2663335136621],
+      "endPoint": [-32.212953453036434, -67.80167092240347]
     }
   },
   {
@@ -4252,8 +4252,8 @@
     "ruta": "20",
     "tramo": "Encon - Las Casuarinas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.212953453036434, -67.80167092240347],
+      "endPoint": [-31.834047215442894, -68.22434669492333]
     }
   },
   {
@@ -4261,8 +4261,8 @@
     "ruta": "20",
     "tramo": "Las Casuarinas - Caucete",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.834047215442894, -68.22434669492333],
+      "endPoint": [-31.65247536488837, -68.280452783301]
     }
   },
   {
@@ -4270,8 +4270,8 @@
     "ruta": "20",
     "tramo": "Caucete - Acc. Oeste SJ",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.65247536488837, -68.280452783301],
+      "endPoint": [-31.54830490238553, -68.50496604933316]
     }
   },
   {
@@ -4279,8 +4279,8 @@
     "ruta": "20",
     "tramo": "Km 578 - Km 582 (circunvalación)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.54830490238553, -68.50496604933316],
+      "endPoint": [-31.555062338796112, -68.52808261594701]
     }
   },
   {
@@ -4288,8 +4288,8 @@
     "ruta": "40",
     "tramo": "Lte. Con Mendoza - Va. Media Agua",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.26187109497805, -68.51232267783263],
+      "endPoint": [-31.979420469030664, -68.43944124940441]
     }
   },
   {
@@ -4297,8 +4297,8 @@
     "ruta": "40",
     "tramo": "Va. Media Agua-Acc. Sur San Juan",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.979420469030664, -68.43944124940441],
+      "endPoint": [-31.555471675956483, -68.51368225182429]
     }
   },
   {
@@ -4306,8 +4306,8 @@
     "ruta": "40",
     "tramo": "San Juan - Matagusanos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.555471675956483, -68.51368225182429],
+      "endPoint": [-31.245506892642837, -68.64223461404845]
     }
   },
   {
@@ -4315,8 +4315,8 @@
     "ruta": "40",
     "tramo": "Matagusanos - Talacasto",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.245506892642837, -68.64223461404845],
+      "endPoint": [-31.097827098807457, -68.63809732396042]
     }
   },
   {
@@ -4324,8 +4324,8 @@
     "ruta": "40",
     "tramo": "Talacasto -Tucunuco",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.097827098807457, -68.63809732396042],
+      "endPoint": [-30.593037731197, -68.64413406785124]
     }
   },
   {
@@ -4333,8 +4333,8 @@
     "ruta": "40",
     "tramo": "Tucunuco - Jachal",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.593037731197, -68.64413406785124],
+      "endPoint": [-30.301142619950674, -68.70862648213874]
     }
   },
   {
@@ -4342,8 +4342,8 @@
     "ruta": "40",
     "tramo": "Jachal - Huaco",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.301142619950674, -68.70862648213874],
+      "endPoint": [-30.146364614565904, -68.50462494468194]
     }
   },
   {
@@ -4351,8 +4351,8 @@
     "ruta": "40",
     "tramo": "Huaco - Lte. Con La Rioja",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-30.146364614565904, -68.50462494468194],
+      "endPoint": [-29.639667172024193, -68.50829929055229]
     }
   },
   {

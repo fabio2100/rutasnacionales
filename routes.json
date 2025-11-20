@@ -4868,8 +4868,8 @@
     "ruta": "7",
     "tramo": "Lte. Con Bs.As. - Lte. Con Cordoba",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.38358451953199, -62.27227000961599],
+      "endPoint": [-33.868558747925796, -65.12020240242951]
     }
   },
   {
@@ -4877,8 +4877,8 @@
     "ruta": "8",
     "tramo": "Lte. Con Santafe - Lte. Con Cordoba",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.86569051509769, -61.160812463073285],
+      "endPoint": [-33.64106820980153, -62.31376939879022]
     }
   },
   {
@@ -4886,8 +4886,8 @@
     "ruta": "9",
     "tramo": "Lte. Con Bs. As. - Gral. Lagos",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.33040632275323, -60.30357116289745],
+      "endPoint": [-33.119048297303536, -60.589610887605616]
     }
   },
   {
@@ -4895,8 +4895,8 @@
     "ruta": "9",
     "tramo": "Gral. Lagos - Rosario",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.119048297303536, -60.589610887605616],
+      "endPoint": [-33.01494395444759, -60.664430338531425]
     }
   },
   {
@@ -4904,8 +4904,8 @@
     "ruta": "9",
     "tramo": "Rosario - Carcaraña",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.01494395444759, -60.664430338531425],
+      "endPoint": [-32.86175108820812, -61.154913240913245]
     }
   },
   {
@@ -4913,8 +4913,8 @@
     "ruta": "9",
     "tramo": "Carcaraña - Lte. Con Cordoba",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.86175108820812, -61.154913240913245],
+      "endPoint": [-32.733757350686176, -61.83781815596258]
     }
   },
   {
@@ -4922,8 +4922,8 @@
     "ruta": "11",
     "tramo": "Rosario - San Lorenzo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.87197379207332, -60.69909249635772],
+      "endPoint": [-32.74764049445985, -60.73408750655431]
     }
   },
   {
@@ -4931,8 +4931,8 @@
     "ruta": "11",
     "tramo": "San Lorenzo - Arocena",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.74764049445985, -60.73408750655431],
+      "endPoint": [-32.074654213400336, -60.97256452101841]
     }
   },
   {
@@ -4940,8 +4940,8 @@
     "ruta": "11",
     "tramo": "Arocena - Santa Fe",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.074654213400336, -60.97256452101841],
+      "endPoint": [-31.66366653866448, -60.73248513590261]
     }
   },
   {
@@ -4949,8 +4949,8 @@
     "ruta": "11",
     "tramo": "Santa Fe - Lte. Con Chaco",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.66366653866448, -60.73248513590261],
+      "endPoint": [-27.999429658643088, -59.2304427770729]
     }
   },
   {
@@ -4958,8 +4958,8 @@
     "ruta": "19",
     "tramo": "Santo Tomé - San francisco",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.672799518518634, -60.76891906517017],
+      "endPoint": [-31.415019916665766, -62.093154899673166]
     }
   },
   {
@@ -4967,8 +4967,8 @@
     "ruta": "33",
     "tramo": "Lte. Con Bs.As. - Rufino",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.383507892727636, -62.884061049107295],
+      "endPoint": [-34.28496559477739, -62.69140156548242]
     }
   },
   {
@@ -4976,8 +4976,8 @@
     "ruta": "33",
     "tramo": "Rufino - Zavalla",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-34.28496559477739, -62.69140156548242],
+      "endPoint": [-33.01893221466352, -60.88240665402281]
     }
   },
   {
@@ -4985,8 +4985,8 @@
     "ruta": "33",
     "tramo": "Zavalla - Rosario",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.01893221466352, -60.88240665402281],
+      "endPoint": [-32.970910798101386, -60.717179914643246]
     }
   },
   {
@@ -4994,8 +4994,8 @@
     "ruta": "34",
     "tramo": "Rosario - Emp. RN A-012",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.89320485729476, -60.7200481791809640],
+      "endPoint": [-32.82086460742775, -60.841043041166195]
     }
   },
   {
@@ -5003,8 +5003,8 @@
     "ruta": "34",
     "tramo": "Emp. RN A-012 - Emp. RN Nº 19",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.82086460742775, -60.841043041166195],
+      "endPoint": [-31.532607173913092, -61.52700350760401]
     }
   },
   {
@@ -5012,8 +5012,8 @@
     "ruta": "34",
     "tramo": "Emp. RN N° 19 - Lte. Con Sgo. Del Estero",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.532607173913092, -61.52700350760401],
+      "endPoint": [-29.806093472591517, -62.01667688441555]
     }
   },
   {
@@ -5021,8 +5021,8 @@
     "ruta": "95",
     "tramo": "Ceres - Tostado",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.876134970498953, -61.93741583468825],
+      "endPoint": [-29.220159700910095, -61.74337896325219]
     }
   },
   {
@@ -5030,8 +5030,8 @@
     "ruta": "95",
     "tramo": "Tostado - Villa Minetti",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.220159700910095, -61.74337896325219],
+      "endPoint": [-28.631666936811214, -61.52307672755086]
     }
   },
   {
@@ -5039,8 +5039,8 @@
     "ruta": "95",
     "tramo": "Villa Minetti - Lte. Con Chaco",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.631666936811214, -61.52307672755086],
+      "endPoint": [-27.999435763096535, -61.183563905682426]
     }
   },
   {
@@ -5048,8 +5048,8 @@
     "ruta": "98",
     "tramo": "Vera - Tostado",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.484513598296832, -60.2121703948078],
+      "endPoint": [-29.220178454887478, -61.76860958720354]
     }
   },
   {
@@ -5057,8 +5057,8 @@
     "ruta": "98",
     "tramo": "Tostado - Lte. Sgo del Estero",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.220178454887478, -61.76860958720354],
+      "endPoint": [-29.13146237412395, -61.902613318036025]
     }
   },
   {
@@ -5066,8 +5066,8 @@
     "ruta": "168",
     "tramo": "Santa Fe - Parana",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.640487354988792, -60.68315199090354],
+      "endPoint": [-31.732730314207455, -60.48814655991773]
     }
   },
   {
@@ -5075,8 +5075,8 @@
     "ruta": "173",
     "tramo": "Emp. RN 11 - Puerto Aragon",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.26352648525678, -60.97718314628553],
+      "endPoint": [-32.242761413148685, -60.92332999137392]
     }
   },
   {
@@ -5084,8 +5084,8 @@
     "ruta": "174",
     "tramo": "Rosario - Victoria",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.87070014548765, -60.689758243697106],
+      "endPoint": [-32.60593223191936, -60.168679315940196]
     }
   },
   {

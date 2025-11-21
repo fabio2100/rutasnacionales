@@ -5093,8 +5093,8 @@
     "ruta": "175",
     "tramo": "Emp. RN 11 - Puerto San Martin",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.7174958884674, -60.73119617922844],
+      "endPoint": [-32.713034699812155, -60.75709637491183]
     }
   },
   {
@@ -5102,8 +5102,8 @@
     "ruta": "178",
     "tramo": "Lte. Con Bs. As. - Emp. RN 33",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.69086447905809, -60.97293936990611],
+      "endPoint": [-33.188465453872695, -61.31405652319591]
     }
   },
   {
@@ -5111,8 +5111,8 @@
     "ruta": "178",
     "tramo": "Emp.RN 33 - Acc. a Villa Eloisa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-33.188465453872695, -61.31405652319591],
+      "endPoint": [-32.94751365479134, -61.48545078364413]
     }
   },
   {
@@ -5120,8 +5120,8 @@
     "ruta": "178",
     "tramo": "Acc. a Villa Eloisa - Las Rosas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.94751365479134, -61.48545078364413],
+      "endPoint": [-32.461031475036364, -61.58491449930346]
     }
   },
   {
@@ -5129,8 +5129,8 @@
     "ruta": "1v09",
     "tramo": "Rosario - Roldan",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.94798923235917, -60.723199947562165],
+      "endPoint": [-32.9266315257524, -60.899886665652]
     }
   },
   {
@@ -5138,8 +5138,8 @@
     "ruta": "1v09",
     "tramo": "Roldan - Emp. RN 178",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.9266315257524, -60.899886665652],
+      "endPoint": [-32.818260468492255, -61.554964843240626]
     }
   },
   {
@@ -5147,8 +5147,8 @@
     "ruta": "1v09",
     "tramo": "Emp. RN 178 - Lte. Con Córdoba",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.818260468492255, -61.554964843240626],
+      "endPoint": [-32.77638620488552, -61.79696566018544]
     }
   },
   {
@@ -5156,8 +5156,8 @@
     "ruta": "A007",
     "tramo": "Emp. RN 11 - Calle Juan De Garay",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.43657863282528, -60.74203951102862],
+      "endPoint": [-31.497327757557063, -60.75226310919013]
     }
   },
   {
@@ -5165,8 +5165,8 @@
     "ruta": "A007",
     "tramo": "Emp. RN 11 - Emp RN 1V11",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-31.497327757557063, -60.75226310919013],
+      "endPoint": [-31.611301574671955, -60.72593974204039]
     }
   },
   {
@@ -5174,8 +5174,8 @@
     "ruta": "A008",
     "tramo": "Emp. RN 9 - Acc. Sur a Puerto",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.9310764784139, -60.72330315451647],
+      "endPoint": [-32.98050489484635, -60.624933212943446]
     }
   },
   {
@@ -5183,8 +5183,8 @@
     "ruta": "A008",
     "tramo": "Rio Parana - Emp. RN 9",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.9310764784139, -60.72330315451647],
+      "endPoint": [-32.98050489484635, -60.624933212943446]
     }
   },
   {
@@ -5192,8 +5192,8 @@
     "ruta": "A009",
     "tramo": "Puerto Reconquista - Emp. RN 11",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.23369878280777, -59.58284297393017],
+      "endPoint": [-29.163979404138793, -59.65852394451932]
     }
   },
   {
@@ -5201,8 +5201,8 @@
     "ruta": "A012",
     "tramo": "Alto Nivel RN 9(S) - Emp.RN 9",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.92652254026152, -60.89976627602413],
+      "endPoint": [-32.90809693684194, -60.89491911830127]
     }
   },
   {
@@ -5210,8 +5210,8 @@
     "ruta": "A012",
     "tramo": "Emp. RN 9 (O) - San Lorenzo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-32.90809693684194, -60.89491911830127],
+      "endPoint": [-32.76852270337351, -60.73178323445534]
     }
   },
   {
@@ -5219,8 +5219,8 @@
     "ruta": "9",
     "tramo": "Lte. Con Córdoba - Río Saladillo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.65944120978109, -63.72145672683963],
+      "endPoint": [-29.569342122937826, -63.711320666487175]
     }
   },
   {
@@ -5228,8 +5228,8 @@
     "ruta": "9",
     "tramo": "Río Saladillo - Loreto",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.569342122937826, -63.711320666487175],
+      "endPoint": [-28.309201617451137, -64.19009365947792]
     }
   },
   {
@@ -5237,8 +5237,8 @@
     "ruta": "9",
     "tramo": "Loreto - Santiago Del Estero",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.309201617451137, -64.19009365947792],
+      "endPoint": [-27.810142569617682, -64.29430658953001]
     }
   },
   {
@@ -5246,8 +5246,8 @@
     "ruta": "9",
     "tramo": "Santiago Del Estero - Lte Con Tucuman",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.810142569617682, -64.29430658953001],
+      "endPoint": [-27.352850721492413, -64.96303049775732]
     }
   },
   {
@@ -5255,8 +5255,8 @@
     "ruta": "9",
     "tramo": "Ruta 9 (S) - Ruta 9 (N)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.837552992551053, -64.24451345296079],
+      "endPoint": [-27.748361828446424, -64.30341426372702]
     }
   },
   {
@@ -5264,8 +5264,8 @@
     "ruta": "16",
     "tramo": "Lte. Con Chaco - El Caburé",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-25.649718751370724, -63.19288689902453],
+      "endPoint": [-26.02082362715763, -62.33649326895694]
     }
   },
   {
@@ -5273,8 +5273,8 @@
     "ruta": "16",
     "tramo": "El Caburé - Lte. Con Chaco",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.02082362715763, -62.33649326895694],
+      "endPoint": [-26.284591488604704, -61.71147004516249]
     }
   },
   {

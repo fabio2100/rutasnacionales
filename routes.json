@@ -5498,8 +5498,8 @@
     "ruta": "Compl A",
     "tramo": "Emp. RN 3 - Ea. Maria Luisa",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-54.23239469351988, -67.20596770791909],
+      "endPoint": [-54.48838310858343, -66.44196337027776]
     }
   },
   {
@@ -5507,8 +5507,8 @@
     "ruta": "Compl B",
     "tramo": "Emp. RN 3 - Puesto Radman",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-53.853149424796584, -67.75789066412202],
+      "endPoint": [-54.00070768987165, -68.5944967791052770]
     }
   },
   {
@@ -5516,8 +5516,8 @@
     "ruta": "Compl I",
     "tramo": "Emp. RN 3 - Limite Con Chile",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-53.299411262928544, -68.45793957422072],
+      "endPoint": [-53.31994222356838, -68.60634468142841]
     }
   },
   {
@@ -5525,8 +5525,8 @@
     "ruta": "Compl J",
     "tramo": "Emp. RN 3 - Puesto Moat",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-54.74066029120306, -67.83089783939857],
+      "endPoint": [-54.975472534500184, -66.74456747132005]
     }
   },
   {
@@ -5534,8 +5534,8 @@
     "ruta": "Compl K",
     "tramo": "Emp. R. compl J - Emp. RP N° 30",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-54.85365367935465, -67.50314873999322],
+      "endPoint": [-54.85383876975109, -67.8468280499793]
     }
   },
   {
@@ -5543,8 +5543,8 @@
     "ruta": "Región XII - Chile",
     "tramo": "Barcaza (Primera Angostura)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-52.45655365964809, -69.54602004448301],
+      "endPoint": [-52.14229516900039, -69.51991703757169]
     }
   },
   {
@@ -5552,8 +5552,8 @@
     "ruta": "Región XII - Chile",
     "tramo": "Monte Aymond - Integración Austral",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-52.115687657428346, -69.52322075961351],
+      "endPoint": [-52.14092699326191, -69.51974135952523]
     }
   },
   {
@@ -5561,8 +5561,8 @@
     "ruta": "Región XII - Chile",
     "tramo": "San Sebastián - Paso Fronterizo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-53.318716056397776, -68.67628236186054],
+      "endPoint": [-53.31994855017056, -68.60648335124776]
     }
   },
   {

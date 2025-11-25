@@ -5282,8 +5282,8 @@
     "ruta": "34",
     "tramo": "Lte. Con Santa Fe - La Banda",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-29.80616484701465, -62.016672233446904],
+      "endPoint": [-27.722357011962607, -64.21804032944863]
     }
   },
   {
@@ -5291,8 +5291,8 @@
     "ruta": "34",
     "tramo": "La Banda - Pozo Hondo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.722357011962607, -64.21804032944863],
+      "endPoint": [-27.17516640698047, -64.48245573126094]
     }
   },
   {
@@ -5300,8 +5300,8 @@
     "ruta": "34",
     "tramo": "Pozo Hondo - Garmendia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.17516640698047, -64.48245573126094],
+      "endPoint": [-26.583284505481767, -64.48528309984201]
     }
   },
   {
@@ -5309,8 +5309,8 @@
     "ruta": "34",
     "tramo": "Garmendia - Antilla",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.583284505481767, -64.48528309984201],
+      "endPoint": [-26.116273522987033, -64.5856090438878]
     }
   },
   {
@@ -5318,8 +5318,8 @@
     "ruta": "34",
     "tramo": "Antilla - Rosario De La Frontera",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.116273522987033, -64.5856090438878],
+      "endPoint": [-25.784936459349428, -64.94864530635428]
     }
   },
   {
@@ -5327,8 +5327,8 @@
     "ruta": "64",
     "tramo": "La Banda - Sgo. Del Estero",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.765943618578852, -64.24681997703419],
+      "endPoint": [-27.776809122613514, -64.25538533369915]
     }
   },
   {
@@ -5336,8 +5336,8 @@
     "ruta": "64",
     "tramo": "Santiago Del Estero - Santa Catalina",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.809633262231152, -64.29710643802002],
+      "endPoint": [-28.121228247305716, -64.78112285215693]
     }
   },
   {
@@ -5345,8 +5345,8 @@
     "ruta": "64",
     "tramo": "Santa Catalina - Puerta Chiquita",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.121228247305716, -64.78112285215693],
+      "endPoint": [-28.146408224095392, -64.86658593955312]
     }
   },
   {
@@ -5354,8 +5354,8 @@
     "ruta": "64",
     "tramo": "Puerta Chiquita - Lte. Con Catamarca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.146408224095392, -64.86658593955312],
+      "endPoint": [-28.19255208737351, -65.11148890104516]
     }
   },
   {
@@ -5363,8 +5363,8 @@
     "ruta": "89",
     "tramo": "Lte. Con Chaco - Quimilí",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.51437560426515, -61.71119611133279],
+      "endPoint": [-27.65814140096097, -62.4179597152003]
     }
   },
   {
@@ -5372,8 +5372,8 @@
     "ruta": "89",
     "tramo": "Quimilí - Suncho Corral",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.65814140096097, -62.4179597152003],
+      "endPoint": [-27.942653984323837, -63.42601342625395]
     }
   },
   {
@@ -5381,8 +5381,8 @@
     "ruta": "89",
     "tramo": "Suncho Corral - Emp RN 34",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.942653984323837, -63.42601342625395],
+      "endPoint": [-28.009731965496616, -63.74142197661391]
     }
   },
   {
@@ -5390,8 +5390,8 @@
     "ruta": "98",
     "tramo": "Bandera - Los Tableros",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.89459272070528, -62.26625191063652],
+      "endPoint": [-28.988504909840373, -62.32340011364272]
     }
   },
   {
@@ -5399,8 +5399,8 @@
     "ruta": "98",
     "tramo": "Los Tableros - Pinto",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.988504909840373, -62.32340011364272],
+      "endPoint": [-29.138897220696606, -62.65065875706507]
     }
   },
   {
@@ -5408,8 +5408,8 @@
     "ruta": "157",
     "tramo": "Frías - Llavalle",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.62699689894271, -65.12265948747240],
+      "endPoint": [-28.191200051170004, -65.10088983851165]
     }
   },
   {
@@ -5417,8 +5417,8 @@
     "ruta": "157",
     "tramo": "Lavalle - Lte. Con Tucumán",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.191200051170004, -65.10088983851165],
+      "endPoint": [-27.916058711627485, -65.17783555130856]
     }
   },
   {
@@ -5426,8 +5426,8 @@
     "ruta": "3",
     "tramo": "Cabo Espíritu Santo - San Sebastián",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-52.65975116466717, -68.60630467080804],
+      "endPoint": [-53.299789098038964, -68.45115432370108]
     }
   },
   {
@@ -5435,8 +5435,8 @@
     "ruta": "3",
     "tramo": "San Sebastián - Río Grande",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-53.299789098038964, -68.45115432370108],
+      "endPoint": [-53.78221923076545, -67.71791423224924]
     }
   },
   {
@@ -5444,8 +5444,8 @@
     "ruta": "3",
     "tramo": "Río Grande - Puente Justicia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-53.78221923076545, -67.71791423224924],
+      "endPoint": [-54.20598680657947, -67.21580551993796]
     }
   },
   {
@@ -5453,8 +5453,8 @@
     "ruta": "3",
     "tramo": "Puente Justicia - Tolhuin",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-54.20598680657947, -67.21580551993796],
+      "endPoint": [-54.51282902646117, -67.19085741137766]
     }
   },
   {
@@ -5462,8 +5462,8 @@
     "ruta": "3",
     "tramo": "Tolhuin - La Herradura",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-54.51282902646117, -67.19085741137766],
+      "endPoint": [-54.686294946417746, -67.80760001118077]
     }
   },
   {
@@ -5471,8 +5471,8 @@
     "ruta": "3",
     "tramo": "La Herradura - Rancho Hambre",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-54.686294946417746, -67.80760001118077],
+      "endPoint": [-54.74034595252375, -67.8326156177044]
     }
   },
   {
@@ -5480,8 +5480,8 @@
     "ruta": "3",
     "tramo": "Rancho Hambre - Ushuaia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-54.74034595252375, -67.8326156177044],
+      "endPoint": [-54.80226610153033, -68.31907430728452]
     }
   },
   {
@@ -5489,8 +5489,8 @@
     "ruta": "3",
     "tramo": "Ushuaia - Bahía Lapataia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-54.80226610153033, -68.31907430728452],
+      "endPoint": [-54.85528565525797, -68.57697678103689]
     }
   },
   {

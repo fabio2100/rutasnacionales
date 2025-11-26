@@ -19,8 +19,10 @@ const MapComponent = () => {
 
 
   // Función para determinar el color de la ruta basado en el estado
-  const getRouteColor = (estado) => {
-    if (estado === 'HABILITADA') return 'green';
+  const getRouteColor = (estado,observaciones) => {
+    console.log(observaciones)
+    if (estado === 'HABILITADA' && (observaciones === '' || observaciones.toLowerCase().trim() === 'transitable con normalidad.' || observaciones.toLowerCase().trim() === 'transitable.' || observaciones.toLowerCase().trim() === 'transitable')) return 'green';
+    if (estado === 'HABILITADA' && observaciones !== '') return '#25fa25ff';
     if (estado === 'CORTE TOTAL') return 'red';
     return 'orange';
   }
@@ -152,7 +154,7 @@ const MapComponent = () => {
             routeId={route.id || `route-${route.ruta}-${route.tramo}`}
             startPoint={route.coordinates.startPoint}
             endPoint={route.coordinates.endPoint}
-            routeColor={getRouteColor(route.estado)}
+            routeColor={getRouteColor(route.estado,route.observaciones)}
             routeName={`Ruta ${route.ruta} - ${route.tramo}`}
             routeData={{
               tramo: route.tramo,

@@ -45,9 +45,9 @@ const MapComponent = () => {
             estado: extractTextFromHTML(match[3]), // Cuarta posición sin HTML
             tipoDeRuta: match[4] || '', // Quinta posición (tipo de ruta)
             longitud: match[5] || '', // Sexta posición (longitud)
-            actualizacion: match[8] || match[match.length - 1] || '' // Novena posición o último elemento
+            actualizacion: match[8] || match[match.length - 1] || '', // Novena posición o último elemento
+            observaciones: match[7] || '' // Décima posición (observaciones)
           };
-          
           combinedArray.push(combinedElement);
         } else {
           // Si no hay coincidencia, agregar solo los datos de routes con campos vacíos
@@ -159,7 +159,8 @@ const MapComponent = () => {
               longitud: route.longitud,
               estado: route.estado,
               tipoDeRuta: route.tipoDeRuta,
-              actualizacion: route.actualizacion
+              actualizacion: route.actualizacion,
+              observaciones: route.observaciones
             }}
           />
         ))}

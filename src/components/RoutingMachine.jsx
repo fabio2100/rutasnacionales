@@ -102,6 +102,10 @@ const RoutingMachine = ({ routeId, startPoint, endPoint, routeColor = 'red', rou
           <div style="margin: 6px 0;">
             <strong>Actualización:</strong> ${routeData.actualizacion || 'No disponible'}
           </div>
+
+          ${routeData.observaciones ? `<div style="margin: 6px 0;">
+            <strong>Observaciones:</strong> ${routeData.observaciones}
+          </div>` : ''}
           
           <hr style="margin: 8px 0; border: none; border-top: 1px solid #ccc;">
           
@@ -122,7 +126,6 @@ const RoutingMachine = ({ routeId, startPoint, endPoint, routeColor = 'red', rou
       routeLine.addTo(map)
       routeLineRef.current = routeLine
 
-      console.log('✅ Popup asignado correctamente a:', routeName)
     })
 
     // Cleanup

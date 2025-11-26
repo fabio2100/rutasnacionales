@@ -1,7 +1,7 @@
 import { MapContainer, TileLayer } from 'react-leaflet'
 import { useState, useEffect, useCallback } from 'react'
 import RoutingMachine from './RoutingMachine'
-import routesData from '../../routes.json'
+import routesData from '../../routes_with_routing.json'
 import exampleOnlyRoutesData from '../../exampleOnlyRoutes.json'
 import 'leaflet/dist/leaflet.css'
 
@@ -147,24 +147,25 @@ const MapComponent = () => {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         
-        {/* Renderizar rutas dinámicamente usando los primeros 343 elementos de combinedData */}
+        {/* Renderizar rutas dinámicamente usando los primeros 649 elementos de combinedData */}
         {combinedData.slice(0,649).map((route) => (
-          <RoutingMachine 
-            key={route.id || `${route.ruta}-${route.tramo}`}
-            routeId={route.id || `route-${route.ruta}-${route.tramo}`}
-            startPoint={route.coordinates.startPoint}
-            endPoint={route.coordinates.endPoint}
-            routeColor={getRouteColor(route.estado,route.observaciones)}
-            routeName={`Ruta ${route.ruta} - ${route.tramo}`}
-            routeData={{
-              tramo: route.tramo,
-              longitud: route.longitud,
-              estado: route.estado,
-              tipoDeRuta: route.tipoDeRuta,
-              actualizacion: route.actualizacion,
-              observaciones: route.observaciones
-            }}
-          />
+          route.routing ? (
+            <RoutingMachine 
+              key={route.id || `${route.ruta}-${route.tramo}`}
+              routeId={route.id || `route-${route.ruta}-${route.tramo}`}
+              routingData={route.routing}
+              routeColor={getRouteColor(route.estado,route.observaciones)}
+              routeName={`Ruta ${route.ruta} - ${route.tramo}`}
+              routeData={{
+                tramo: route.tramo,
+                longitud: route.longitud,
+                estado: route.estado,
+                tipoDeRuta: route.tipoDeRuta,
+                actualizacion: route.actualizacion,
+                observaciones: route.observaciones
+              }}
+            />
+          ) : null
         ))}
       </MapContainer>
     </div>

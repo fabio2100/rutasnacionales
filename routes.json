@@ -5570,8 +5570,8 @@
     "ruta": "9",
     "tramo": "Lte. Con Sgo. Del Estero - San Andres",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.352857159265458, -64.96300496357168],
+      "endPoint": [-26.899489889171672, -65.1635932381728]
     }
   },
   {
@@ -5579,8 +5579,8 @@
     "ruta": "9",
     "tramo": "San Andres - S. M. de Tucumán (san Cayetano)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.899489889171672, -65.1635932381728],
+      "endPoint": [-26.813599412754417, -65.17100354198506]
     }
   },
   {
@@ -5588,8 +5588,8 @@
     "ruta": "9",
     "tramo": "San Cayetano - Acc. a Las Talitas",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.813599412754417, -65.17100354198506],
+      "endPoint": [-26.780456916018682, -65.21065537085266]
     }
   },
   {
@@ -5597,8 +5597,8 @@
     "ruta": "9",
     "tramo": "Las Talitas - Acc. a El Cadillal",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.780456916018682, -65.21065537085266],
+      "endPoint": [-26.662147315522304, -65.23324444483212]
     }
   },
   {
@@ -5606,8 +5606,8 @@
     "ruta": "9",
     "tramo": "Acc. a El Cadillal - Lte. Con Salta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.662147315522304, -65.23324444483212],
+      "endPoint": [-26.191758387268624, -65.2169593102886]
     }
   },
   {
@@ -5615,8 +5615,8 @@
     "ruta": "38",
     "tramo": "Lte. Con Catamarca - J.B. Alberdi",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-28.89044873759739, -66.28154943832445],
+      "endPoint": [-27.579538072921235, -65.61254779987483]
     }
   },
   {
@@ -5624,8 +5624,8 @@
     "ruta": "38",
     "tramo": "J.B. Alberdi - Aguilares",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.579538072921235, -65.61254779987483],
+      "endPoint": [-27.431647131685665, -65.60926414137789]
     }
   },
   {
@@ -5633,8 +5633,8 @@
     "ruta": "38",
     "tramo": "Aguilares - Concepción",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.431647131685665, -65.60926414137789],
+      "endPoint": [-27.354456797402772, -65.58543436097393]
     }
   },
   {
@@ -5642,8 +5642,8 @@
     "ruta": "38",
     "tramo": "Concepción - Monteros",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.354456797402772, -65.58543436097393],
+      "endPoint": [-27.175570591042963, -65.49508238411589]
     }
   },
   {
@@ -5651,8 +5651,8 @@
     "ruta": "38",
     "tramo": "Monteros - Famaillá",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.175570591042963, -65.49508238411589],
+      "endPoint": [-27.062252531470797, -65.3966830925601]
     }
   },
   {
@@ -5660,8 +5660,8 @@
     "ruta": "38",
     "tramo": "Famaillá - S. M. de Tucumán",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.062252531470797, -65.3966830925601],
+      "endPoint": [-26.85935762819173, -65.19046741875363]
     }
   },
   {
@@ -5669,8 +5669,8 @@
     "ruta": "40",
     "tramo": "Lte. Catamarca - Acc. a la Ciudad Sagrada de Quilmes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.60037759841073, -66.04217064211373],
+      "endPoint": [-26.48523496718731, -66.00068320459154]
     }
   },
   {
@@ -5678,8 +5678,8 @@
     "ruta": "40",
     "tramo": "Acc. a la Ciudad Sagrada de Quilmes - Colalao del Valle",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.48523496718731, -66.00068320459154],
+      "endPoint": [-26.362062398691346, -65.95702194533382]
     }
   },
   {
@@ -5687,8 +5687,8 @@
     "ruta": "40",
     "tramo": "Colalao del Valle - Lte. Con Salta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.362062398691346, -65.95702194533382],
+      "endPoint": [-26.27979132242008, -65.95010111642851]
     }
   },
   {
@@ -5696,8 +5696,8 @@
     "ruta": "1V65",
     "tramo": "Int. R.N.N°1V38 - Int. R.N.N°38 Concepción",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.37122893008836, -65.56364717740857],
+      "endPoint": [-27.357346800603796, -65.58608758548719]
     }
   },
   {
@@ -5705,8 +5705,8 @@
     "ruta": "65",
     "tramo": "Int. R.N.N°38 Concepción - Alpachiri",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.356904235944935, -65.58744715391904],
+      "endPoint": [-27.33776034827029, -65.75482161266832]
     }
   },
   {
@@ -5714,8 +5714,8 @@
     "ruta": "65",
     "tramo": "Alpachiri - Campamento D.N.V.",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.33776034827029, -65.75482161266832],
+      "endPoint": [-27.327964821920776, -65.93274210154419]
     }
   },
   {
@@ -5723,8 +5723,8 @@
     "ruta": "65",
     "tramo": "Campamento D.N.V. - Lte. Con Catamarca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.327964821920776, -65.93274210154419],
+      "endPoint": [-27.345092761449553, -65.97024732400239]
     }
   },
   {
@@ -5732,8 +5732,8 @@
     "ruta": "157",
     "tramo": "Lte. Sgo. Del Estero - Monteagudo",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.916079311291455, -65.17783067648385],
+      "endPoint": [-27.512593690837434, -65.272437848814]
     }
   },
   {
@@ -5741,8 +5741,8 @@
     "ruta": "157",
     "tramo": "Monteagudo - Simoca",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.512593690837434, -65.272437848814],
+      "endPoint": [-27.261348652797324, -65.35010420280194]
     }
   },
   {
@@ -5750,8 +5750,8 @@
     "ruta": "157",
     "tramo": "Simoca - Bella Vista",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.261348652797324, -65.35010420280194],
+      "endPoint": [-27.03232352533639, -65.2935909695508]
     }
   },
   {
@@ -5759,8 +5759,8 @@
     "ruta": "157",
     "tramo": "Bella Vista - S. M. de Tucumán (Av. Jujuy)",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.03232352533639, -65.2935909695508],
+      "endPoint": [-26.89739472893661, -65.23206395920407]
     }
   },
   {
@@ -5768,8 +5768,8 @@
     "ruta": "1V38",
     "tramo": "Rio Marapa - Acc. a Aguilares",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.61054884851126, -65.58830582214706],
+      "endPoint": [-27.429822130877803, -65.58502054106056]
     }
   },
   {
@@ -5777,8 +5777,8 @@
     "ruta": "1V38",
     "tramo": "Acc. a Aguilares - Acc. a Concepción",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.429822130877803, -65.58502054106056],
+      "endPoint": [-27.37184234241858, -65.5617388668798270]
     }
   },
   {
@@ -5786,8 +5786,8 @@
     "ruta": "1V38",
     "tramo": "Acc. a Concepción - Acc. a Monteros",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.37184234241858, -65.56173886687982],
+      "endPoint": [-27.197952729841056, -65.4563333975086]
     }
   },
   {
@@ -5795,8 +5795,8 @@
     "ruta": "1V38",
     "tramo": "Acc. a Monteros - Emp RN 38",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-27.197952729841056, -65.4563333975086],
+      "endPoint": [-27.042983475555452, -65.38128288359198]
     }
   },
   {
@@ -5804,8 +5804,8 @@
     "ruta": "A016",
     "tramo": "Aerop. Internacional - Acc. a Alderetes",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.834821675533956, -65.10952023159884],
+      "endPoint": [-26.82371641588419, -65.13665242980262]
     }
   },
   {
@@ -5813,8 +5813,8 @@
     "ruta": "A016",
     "tramo": "Acc. a Alderetes- S. M. de Tucumán",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.82371641588419, -65.13665242980262],
+      "endPoint": [-26.823725380374864, -65.17328850384877]
     }
   },
   {
@@ -5822,8 +5822,8 @@
     "ruta": "4V09",
     "tramo": "EMP RPN°302 – Acceso a S. M. de Tucumán por Av. Benjamín Aráoz.",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.875295868078805, -65.16504354557583],
+      "endPoint": [-26.836538068592006, -65.17638165342528]
     }
   },
   {
@@ -5831,8 +5831,8 @@
     "ruta": "Ex 34",
     "tramo": "Lte. Sgo. Del Estero - Gdor. Garmendia",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.821676639597662, -64.69403187186036],
+      "endPoint": [-26.566826698687912, -64.55444016750906]
     }
   },
   {
@@ -5840,17 +5840,17 @@
     "ruta": "Ex 34",
     "tramo": "Gdor. Garmendia - Lte. Salta",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [-26.566826698687912, -64.55444016750906],
+      "endPoint": [-26.227554179256362, -64.52849358365357]
     }
   },
   {
     "id": 652,
     "ruta": "Ex 9",
-    "tramo": "Acceso Norte a San Miguel de Tucumán",
+    "tramo": "Acceso Norte a  San Miguel de Tucumán",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [],
+      "endPoint": []
     }
   },
   {
@@ -5858,8 +5858,8 @@
     "ruta": "188",
     "tramo": "General Alvear - Malargue",
     "coordinates": {
-      "startPoint": [-32, -60],
-      "endPoint": [-35, -70]
+      "startPoint": [],
+      "endPoint": []
     }
   }
 ]

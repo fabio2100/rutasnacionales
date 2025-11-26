@@ -148,8 +148,33 @@ const MapComponent = () => {
         />
         
         {/* Renderizar rutas dinámicamente usando los primeros 649 elementos de combinedData */}
-        {combinedData.slice(0,649).map((route) => (
-          route.routing ? (
+        {combinedData.slice(0,649).map((route) => {
+          const useOsrmApi = import.meta.env.VITE_USE_OSRM_API === 'true'
+          
+          // Si usa OSRM API, necesita startPoint y endPoint
+          if (useOsrmApi) {
+            return (
+              <RoutingMachine 
+                key={route.id || `${route.ruta}-${route.tramo}`}
+                routeId={route.id || `route-${route.ruta}-${route.tramo}`}
+                startPoint={route.coordinates.startPoint}
+                endPoint={route.coordinates.endPoint}
+                routeColor={getRouteColor(route.estado,route.observaciones)}
+                routeName={`Ruta ${route.ruta} - ${route.tramo}`}
+                routeData={{
+                  tramo: route.tramo,
+                  longitud: route.longitud,
+                  estado: route.estado,
+                  tipoDeRuta: route.tipoDeRuta,
+                  actualizacion: route.actualizacion,
+                  observaciones: route.observaciones
+                }}
+              />
+            )
+          }
+          
+          // Si no usa OSRM API, necesita routingData
+          return route.routing ? (
             <RoutingMachine 
               key={route.id || `${route.ruta}-${route.tramo}`}
               routeId={route.id || `route-${route.ruta}-${route.tramo}`}
@@ -166,7 +191,7 @@ const MapComponent = () => {
               }}
             />
           ) : null
-        ))}
+        })}
       </MapContainer>
     </div>
   )

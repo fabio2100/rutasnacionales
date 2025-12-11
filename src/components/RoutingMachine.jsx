@@ -110,12 +110,8 @@ const RoutingMachine = ({ routeId, routingData, startPoint, endPoint, routeColor
               <strong>Observaciones:</strong> ${routeData.observaciones}
             </div>` : ''}
             
-            <hr style="margin: 8px 0; border: none; border-top: 1px solid #ccc;">
             
-            <div style="font-size: 12px; color: #666;">
-              <div>Distancia calculada: ${(summary.totalDistance / 1000).toFixed(1)} km</div>
-              <div>Tiempo estimado: ${Math.round(summary.totalTime / 3600)} horas</div>
-            </div>
+           
           </div>
         `
         
@@ -191,12 +187,8 @@ const RoutingMachine = ({ routeId, routingData, startPoint, endPoint, routeColor
             <strong>Observaciones:</strong> ${routeData.observaciones}
           </div>` : ''}
           
-          <hr style="margin: 8px 0; border: none; border-top: 1px solid #ccc;">
           
-          <div style="font-size: 12px; color: #666;">
-            <div>Distancia calculada: ${(routingData.totalDistance / 1000).toFixed(1)} km</div>
-            <div>Tiempo estimado: ${Math.round(routingData.totalTime / 3600)} horas</div>
-          </div>
+          
         </div>
       `
       

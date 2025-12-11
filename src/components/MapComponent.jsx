@@ -1,13 +1,24 @@
-import { MapContainer, TileLayer } from 'react-leaflet'
+import { MapContainer, TileLayer, useMap } from 'react-leaflet'
 import { useState, useEffect, useCallback } from 'react'
 import RoutingMachine from './RoutingMachine'
 import routesData from '../../routes_with_routing.json'
 import exampleOnlyRoutesData from '../../exampleOnlyRoutes.json'
 import 'leaflet/dist/leaflet.css'
 
+// Componente para actualizar el centro del mapa cuando cambia la posición
+const MapUpdater = ({ position }) => {
+  const map = useMap()
+  
+  useEffect(() => {
+    map.setView(position, map.getZoom())
+  }, [map, position])
+  
+  return null
+}
+
 const MapComponent = () => {
-  // Posición inicial del mapa (centro entre Mendoza y Buenos Aires)
-  const [position] = useState([-33.7, -63.5])
+  // Posición inicial del mapa (centro entre Mendoza y Buenos Aires o ubicación del usuario)
+  const [position, setPosition] = useState([-33.7, -63.5])
   const [combinedData, setCombinedData] = useState([])
   
   // Función para extraer texto sin HTML
@@ -16,11 +27,30 @@ const MapComponent = () => {
     return htmlString.replace(/<[^>]*>/g, '').trim();
   }, [])
 
+  // Obtener la ubicación del usuario
+  useEffect(() => {
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+          const { latitude, longitude } = position.coords
+          console.log('📍 User location detected:', latitude, longitude)
+          setPosition([latitude, longitude])
+        },
+        (error) => {
+          console.warn('⚠️ Geolocation error:', error.message)
+          console.log('Using default location: [-33.7, -63.5]')
+        }
+      )
+    } else {
+      console.warn('⚠️ Geolocation is not supported by this browser')
+      console.log('Using default location: [-33.7, -63.5]')
+    }
+  }, [])
+
 
 
   // Función para determinar el color de la ruta basado en el estado
   const getRouteColor = (estado,observaciones) => {
-    console.log(observaciones)
     if (estado === 'HABILITADA' && (observaciones === '' || observaciones.toLowerCase().trim() === 'transitable con normalidad.' || observaciones.toLowerCase().trim() === 'transitable.' || observaciones.toLowerCase().trim() === 'transitable')) return 'green';
     if (estado === 'HABILITADA' && observaciones !== '') return '#25fa25ff';
     if (estado === 'CORTE TOTAL') return 'red';
@@ -71,7 +101,7 @@ const MapComponent = () => {
     // Función para hacer petición al endpoint de Google Sheets
     const fetchGoogleSheetsData = async () => {
       try {
-        console.log('📡 Iniciando petición a Google Sheets API...');
+       // console.log('📡 Iniciando petición a Google Sheets API...');
         const endpoint = 'https://sheets.googleapis.com/v4/spreadsheets/17AqjqeNvM4nG6cOUsUFKFaKXMiNmztYfzHIxeM9FcXk/values/tablavisible?key=AIzaSyCq2wEEKL9-6RmX-TkW23qJsrmnFHFf5tY&alt=json';
         
         const response = await fetch(endpoint);
@@ -82,34 +112,34 @@ const MapComponent = () => {
         
         const data = await response.json();
         
-        console.log('✅ Petición a Google Sheets completada exitosamente');
+        /*console.log('✅ Petición a Google Sheets completada exitosamente');
         console.log('📊 Datos recibidos de Google Sheets:');
         console.log(data);
         console.log('📋 Estructura del resultado:');
         console.log('  - Range:', data.range);
         console.log('  - Major Dimension:', data.majorDimension);
-        console.log('  - Total de filas:', data.values ? data.values.length : 0);
+        console.log('  - Total de filas:', data.values ? data.values.length : 0);*/
         
         if (data.values && data.values.length > 0) {
-          console.log('🔍 Primeras 3 filas de datos:');
-          console.table(data.values.slice(0, 3));
-          console.log('🔚 Últimas 2 filas de datos:');
-          console.table(data.values.slice(-2));
+          //console.log('🔍 Primeras 3 filas de datos:');
+          //console.table(data.values.slice(0, 3));
+          //console.log('🔚 Últimas 2 filas de datos:');
+          //console.table(data.values.slice(-2));
           
           // Procesar los datos de Google Sheets y combinar con routesData
           const combinedResult = combineRoutesDataWithGoogleSheets(data.values);
-          console.log('🔗 Datos combinados con Google Sheets:', combinedResult.length, 'rutas procesadas');
+          //console.log('🔗 Datos combinados con Google Sheets:', combinedResult.length, 'rutas procesadas');
           
           // Actualizar el estado con los datos combinados
           setCombinedData(combinedResult);
-          console.log(combinedResult)
-          window.rutasNacionalesData = combinedResult;
+          //console.log(combinedResult)
+          //window.rutasNacionalesData = combinedResult;
         } else {
           console.warn('⚠️ No se recibieron datos válidos de Google Sheets, usando datos locales como fallback');
           // Fallback: usar datos locales si no hay datos de la API
           const localCombinedData = combineRoutesDataWithGoogleSheets(exampleOnlyRoutesData);
           setCombinedData(localCombinedData);
-          window.rutasNacionalesData = localCombinedData;
+         // window.rutasNacionalesData = localCombinedData;
         }
         
         return data;
@@ -125,7 +155,7 @@ const MapComponent = () => {
         console.log('🔄 Usando datos locales como fallback...');
         const localCombinedData = combineRoutesDataWithGoogleSheets(exampleOnlyRoutesData);
         setCombinedData(localCombinedData);
-        window.rutasNacionalesData = localCombinedData;
+        //window.rutasNacionalesData = localCombinedData;
         
         return null;
       }
@@ -139,9 +169,10 @@ const MapComponent = () => {
     <div style={{ height: '100vh', width: '100%' }}>
       <MapContainer 
         center={position} 
-        zoom={6} 
+        zoom={10} 
         style={{ height: '100%', width: '100%' }}
       >
+        <MapUpdater position={position} />
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

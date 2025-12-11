@@ -51,10 +51,6 @@ const RoutingMachine = ({ routeId, routingData, startPoint, endPoint, routeColor
       routingControlRef.current = routingControl
 
       routingControl.on('routesfound', function(e) {
-        if(routeId== 66){
-          console.log('------------------------------------------------')
-          console.log(e)
-        }
         const routes = e.routes
         const summary = routes[0].summary
         

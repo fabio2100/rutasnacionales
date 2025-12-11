@@ -18,7 +18,7 @@ const MapUpdater = ({ position }) => {
 
 const MapComponent = () => {
   // Posición inicial del mapa (centro entre Mendoza y Buenos Aires o ubicación del usuario)
-  const [position, setPosition] = useState([-33.7, -63.5])
+  const [position, setPosition] = useState([-34.65331209348946, -59.43019193307655])
   const [combinedData, setCombinedData] = useState([])
   
   // Función para extraer texto sin HTML
